@@ -7,17 +7,18 @@ description: >-
   bacteria) had less than 20 units. Another uncomfortable detail: In a 2011
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet.
-dateModified: '2017-12-30T21:09:13.648Z'
-datePublished: '2017-12-30T21:09:15.592Z'
+dateModified: '2017-12-30T21:10:43.621Z'
+datePublished: '2017-12-30T21:10:45.374Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-12-27-in-a-2013-study-british-researchers-swabbed-30-tablets-30.md
-hasPage: false
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-12-27T15:14:59.873Z'
-_type: Blurb
+url: 15-things-you-must-clean-but-almost-never-do/index.html
+_type: Article
 
 ---
 # _**15 things you must clean but almost never do.**_
