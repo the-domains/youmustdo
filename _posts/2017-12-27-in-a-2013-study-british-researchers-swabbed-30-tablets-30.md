@@ -6,9 +6,10 @@ description: >-
   the phones had up to 140 units. The toilet seat (you think its the niche of
   bacteria) had less than 20 units. Another uncomfortable detail: In a 2011
   survey, 75 percent of Americans said they use their smartphones while on the
-  toilet. What you gonna do when you will received your next used smartphone?
-dateModified: '2018-01-01T18:36:34.248Z'
-datePublished: '2018-01-01T18:36:35.607Z'
+  toilet. What you gonna do when you will buy and received your next used
+  smartphone?
+dateModified: '2018-01-01T18:40:19.922Z'
+datePublished: '2018-01-01T18:40:21.065Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -25,7 +26,7 @@ _type: Article
 
 ## \#1.Phones and tablets
 
-In a 2013 study, researchers swabbed 30 tablets, 30 phones and an office toilet seat. The tablets had up to 600 units per swab of staphylococcus, and the phones had up to 140 units. The toilet seat (you think its the niche of bacteria) had less than 20 units. Another uncomfortable detail: In a 2011 survey, 75 percent of Americans said they use their smartphones while on the toilet. What you gonna do when you will received your next [used smartphone][0]?
+In a 2013 study, researchers swabbed 30 tablets, 30 phones and an office toilet seat. The tablets had up to 600 units per swab of staphylococcus, and the phones had up to 140 units. The toilet seat (you think its the niche of bacteria) had less than 20 units. Another uncomfortable detail: In a 2011 survey, 75 percent of Americans said they use their smartphones while on the toilet. What you gonna do when you will buy and received your next [used smartphone][0]?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9acde44c-e611-4f64-a7e7-028c0e14d9e7.png)
 
 **If you are lazy to clean your screen phone get the anti-fingerprint frosted tempered glass:**
@@ -34,7 +35,7 @@ In a 2013 study, researchers swabbed 30 tablets, 30 phones and an office toilet 
 
 ## \#2\. The belt
 
-Hey! what the first thing you touch after the pi and poo? Always _BEFORE_ washing your hands. Think, when did you clean your belt?
+Hey! what the first thing you touch after the pi and poo? Always _**BEFORE**_ washing your hands. Think, when did you clean your belt?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5e85967-64a1-412c-bb82-d60855af5d4b.png)
 [Get 1 on eBay][2]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c9c1590-3b3b-4da4-8319-a31488d0a3c8.png)
