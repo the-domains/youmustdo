@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-01T18:40:19.922Z'
-datePublished: '2018-01-01T18:40:21.065Z'
+dateModified: '2018-01-01T21:33:00.652Z'
+datePublished: '2018-01-01T21:33:04.379Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -42,11 +42,10 @@ Hey! what the first thing you touch after the pi and poo? Always _**BEFORE**_ wa
 
 ## \#3\. Rack & magazines (in toilet and waiting room)
 
-That's disgusting... Please check the _**DATE **_of the **magazines** in the rack on the side of your toilet bowl or on the table at your dentist.
+That's disgusting... Please check the _**DATE **_of the **magazines** in the rack on the side of your toilet bowl or on the table at your dentist waiting room.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7237aac-c6ff-4a78-8e02-fe5995643e0a.png)
 
-Remember. Your toilet has a splash zone, and anything in the radius will probably get contaminated with pi/poo matter. In fact, pushing the handle can send particles splashing and floating **as far as 6 feet away**, according to the Harvard School of Public Health. Tip: Limit the risk by closing the cover before flushing. A 2012 study from the UK found that there were 12 times more germs around toilets bowl.
-[Best match on eBay][3]
+Did you know? Your toilet has a splash zone, and anything in the radius will probably get contaminated with pipi/poo matter. In fact, pushing the handle can send particles splashing and floating **as far as 6 feet away**, according to the Harvard School of Public Health. Tip: Limit the risk by closing the cover before flushing. A study in the UK found that there were 12 times more germs around toilets bowl then on the seat. Why? Mostly because everybody clean the seat more often then all stuff around. [Best match on eBay][3]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5b97419-74b2-4f54-833c-881c4f27a3ca.png)
 
 [0]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_from%3DR40%26_nkw%3Dused%2Biphone%26_in_kw%3D1%26_ex_kw%3D%26_sacat%3D0%26_udlo%3D%26_udhi%3D%26_ftrt%3D901%26_ftrv%3D1%26_sabdlo%3D%26_sabdhi%3D%26_samilow%3D%26_samihi%3D%26_fsradio2%3D%2526LH_PrefLoc%253D1%26_sargn%3D-1%2526saslc%253D1%26_salic%3D1%26LH_SubLocation%3D1%26_sop%3D12%26_dmd%3D1%26_ipg%3D100 "used smartphone"
