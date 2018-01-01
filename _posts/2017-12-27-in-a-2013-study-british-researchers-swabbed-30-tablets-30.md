@@ -7,8 +7,8 @@ description: >-
   bacteria) had less than 20 units. Another uncomfortable detail: In a 2011
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet.
-dateModified: '2018-01-01T11:30:12.973Z'
-datePublished: '2018-01-01T11:30:14.450Z'
+dateModified: '2018-01-01T11:31:41.981Z'
+datePublished: '2018-01-01T11:31:42.991Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -39,9 +39,11 @@ Hey! what the first thing you touch after the pi and poo? Always _BEFORE_ washin
 [Get 1 on eBay][1]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c9c1590-3b3b-4da4-8319-a31488d0a3c8.png)
 
-## \#3\. Rack and magazine (toilet and waiting room)
+## \#3\. Rack & magazines (in toilet and waiting room)
 
-That's disgusting... Please check the _**DATE **_of the **magazines** in the rack on the side of your toilet bowl or on the table at your dentist. [Best match on eBay][2]
+That's disgusting... Please check the _**DATE **_of the **magazines** in the rack on the side of your toilet bowl or on the table at your dentist. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7237aac-c6ff-4a78-8e02-fe5995643e0a.png)
+[Best match on eBay][2]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5b97419-74b2-4f54-833c-881c4f27a3ca.png)
 
 [0]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FNO-Fingerprint-2-5D-9H-Tempered-Glass-Screen-Protector-iphone-frosted-clear-BLUE%2F131902933686%3Fhash%3Ditem1eb6070ab6%3Am%3AmtQNIjAx9gyDdONL33uyyjw
 [1]: https://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fitm%2FMens-Canvas-Belt-Boys-Canvas-Belt-Gents-Canvas-Belt-with-Dirty-Printed-28-40-%2F121777857868
