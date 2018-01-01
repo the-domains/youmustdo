@@ -7,8 +7,8 @@ description: >-
   bacteria) had less than 20 units. Another uncomfortable detail: In a 2011
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet.
-dateModified: '2017-12-30T21:10:43.621Z'
-datePublished: '2017-12-30T21:10:45.374Z'
+dateModified: '2018-01-01T11:30:12.973Z'
+datePublished: '2018-01-01T11:30:14.450Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -34,10 +34,15 @@ In a 2013 study, researchers swabbed 30 tablets, 30 phones and an office toilet 
 
 ## \#2\. The belt
 
-Hey! what the first thing you touch after the pi and poo? And always _BEFORE_ washing your hands. Think, when did you clean your belt?
+Hey! what the first thing you touch after the pi and poo? Always _BEFORE_ washing your hands. Think, when did you clean your belt?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5e85967-64a1-412c-bb82-d60855af5d4b.png)
 [Get 1 on eBay][1]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c9c1590-3b3b-4da4-8319-a31488d0a3c8.png)
 
+## \#3\. Rack and magazine (toilet and waiting room)
+
+That's disgusting... Please check the _**DATE **_of the **magazines** in the rack on the side of your toilet bowl or on the table at your dentist. [Best match on eBay][2]
+
 [0]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FNO-Fingerprint-2-5D-9H-Tempered-Glass-Screen-Protector-iphone-frosted-clear-BLUE%2F131902933686%3Fhash%3Ditem1eb6070ab6%3Am%3AmtQNIjAx9gyDdONL33uyyjw
 [1]: https://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fitm%2FMens-Canvas-Belt-Boys-Canvas-Belt-Gents-Canvas-Belt-with-Dirty-Printed-28-40-%2F121777857868
+[2]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_sop%3D12%26_from%3DR40%26_sacat%3D0%26_nkw%3Dmagazine%2Brack%2Btoilet%2Bholder%26rt%3Dnc%26LH_BIN%3D1
