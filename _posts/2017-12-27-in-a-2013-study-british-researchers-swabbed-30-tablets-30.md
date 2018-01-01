@@ -7,8 +7,8 @@ description: >-
   bacteria) had less than 20 units. Another uncomfortable detail: In a 2011
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet.
-dateModified: '2018-01-01T11:33:05.302Z'
-datePublished: '2018-01-01T11:33:06.513Z'
+dateModified: '2018-01-01T11:34:40.004Z'
+datePublished: '2018-01-01T11:34:42.518Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -41,7 +41,8 @@ Hey! what the first thing you touch after the pi and poo? Always _BEFORE_ washin
 
 ## \#3\. Rack & magazines (in toilet and waiting room)
 
-That's disgusting... Please check the _**DATE **_of the **magazines** in the rack on the side of your toilet bowl or on the table at your dentist. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7237aac-c6ff-4a78-8e02-fe5995643e0a.png)
+That's disgusting... Please check the _**DATE **_of the **magazines** in the rack on the side of your toilet bowl or on the table at your dentist.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7237aac-c6ff-4a78-8e02-fe5995643e0a.png)
 [Best match on eBay][2]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5b97419-74b2-4f54-833c-881c4f27a3ca.png)
 
