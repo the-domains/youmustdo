@@ -7,8 +7,8 @@ description: >-
   bacteria) had less than 20 units. Another uncomfortable detail: In a 2011
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet.
-dateModified: '2018-01-01T11:35:25.674Z'
-datePublished: '2018-01-01T11:35:27.377Z'
+dateModified: '2018-01-01T11:51:28.662Z'
+datePublished: '2018-01-01T11:51:30.303Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -43,6 +43,8 @@ Hey! what the first thing you touch after the pi and poo? Always _BEFORE_ washin
 
 That's disgusting... Please check the _**DATE **_of the **magazines** in the rack on the side of your toilet bowl or on the table at your dentist.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7237aac-c6ff-4a78-8e02-fe5995643e0a.png)
+
+Remember. Your toilet has a splash zone, and anything in the radius will probably get contaminated with pi/poo matter. In fact, pushing the handle can send particles splashing and floating **as far as 6 feet away**, according to the Harvard School of Public Health. Tip: Limit the risk by closing the cover before flushing. A 2012 study from the UK found that there were 12 times more germs around toilets bowl.
 [Best match on eBay][2]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5b97419-74b2-4f54-833c-881c4f27a3ca.png)
 
