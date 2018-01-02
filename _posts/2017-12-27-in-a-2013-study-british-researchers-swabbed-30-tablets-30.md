@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-02T15:12:08.535Z'
-datePublished: '2018-01-02T15:12:09.931Z'
+dateModified: '2018-01-02T15:12:46.056Z'
+datePublished: '2018-01-02T15:12:47.200Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -40,7 +40,7 @@ Hey! what the first thing you touch after the pi and poo? Always _**BEFORE**_ wa
 [Get 1 on eBay][2]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c9c1590-3b3b-4da4-8319-a31488d0a3c8.png)
 
-## \#3\. Rack & magazines (in toilet and waiting room)
+## \#3\. [Rack & magazines][3] (in toilet and waiting room)
 
 That's disgusting... Please check the _**DATE **_of the **magazines** in the rack on the side of your toilet bowl or on the table at your dentist waiting room.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7237aac-c6ff-4a78-8e02-fe5995643e0a.png)
