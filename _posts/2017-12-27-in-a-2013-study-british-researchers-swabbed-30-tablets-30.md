@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-02T16:23:25.184Z'
-datePublished: '2018-01-02T16:23:26.229Z'
+dateModified: '2018-01-02T16:24:03.428Z'
+datePublished: '2018-01-02T16:24:04.579Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -59,7 +59,7 @@ It's worse if you _**don't **_clean correctly your _**ears**_.
 Placing children in grocery carts has been implicated recently as a source of infection with **Salmonella **and **Campylobacter **in young children. This study was conducted to assess the occurrence total bacteria, **coliform bacteria **and **Escherichia coli **on grocery shopping cart handles and seats. Research said there's _**fecal bacteria **_on 72% of shopping Carts.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/389f1351-5832-4806-8f0e-661f4ac30d31.png)
 
-You can [buy some wipes here][6] to bring with you or wash always your hands back home.
+You can**[buy some wipes here][6]** to bring with you or wash always your hands back at home.
 
 [0]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_odkw%3Dapple%2Bearphone%26LH_PrefLoc%3D1%26_ftrt%3D901%26_sop%3D12%26_dmd%3D1%26_osacat%3D0%26_ipg%3D100%26_ftrv%3D1%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR12.TRC2.A0.H0.TRS0%26_nkw%3Dused%2Bsmartphone%26_sacat%3D0
 [1]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FNO-Fingerprint-2-5D-9H-Tempered-Glass-Screen-Protector-iphone-frosted-clear-BLUE%2F131902933686%3Fhash%3Ditem1eb6070ab6%3Am%3AmtQNIjAx9gyDdONL33uyyjw
