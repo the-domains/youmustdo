@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-02T16:24:03.428Z'
-datePublished: '2018-01-02T16:24:04.579Z'
+dateModified: '2018-01-02T16:26:05.313Z'
+datePublished: '2018-01-02T16:26:07.140Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -56,7 +56,7 @@ It's worse if you _**don't **_clean correctly your _**ears**_.
 
 ## \#5\. [Grocery Carts][5]
 
-Placing children in grocery carts has been implicated recently as a source of infection with **Salmonella **and **Campylobacter **in young children. This study was conducted to assess the occurrence total bacteria, **coliform bacteria **and **Escherichia coli **on grocery shopping cart handles and seats. Research said there's _**fecal bacteria **_on 72% of shopping Carts.
+Placing children in grocery carts has been implicated recently as a source of infection with **salmonella **and **campylobacter **in young children. This study was conducted to assess the occurrence total bacteria, **coli-form bacteria **and **escherichia coli **on grocery shopping cart handles and seats. Research said there's _**fecal bacteria **_on 72% of shopping Carts.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/389f1351-5832-4806-8f0e-661f4ac30d31.png)
 
 You can**[buy some wipes here][6]** to bring with you or wash always your hands back at home.
