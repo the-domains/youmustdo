@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-02T15:06:54.410Z'
-datePublished: '2018-01-02T15:06:56.377Z'
+dateModified: '2018-01-02T15:06:58.721Z'
+datePublished: '2018-01-02T15:06:59.467Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
