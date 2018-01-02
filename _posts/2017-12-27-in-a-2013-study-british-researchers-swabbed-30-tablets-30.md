@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-02T15:06:58.721Z'
-datePublished: '2018-01-02T15:06:59.467Z'
+dateModified: '2018-01-02T15:12:08.535Z'
+datePublished: '2018-01-02T15:12:09.931Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -49,7 +49,7 @@ Did you know? Your toilet has a splash zone, and anything in the radius will pro
 [Best match on eBay][3]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5b97419-74b2-4f54-833c-881c4f27a3ca.png)
 
-## \#4\. Headphone
+## \#4\. [Headphones / Earphones][4]
 
 It's worse if you _**don't **_clean correctly your _**ears**_.
 
@@ -57,3 +57,4 @@ It's worse if you _**don't **_clean correctly your _**ears**_.
 [1]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FNO-Fingerprint-2-5D-9H-Tempered-Glass-Screen-Protector-iphone-frosted-clear-BLUE%2F131902933686%3Fhash%3Ditem1eb6070ab6%3Am%3AmtQNIjAx9gyDdONL33uyyjw
 [2]: https://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fitm%2FMens-Canvas-Belt-Boys-Canvas-Belt-Gents-Canvas-Belt-with-Dirty-Printed-28-40-%2F121777857868
 [3]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_sop%3D12%26_from%3DR40%26_sacat%3D0%26_nkw%3Dmagazine%2Brack%2Btoilet%2Bholder%26rt%3Dnc%26LH_BIN%3D1
+[4]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_from%3DR40%26_sacat%3D0%26_udlo%3D%26_udhi%3D%26_ftrt%3D901%26_ftrv%3D1%26_sabdlo%3D%26_sabdhi%3D%26_samilow%3D%26_samihi%3D%26_dmd%3D1%26_ipg%3D100%26_nkw%3Dapple%2Bearphone%26LH_PrefLoc%3D1%26_sop%3D12
