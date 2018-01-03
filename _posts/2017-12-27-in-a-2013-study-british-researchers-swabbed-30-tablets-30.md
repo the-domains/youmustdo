@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-03T23:52:01.025Z'
-datePublished: '2018-01-03T23:52:02.043Z'
+dateModified: '2018-01-03T23:53:31.913Z'
+datePublished: '2018-01-03T23:53:33.079Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -68,7 +68,7 @@ You think its only your bottom shoes? REMEMBER rule at the point \#3 :
 > ...pushing the flush toilet handle can send particles splashing and floating as far as 6 feet away.
 
 So please specially for the man, if you can **SIT** on the bowl when you go to toilet. Imagine the 6 feet splash every time you pee it can goes on the top of your shoes. You don't wash your shoes or slippers every week...watch out. Kelly Reynolds, Ph.D., a microbiologist says: 'We walk through things like bird droppings, dog waste and germs on public **restroom floors**, all of which are sources for E coli,'. Researchers discovered that the transfer of bacteria from shoes to home floors ranged from 90% to 99%. Tip: keep your shoes out of the house or in a **[shoes rack][8]**[.][8] You can buy a quick **[shoe cleaner here][9]**.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4839632-726e-47e0-89bf-c98ed32c1506.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/545e446f-3d54-4cc9-bf32-e46737b942fe.png)
 
 [0]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_odkw%3Dapple%2Bearphone%26LH_PrefLoc%3D1%26_ftrt%3D901%26_sop%3D12%26_dmd%3D1%26_osacat%3D0%26_ipg%3D100%26_ftrv%3D1%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR12.TRC2.A0.H0.TRS0%26_nkw%3Dused%2Bsmartphone%26_sacat%3D0
 [1]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FNO-Fingerprint-2-5D-9H-Tempered-Glass-Screen-Protector-iphone-frosted-clear-BLUE%2F131902933686%3Fhash%3Ditem1eb6070ab6%3Am%3AmtQNIjAx9gyDdONL33uyyjw
