@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-03T11:21:39.022Z'
-datePublished: '2018-01-03T11:21:40.076Z'
+dateModified: '2018-01-03T12:28:14.842Z'
+datePublished: '2018-01-03T12:28:15.841Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -56,10 +56,10 @@ It's worse if you _**don't **_clean correctly your _**ears**_.
 
 ## \#5\. [Grocery Carts][5]
 
-Placing children in grocery carts has been implicated recently as a source of infection with **salmonella **and **campylobacter **in young children. This study was conducted to assess the occurrence total bacteria, **coli-form bacteria **and **escherichia coli **on grocery shopping cart handles and seats. Research said there's _**fecal bacteria **_on 72% of shopping Carts.
+Placing children in grocery carts has been implicated recently as a source of infection with **salmonella **and **campylobacter **in young children. This study was conducted to assess the occurrence total bacteria, **coli-form bacteria **and **escherichia coli **on grocery shopping cart handles and seats. Research said there's _**fecal bacteria **_on **72%** of shopping Carts.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/389f1351-5832-4806-8f0e-661f4ac30d31.png)
 
-You can**[buy some wipes here][6]** to bring with you or wash always your hands back at home.
+You can **[buy some wipes here][6]** to bring with you **or** wash always your hands back at home.
 
 [0]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_odkw%3Dapple%2Bearphone%26LH_PrefLoc%3D1%26_ftrt%3D901%26_sop%3D12%26_dmd%3D1%26_osacat%3D0%26_ipg%3D100%26_ftrv%3D1%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR12.TRC2.A0.H0.TRS0%26_nkw%3Dused%2Bsmartphone%26_sacat%3D0
 [1]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FNO-Fingerprint-2-5D-9H-Tempered-Glass-Screen-Protector-iphone-frosted-clear-BLUE%2F131902933686%3Fhash%3Ditem1eb6070ab6%3Am%3AmtQNIjAx9gyDdONL33uyyjw
@@ -67,4 +67,4 @@ You can**[buy some wipes here][6]** to bring with you or wash always your hands 
 [3]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_sop%3D12%26_from%3DR40%26_sacat%3D0%26_nkw%3Dmagazine%2Brack%2Btoilet%2Bholder%26rt%3Dnc%26LH_BIN%3D1
 [4]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_from%3DR40%26_sacat%3D0%26_udlo%3D%26_udhi%3D%26_ftrt%3D901%26_ftrv%3D1%26_sabdlo%3D%26_sabdhi%3D%26_samilow%3D%26_samihi%3D%26_dmd%3D1%26_ipg%3D100%26_nkw%3Dapple%2Bearphone%26LH_PrefLoc%3D1%26_sop%3D12
 [5]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_odkw%3Dsample%2Bwipes%26LH_PrefLoc%3D1%26_ftrt%3D901%26_sop%3D12%26_dmd%3D1%26_osacat%3D0%26_ipg%3D100%26_ftrv%3D1%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR2.TRC0.A0.H0.Xtravel%2Bwipes.TRS0%26_nkw%3Dtravel%2Bwipes%26_sacat%3D0
-[6]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_odkw%3Dsample%2Bwipes%26LH_PrefLoc%3D1%26_ftrt%3D901%26_sop%3D12%26_dmd%3D1%26_osacat%3D0%26_ipg%3D100%26_ftrv%3D1%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR2.TRC0.A0.H0.Xtravel%2Bwipes.TRS0%26_nkw%3Dtravel%2Bwipes%26_sacat%3D0 "Buy it on eBay"
+[6]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_from%3DR40%26_sacat%3D0%26_nkw%3Danti%2Bbacterial%2Bwipes%26_sop%3D12
