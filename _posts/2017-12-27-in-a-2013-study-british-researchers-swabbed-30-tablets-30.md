@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-03T22:19:25.858Z'
-datePublished: '2018-01-03T22:19:27.241Z'
+dateModified: '2018-01-03T22:28:18.398Z'
+datePublished: '2018-01-03T22:28:19.769Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -26,7 +26,7 @@ _type: Article
 
 ## \#1\.[Phones and tablets][0]
 
-In a 2013 study, researchers swabbed 30 tablets, 30 phones and an office toilet seat. The tablets had up to 600 units per swab of staphylococcus, and the phones had up to 140 units. The toilet seat (you think its the niche of bacteria) had less than 20 units. Another uncomfortable detail: In a 2011 survey, 75 percent of Americans said they use their smartphones while on the toilet. What you gonna do when you will buy and received your next [used smartphone][0]?
+In a 2013 study, researchers swabbed 30 tablets, 30 phones and an office toilet seat. The tablets had up to 600 units per swab of staphylococcus, and the phones had up to 140 units. The toilet seat (you think its the niche of bacteria) had less than 20 units. Another uncomfortable detail: In a 2011 survey, 75 percent of Americans said they use their smartphones while on the toilet. What you gonna do when you will buy and received your next **[used smartphone][0]**?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9acde44c-e611-4f64-a7e7-028c0e14d9e7.png)
 
 **If you are lazy to clean your screen phone get the anti-fingerprint frosted tempered glass:**
@@ -45,7 +45,7 @@ Hey! what the first thing you touch after the pi and poo? Always _**BEFORE**_ wa
 That's disgusting... Please check the _**DATE **_of the **magazines** in the rack on the side of your toilet bowl or on the table at your dentist waiting room.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7237aac-c6ff-4a78-8e02-fe5995643e0a.png)
 
-Did you know? Your toilet has a splash zone, and anything in the radius will probably get contaminated with pipi/poo matter. In fact, pushing the handle can send particles splashing and floating **as far as 6 feet away**, according to the Harvard School of Public Health. Tip: Limit the risk by closing the cover before flushing. A study in the UK found that there were 12 times more germs around toilets bowl then on the seat. Why? Mostly because everybody clean the seat more often then all stuff around.
+Did you know? Your toilet has a splash zone, and anything in the radius will probably get contaminated with pipi/poo matter. In fact, flushing the toilet can send particles splashing and floating **as far as 6 feet away**, according to the Harvard School of Public Health. Tip: Limit the risk by closing the cover before flushing. A study in the UK found that there were 12 times more germs around toilets bowl then on the seat. Why? Mostly because everybody clean the seat more often then all stuff around.
 [Best match on eBay][3]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5b97419-74b2-4f54-833c-881c4f27a3ca.png)
 
@@ -67,7 +67,8 @@ You think its only your bottom shoes? REMEMBER rule at the point \#3 :
 
 > ...pushing the flush toilet handle can send particles splashing and floating as far as 6 feet away.
 
-So please specially for the man, if you can **SIT** on the bowl when you go to toilet. Imagine the 6 feet splash every time you pipi it can goes on the top of your shoes. You don't wash your shoes or slippers every week...watch out. Kelly Reynolds, Ph.D., a microbiologist says: 'We walk through things like bird droppings, dog waste and germs on public restroom floors, all of which are sources for E coli,'. Researchers discovered that the transfer of bacteria from shoes to home floors ranged from 90% to 99%. Tip: keep your shoes out of the house or in a [shoes rack.][8]
+So please specially for the man, if you can **SIT** on the bowl when you go to toilet. Imagine the 6 feet splash every time you pipi it can goes on the top of your shoes. You don't wash your shoes or slippers every week...watch out. Kelly Reynolds, Ph.D., a microbiologist says: 'We walk through things like bird droppings, dog waste and germs on public **restroom floors**, all of which are sources for E coli,'. Researchers discovered that the transfer of bacteria from shoes to home floors ranged from 90% to 99%. Tip: keep your shoes out of the house or in a **[shoes rack][8]**[.][8] You can buy a quick **[shoe cleaner here][9]**.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4839632-726e-47e0-89bf-c98ed32c1506.png)
 
 [0]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_odkw%3Dapple%2Bearphone%26LH_PrefLoc%3D1%26_ftrt%3D901%26_sop%3D12%26_dmd%3D1%26_osacat%3D0%26_ipg%3D100%26_ftrv%3D1%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR12.TRC2.A0.H0.TRS0%26_nkw%3Dused%2Bsmartphone%26_sacat%3D0
 [1]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FNO-Fingerprint-2-5D-9H-Tempered-Glass-Screen-Protector-iphone-frosted-clear-BLUE%2F131902933686%3Fhash%3Ditem1eb6070ab6%3Am%3AmtQNIjAx9gyDdONL33uyyjw
@@ -78,3 +79,4 @@ So please specially for the man, if you can **SIT** on the bowl when you go to t
 [6]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_from%3DR40%26_sacat%3D0%26_nkw%3Danti%2Bbacterial%2Bwipes%26_sop%3D12
 [7]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2FClothing-Shoes-Accessories%2F11450%2Fi.html%3F_from%3DR40%26_nkw%3Dshoes%26_sop%3D12
 [8]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_sop%3D12%26_from%3DR40%26_sacat%3D0%26_oac%3D1%26_nkw%3Dshoes%2Brack%26rt%3Dnc%26_dmd%3D2
+[9]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_odkw%3Dshoes%2Brack%26_sop%3D12%26_dmd%3D2%26_oac%3D1%26_osacat%3D0%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR11.TRC1.A0.H0.Xshoes%2Bcleaner.TRS0%26_nkw%3Dshoes%2Bcleaner%26_sacat%3D0
