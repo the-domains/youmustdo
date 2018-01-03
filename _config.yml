@@ -10,7 +10,15 @@ color:
     - '#EFECCA'
     - '#046380'
     - '#002F2F'
+github: true
 layout_spectrum: 0.13913944317027926
+analytics:
+  google: UA-111724558-1
+  twitter: '@youmustdo1'
+author:
+  email: youmustdo1@gmail.com
+  name: youmustdo
+  url: 'https://thegrid.ai/youmustdo'
 name: youmustdo
 colors:
   brandColors:
@@ -20,7 +28,7 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: Copyright © 2018 youmustdo All rights reserved.
+  - name: About us
     id: e7546cb5-6df9-44b4-a191-3086fec8b670
     type: content
 title: You must do
@@ -33,32 +41,24 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/a110832a-52df-4c60-910e-0ed7e95f01ff.png
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Things you must do but maybe never do. Scroll down you'll be shocked!
-analytics:
-  google: UA-111724558-1
-  twitter: '@youmustdo1'
 purpose:
   - type: contact
     url: 'mailto:youmustdo1@gmail.com'
     label: Contact us for any suggestion
-github: true
-author:
-  email: youmustdo1@gmail.com
-  name: youmustdo
-  url: 'https://thegrid.ai/youmustdo'
