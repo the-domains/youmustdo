@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-03T22:30:14.671Z'
-datePublished: '2018-01-03T22:30:15.701Z'
+dateModified: '2018-01-03T22:30:33.613Z'
+datePublished: '2018-01-03T22:30:35.121Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -45,7 +45,7 @@ Hey! what the first thing you touch after the pi and poo? Always _**BEFORE**_ wa
 That's disgusting... Please check the _**DATE **_of the **magazines** in the rack on the side of your toilet bowl or on the table at your dentist waiting room.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7237aac-c6ff-4a78-8e02-fe5995643e0a.png)
 
-Did you know? Your toilet has a splash zone, and anything in the radius will probably get contaminated with pipi/poo matter. In fact, flushing the toilet can send particles splashing and floating **as far as 6 feet away**, according to the Harvard School of Public Health. Tip: Limit the risk by closing the cover before flushing. A study in the UK found that there were 12 times more germs around toilets bowl then on the seat. Why? Mostly because everybody clean the seat more often then all stuff around.
+Did you know? Your toilet has a splash zone, and anything in the radius will probably get contaminated with pee/poo matter. In fact, flushing the toilet can send particles splashing and floating **as far as 6 feet away**, according to the Harvard School of Public Health. Tip: Limit the risk by closing the cover before flushing. A study in the UK found that there were 12 times more germs around toilets bowl then on the seat. Why? Mostly because everybody clean the seat more often then all stuff around.
 [Best match on eBay][3]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5b97419-74b2-4f54-833c-881c4f27a3ca.png)
 
