@@ -31,6 +31,9 @@ navigation:
   - name: Follow our twitter
     url: 'https://twitter.com/youmustdo1'
     type: external
+  - name: About us
+    id: cb56b9dd-a8c2-421d-ae1e-cb9376e4ab5b
+    type: content
 title: You must do
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -41,20 +44,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/894a9bd8-d838-489a-81f5-97cf66b4fd3a.png
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
