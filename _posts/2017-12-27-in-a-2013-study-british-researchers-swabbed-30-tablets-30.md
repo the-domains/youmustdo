@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-03T22:01:39.980Z'
-datePublished: '2018-01-03T22:01:41.352Z'
+dateModified: '2018-01-03T22:19:25.858Z'
+datePublished: '2018-01-03T22:19:27.241Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -63,7 +63,7 @@ You can **[buy some wipes here][6]** to bring with you **or** wash always your h
 
 ## \#6\. [Shoes & slippers][7]
 
-You think its only your bottom shoes? REMEMBER the point \#3 :
+You think its only your bottom shoes? REMEMBER rule at the point \#3 :
 
 > ...pushing the flush toilet handle can send particles splashing and floating as far as 6 feet away.
 
