@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-03T21:44:44.195Z'
-datePublished: '2018-01-03T21:44:45.187Z'
+dateModified: '2018-01-03T22:01:39.980Z'
+datePublished: '2018-01-03T22:01:41.352Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -63,11 +63,11 @@ You can **[buy some wipes here][6]** to bring with you **or** wash always your h
 
 ## \#6\. [Shoes & slippers][7]
 
-REMEMBER 
-> 
+You think its only your bottom shoes? REMEMBER the point \#3 :
+
 > ...pushing the flush toilet handle can send particles splashing and floating as far as 6 feet away.
 
-So please specially for the man, if you can SIT on the bowl when you go to toilet. Imagine the 6 feet splash every time you pipi it can goes on the top of your shoes. You don't wash your shoes or slippers every week...watch out.
+So please specially for the man, if you can **SIT** on the bowl when you go to toilet. Imagine the 6 feet splash every time you pipi it can goes on the top of your shoes. You don't wash your shoes or slippers every week...watch out. Kelly Reynolds, Ph.D., a microbiologist says: 'We walk through things like bird droppings, dog waste and germs on public restroom floors, all of which are sources for E coli,'. Researchers discovered that the transfer of bacteria from shoes to home floors ranged from 90% to 99%. Tip: keep your shoes out of the house or in a [shoes rack.][8]
 
 [0]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_odkw%3Dapple%2Bearphone%26LH_PrefLoc%3D1%26_ftrt%3D901%26_sop%3D12%26_dmd%3D1%26_osacat%3D0%26_ipg%3D100%26_ftrv%3D1%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR12.TRC2.A0.H0.TRS0%26_nkw%3Dused%2Bsmartphone%26_sacat%3D0
 [1]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FNO-Fingerprint-2-5D-9H-Tempered-Glass-Screen-Protector-iphone-frosted-clear-BLUE%2F131902933686%3Fhash%3Ditem1eb6070ab6%3Am%3AmtQNIjAx9gyDdONL33uyyjw
@@ -77,3 +77,4 @@ So please specially for the man, if you can SIT on the bowl when you go to toile
 [5]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_odkw%3Dsample%2Bwipes%26LH_PrefLoc%3D1%26_ftrt%3D901%26_sop%3D12%26_dmd%3D1%26_osacat%3D0%26_ipg%3D100%26_ftrv%3D1%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR2.TRC0.A0.H0.Xtravel%2Bwipes.TRS0%26_nkw%3Dtravel%2Bwipes%26_sacat%3D0
 [6]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_from%3DR40%26_sacat%3D0%26_nkw%3Danti%2Bbacterial%2Bwipes%26_sop%3D12
 [7]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2FClothing-Shoes-Accessories%2F11450%2Fi.html%3F_from%3DR40%26_nkw%3Dshoes%26_sop%3D12
+[8]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_sop%3D12%26_from%3DR40%26_sacat%3D0%26_oac%3D1%26_nkw%3Dshoes%2Brack%26rt%3Dnc%26_dmd%3D2
