@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-03T23:31:46.126Z'
-datePublished: '2018-01-03T23:31:47.438Z'
+dateModified: '2018-01-03T23:51:46.663Z'
+datePublished: '2018-01-03T23:51:47.643Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -47,7 +47,7 @@ That's disgusting... Please check the _**DATE **_of the **magazines** in the rac
 
 Did you know? Your toilet has a splash zone, and anything in the radius will probably get contaminated with pee/poo matter. In fact, flushing the toilet can send particles splashing and floating **as far as 6 feet away**, according to the Harvard School of Public Health. Tip: Limit the risk by closing the cover before flushing. A study in the UK found that there were 12 times more germs around toilets bowl then on the seat. Why? Mostly because everybody clean the seat more often then all stuff around.
 [Best match on eBay][3]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5b97419-74b2-4f54-833c-881c4f27a3ca.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d1f57ee-75b9-4937-b1a2-1a2aee55897a.png)
 
 ## \#4\. [Headphones / Earphones][4]
 
