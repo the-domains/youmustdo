@@ -42,7 +42,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -53,6 +52,7 @@ content:
 description: Things you must do but maybe never do. Scroll down you'll be shocked!
 analytics:
   google: UA-111724558-1
+  twitter: '@youmustdo1'
 purpose:
   - type: contact
     url: 'mailto:youmustdo1@gmail.com'
