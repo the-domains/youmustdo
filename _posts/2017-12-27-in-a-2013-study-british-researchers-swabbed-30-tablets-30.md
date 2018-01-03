@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-03T22:28:18.398Z'
-datePublished: '2018-01-03T22:28:19.769Z'
+dateModified: '2018-01-03T22:30:11.796Z'
+datePublished: '2018-01-03T22:30:13.440Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -67,7 +67,7 @@ You think its only your bottom shoes? REMEMBER rule at the point \#3 :
 
 > ...pushing the flush toilet handle can send particles splashing and floating as far as 6 feet away.
 
-So please specially for the man, if you can **SIT** on the bowl when you go to toilet. Imagine the 6 feet splash every time you pipi it can goes on the top of your shoes. You don't wash your shoes or slippers every week...watch out. Kelly Reynolds, Ph.D., a microbiologist says: 'We walk through things like bird droppings, dog waste and germs on public **restroom floors**, all of which are sources for E coli,'. Researchers discovered that the transfer of bacteria from shoes to home floors ranged from 90% to 99%. Tip: keep your shoes out of the house or in a **[shoes rack][8]**[.][8] You can buy a quick **[shoe cleaner here][9]**.
+So please specially for the man, if you can **SIT** on the bowl when you go to toilet. Imagine the 6 feet splash every time you pee it can goes on the top of your shoes. You don't wash your shoes or slippers every week...watch out. Kelly Reynolds, Ph.D., a microbiologist says: 'We walk through things like bird droppings, dog waste and germs on public **restroom floors**, all of which are sources for E coli,'. Researchers discovered that the transfer of bacteria from shoes to home floors ranged from 90% to 99%. Tip: keep your shoes out of the house or in a **[shoes rack][8]**[.][8] You can buy a quick **[shoe cleaner here][9]**.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4839632-726e-47e0-89bf-c98ed32c1506.png)
 
 [0]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_odkw%3Dapple%2Bearphone%26LH_PrefLoc%3D1%26_ftrt%3D901%26_sop%3D12%26_dmd%3D1%26_osacat%3D0%26_ipg%3D100%26_ftrv%3D1%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR12.TRC2.A0.H0.TRS0%26_nkw%3Dused%2Bsmartphone%26_sacat%3D0
