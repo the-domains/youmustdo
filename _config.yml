@@ -27,10 +27,6 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-navigation:
-  - name: About us
-    id: e7546cb5-6df9-44b4-a191-3086fec8b670
-    type: content
 title: You must do
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
