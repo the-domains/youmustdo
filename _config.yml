@@ -32,55 +32,7 @@ navigation:
     url: 'https://twitter.com/youmustdo1'
     type: external
 title: You must do
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/282bf4be-b131-4e55-bd63-1a0c5785c87c.png">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/282bf4be-b131-4e55-bd63-1a0c5785c87c.png
-    metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0715b252-f8f2-414d-9d5b-4127ae35bcd1.png">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/0715b252-f8f2-414d-9d5b-4127ae35bcd1.png
-    metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: Things you must do but maybe never do. Scroll down you'll be shocked!
 purpose:
   - type: contact
