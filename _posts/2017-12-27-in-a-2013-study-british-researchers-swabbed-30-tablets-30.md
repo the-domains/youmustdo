@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-04T20:36:02.055Z'
-datePublished: '2018-01-04T20:36:03.415Z'
+dateModified: '2018-01-04T20:36:19.727Z'
+datePublished: '2018-01-04T20:36:21.025Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -74,6 +74,8 @@ So please specially for the man, if you can **SIT** on the bowl when you go to t
 
 I'm sorry for the picture but if you need to clean your tongue do it every-time as you brush your teeth. The microbes living on the tongue have been referred to as "bad breath factories." A recent study published by the American Dental Association confirmed people whose tongues contain large colonies of anaerobic bacteria more often have stronger smelling breath than those whose tongues are clean. You can find **[tongue scraper cleaner here.][10]**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f5d1ca9-fc00-41ed-8fe2-1e335733d37c.png)
+
+## \#8...
 
 [0]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_odkw%3Dapple%2Bearphone%26LH_PrefLoc%3D1%26_ftrt%3D901%26_sop%3D12%26_dmd%3D1%26_osacat%3D0%26_ipg%3D100%26_ftrv%3D1%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR12.TRC2.A0.H0.TRS0%26_nkw%3Dused%2Bsmartphone%26_sacat%3D0
 [1]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FNO-Fingerprint-2-5D-9H-Tempered-Glass-Screen-Protector-iphone-frosted-clear-BLUE%2F131902933686%3Fhash%3Ditem1eb6070ab6%3Am%3AmtQNIjAx9gyDdONL33uyyjw
