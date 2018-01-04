@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-04T10:57:33.898Z'
-datePublished: '2018-01-04T10:57:35.372Z'
+dateModified: '2018-01-04T20:01:58.288Z'
+datePublished: '2018-01-04T20:02:02.408Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -35,7 +35,7 @@ In a 2013 study, researchers swabbed 30 tablets, 30 phones and an office toilet 
 
 ## \#2\. [The belt][2]
 
-Hey! what the first thing you touch after the pi and poo? Always _**BEFORE**_ washing your hands. Think, when did you clean your belt?
+Hey! what the first thing you touch after the pee and poo? Always _**BEFORE**_ washing your hands. Think, when did you clean your belt?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5e85967-64a1-412c-bb82-d60855af5d4b.png)
 [Get 1 on eBay][2]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c9c1590-3b3b-4da4-8319-a31488d0a3c8.png)
