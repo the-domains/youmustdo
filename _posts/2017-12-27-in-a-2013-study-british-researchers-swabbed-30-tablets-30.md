@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-05T14:30:23.888Z'
-datePublished: '2018-01-05T14:30:25.223Z'
+dateModified: '2018-01-05T14:31:57.927Z'
+datePublished: '2018-01-05T14:32:02.199Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -42,14 +42,8 @@ Hey! what the first thing you touch after the pee and poo? Always _**BEFORE**_ w
 
 ## \#3\. [Rack & magazines][3] (in toilet and waiting room)
 
-## \#3\. [Rack & magazines][3] (in toilet and waiting room)
-
-That's disgusting... Please check the _**DATE **_of the **magazines** in the rack on the side of your toilet bowl or on the table at your dentist waiting room.
-
 That's disgusting... Please check the _**DATE **_of the **magazines** in the rack on the side of your toilet bowl or on the table at your dentist waiting room.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7237aac-c6ff-4a78-8e02-fe5995643e0a.png)
-
-Did you know? Your toilet has a splash zone, and anything in the radius will probably get contaminated with pee/poo matter. In fact, flushing the toilet can send particles splashing and floating **as far as 6 feet away**, according to the Harvard School of Public Health. Tip: Limit the risk by closing the cover before flushing. A study in the UK found that there were 12 times more germs around toilets bowl then on the seat. Why? Mostly because everybody clean the seat more often then all stuff around.
 
 Did you know? Your toilet has a splash zone, and anything in the radius will probably get contaminated with pee/poo matter. In fact, flushing the toilet can send particles splashing and floating **as far as 6 feet away**, according to the Harvard School of Public Health. Tip: Limit the risk by closing the cover before flushing. A study in the UK found that there were 12 times more germs around toilets bowl then on the seat. Why? Mostly because everybody clean the seat more often then all stuff around.
 [Best match on eBay][3]
@@ -57,31 +51,17 @@ Did you know? Your toilet has a splash zone, and anything in the radius will pro
 
 ## \#4\. [Headphones / Earphones][4]
 
-## \#4\. [Headphones / Earphones][4]
-
-It's worse if you _**don't **_clean correctly your _**ears**_.
-
 It's worse if you _**don't **_clean correctly your _**ears**_.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/856a1888-c002-4e6b-96dc-8b832d54af66.png)
 
 ## \#5\. [Grocery Carts][5]
-
-## \#5\. [Grocery Carts][5]
-
-Placing children in grocery carts has been implicated recently as a source of infection with **salmonella **and **campylobacter **in young children. This study was conducted to assess the occurrence total bacteria, **coli-form bacteria **and **escherichia coli **on grocery shopping cart handles and seats. Research said there's _**fecal bacteria **_on **72%** of shopping Carts.
 
 Placing children in grocery carts has been implicated recently as a source of infection with **salmonella **and **campylobacter **in young children. This study was conducted to assess the occurrence total bacteria, **coli-form bacteria **and **escherichia coli **on grocery shopping cart handles and seats. Research said there's _**fecal bacteria **_on **72%** of shopping Carts.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/389f1351-5832-4806-8f0e-661f4ac30d31.png)
 
 You can **[buy some wipes here][6]** to bring with you **or** wash always your hands back at home.
 
-You can **[buy some wipes here][6]** to bring with you **or** wash always your hands back at home.
-
 ## \#6\. [Shoes & slippers][7]
-
-## \#6\. [Shoes & slippers][7]
-
-You think its only your bottom shoes? REMEMBER rule at the point \#3 :
 
 You think its only your bottom shoes? REMEMBER rule at the point \#3 :
 
@@ -94,23 +74,13 @@ So please specially for the man, if you can **SIT** on the bowl when you go to t
 
 ## \#7 [Your tongue][10]
 
-## \#7 [Your tongue][10]
-
-I'm sorry for the picture but if you need to clean your tongue do it every-time as you brush your teeth. The microbes living on the tongue have been referred to as "bad breath factories." A recent study published by the American Dental Association confirmed people whose tongues contain large colonies of anaerobic bacteria more often have stronger smelling breath than those whose tongues are clean. You can find **[tongue scraper cleaner here.][10]**
-
 I'm sorry for the picture but if you need to clean your tongue do it every-time as you brush your teeth. The microbes living on the tongue have been referred to as "bad breath factories." A recent study published by the American Dental Association confirmed people whose tongues contain large colonies of anaerobic bacteria more often have stronger smelling breath than those whose tongues are clean. You can find **[tongue scraper cleaner here.][10]**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f5d1ca9-fc00-41ed-8fe2-1e335733d37c.png)
 
 ## \#8 **[Key-chains][11]**
 
-## \#8 **[Key-chains][11]**
-
-[Keys][11] are mostly the thing that will be never washed.
-
 [Keys][11] are mostly the thing that will be never washed.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5bfb472-f6d6-494b-b45b-ed97481a656b.png)
-
-\#9 ...
 
 \#9 ...
 
