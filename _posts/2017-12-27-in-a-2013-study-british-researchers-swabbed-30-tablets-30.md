@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-05T19:22:10.934Z'
-datePublished: '2018-01-05T19:22:13.510Z'
+dateModified: '2018-01-05T21:22:20.311Z'
+datePublished: '2018-01-05T21:22:33.795Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -80,7 +80,11 @@ I'm sorry for the picture but if you need to clean your tongue do it every-time 
 [Keys][11] are mostly the thing that will be never washed.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5bfb472-f6d6-494b-b45b-ed97481a656b.png)
 
-\#9 ...
+## \#9 **[Bank cards][12]**
+
+A small new study from England reveals that as many as **[1 in 10 bank cards][12]** have fecal bacteria on them. And one in seven bills 14% are contaminated with the bacteria.
+
+"People may tell us they wash their hands but the research shows us different, and highlights just how easily transferable these pathogens are surviving on our money and cards," study researcher Dr. Ron Cutler, of Queen Mary, University of London, said in a statement. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbf183e2-7bff-4bd7-94f6-9ddbf677c08e.png)
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1kc1OwzAQhO99isUIbklaUCV-knDiDSquaJtsYoMTV95NQ3h6HBrSClXcuPgwOx7NfpsiaE9VprTIjh-SRHojQj4uXJOwRk9PYfzKvsikD-_V-lmqXkFhkTlTkzv6dkbbTsS1CkoUjNh8UqYs-pomRehDMrXRpq0ZBtdB07FA6SD8gwaHLUFLe_JBiuHFsJHRdX15e_9oLYQpa1e8U3kx5XXenvTWVHtTxmiS8GlMLt3k2xvM1CyuJlUja8GaT0bTxGJbZ4rmRbTro8J1bShfoWVS-aYnkjTBPOXCm50A8tAWMFKaC-0sSuV8E58S7U1Zk3D8xgFhYMYUQjupojuVp8khLF8sUvwNWExD1rR0vmKIFZ2p1c1y-bMdmVqH7PWsBEDNeJBRV38c_Qjq7OUPuzNsBzg6RxTwLyy-AOam7XQ" height="700" style=""></iframe>
 
@@ -100,3 +104,4 @@ I'm sorry for the picture but if you need to clean your tongue do it every-time 
 [9]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_odkw%3Dshoes%2Brack%26_sop%3D12%26_dmd%3D2%26_oac%3D1%26_osacat%3D0%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR11.TRC1.A0.H0.Xshoes%2Bcleaner.TRS0%26_nkw%3Dshoes%2Bcleaner%26_sacat%3D0
 [10]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_from%3DR40%26_sacat%3D0%26LH_BIN%3D1%26_nkw%3Dtongue%2Bscraper%26_sop%3D12
 [11]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_from%3DR40%26_sacat%3D0%26_nkw%3Dkeychain%26_sop%3D12
+[12]: https://share.payoneer.com/nav/4nPlwp9j0q_4LJV5mnv2WLIUCcVg-NW_VzXnPgd5X-28ej-4dp7HYlj3UvHjJ5jYpEYe_kPuUewrC25BvjrVNw2
