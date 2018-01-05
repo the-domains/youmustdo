@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-05T14:38:04.475Z'
-datePublished: '2018-01-05T14:38:06.159Z'
+dateModified: '2018-01-05T14:39:28.853Z'
+datePublished: '2018-01-05T14:39:32.520Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -85,8 +85,6 @@ I'm sorry for the picture but if you need to clean your tongue do it every-time 
 \#9 ...
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNUMtOhTAQ_ZWxRndAjDHxQXHlH9y4NXPLQKulJZ3hIn69RQlhM4vzyplTI9hEnVZWZOTnqpLZiVAqTRwqtpjoNdMfnIyWOd-bhzfpZgXGI7NWm7r4UxbnSSQGBS0KFux-SCuPqacNEfoWrU7WhZ5hiRMMEwu0EbIPBlzOBIEulDJUwrtjJ6vq9vr-6cV7yCzbaL6ovdrypuQPvS31ybUluiqb1uQ2brqLQ6128G5DLbIV7PlAbYzH0GtF-yM2zoWJU8jlO_RMqjnNRFJX2NRskhsFkJdgYF1pLzR6lC6moTwuOru2J-Hyk_OEeTOmHDpJVzyqpq7-w5pfBxKP7A" height="244" style=""></iframe>
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9js0KwjAQhF9lWfDY5iSINPGib9C7rMm2ifSP7NbQt7eieJnTN99MQ-AHErGoJalyrjSNPKSJEQIpVQNNvUWeEGLmzmJUXeRsjEbucwo1JbPN67iKhvmyE3fJ3mrZ83C8aVfQtYVZBR4btN-JK78aQw4a8TktCiTb5OHT-9uXgbSb81j_XtV-Hk1Jod9N9VMQfKQsrBZX7aoTusZ8Ze4N6J9LNw" height="244" style=""></iframe>
 
 
 
