@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-04T22:01:02.641Z'
-datePublished: '2018-01-04T22:01:03.593Z'
+dateModified: '2018-01-05T11:25:12.655Z'
+datePublished: '2018-01-05T11:25:14.569Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -75,7 +75,9 @@ So please specially for the man, if you can **SIT** on the bowl when you go to t
 I'm sorry for the picture but if you need to clean your tongue do it every-time as you brush your teeth. The microbes living on the tongue have been referred to as "bad breath factories." A recent study published by the American Dental Association confirmed people whose tongues contain large colonies of anaerobic bacteria more often have stronger smelling breath than those whose tongues are clean. You can find **[tongue scraper cleaner here.][10]**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f5d1ca9-fc00-41ed-8fe2-1e335733d37c.png)
 
-## \#8...
+## \#8 **[Key-chains][11]**
+
+[Keys][11] are mostly the thing that will be never washed. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5bfb472-f6d6-494b-b45b-ed97481a656b.png)
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNUMtOhTAQ_ZWxRndAjDHxQXHlH9y4NXPLQKulJZ3hIn69RQlhM4vzyplTI9hEnVZWZOTnqpLZiVAqTRwqtpjoNdMfnIyWOd-bhzfpZgXGI7NWm7r4UxbnSSQGBS0KFux-SCuPqacNEfoWrU7WhZ5hiRMMEwu0EbIPBlzOBIEulDJUwrtjJ6vq9vr-6cV7yCzbaL6ovdrypuQPvS31ybUluiqb1uQ2brqLQ6128G5DLbIV7PlAbYzH0GtF-yM2zoWJU8jlO_RMqjnNRFJX2NRskhsFkJdgYF1pLzR6lC6moTwuOru2J-Hyk_OEeTOmHDpJVzyqpq7-w5pfBxKP7A" height="244" style=""></iframe>
 
@@ -92,3 +94,4 @@ I'm sorry for the picture but if you need to clean your tongue do it every-time 
 [8]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_sop%3D12%26_from%3DR40%26_sacat%3D0%26_oac%3D1%26_nkw%3Dshoes%2Brack%26rt%3Dnc%26_dmd%3D2
 [9]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_odkw%3Dshoes%2Brack%26_sop%3D12%26_dmd%3D2%26_oac%3D1%26_osacat%3D0%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR11.TRC1.A0.H0.Xshoes%2Bcleaner.TRS0%26_nkw%3Dshoes%2Bcleaner%26_sacat%3D0
 [10]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_from%3DR40%26_sacat%3D0%26LH_BIN%3D1%26_nkw%3Dtongue%2Bscraper%26_sop%3D12
+[11]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_from%3DR40%26_sacat%3D0%26_nkw%3Dkeychain%26_sop%3D12
