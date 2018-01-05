@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-05T16:24:33.031Z'
-datePublished: '2018-01-05T16:24:34.614Z'
+dateModified: '2018-01-05T16:25:01.158Z'
+datePublished: '2018-01-05T16:25:02.210Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -51,41 +51,21 @@ Did you know? Your toilet has a splash zone, and anything in the radius will pro
 
 ## \#4\. [Headphones / Earphones][4]
 
-## \#4\. [Headphones / Earphones][4]
-
-It's worse if you _**don't **_clean correctly your _**ears**_.
-
 It's worse if you _**don't **_clean correctly your _**ears**_.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/856a1888-c002-4e6b-96dc-8b832d54af66.png)
 
 ## \#5\. [Grocery Carts][5]
-
-## \#5\. [Grocery Carts][5]
-
-Placing children in grocery carts has been implicated recently as a source of infection with **salmonella **and **campylobacter **in young children. This study was conducted to assess the occurrence total bacteria, **coli-form bacteria **and **escherichia coli **on grocery shopping cart handles and seats. Research said there's _**fecal bacteria **_on **72%** of shopping Carts.
 
 Placing children in grocery carts has been implicated recently as a source of infection with **salmonella **and **campylobacter **in young children. This study was conducted to assess the occurrence total bacteria, **coli-form bacteria **and **escherichia coli **on grocery shopping cart handles and seats. Research said there's _**fecal bacteria **_on **72%** of shopping Carts.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/389f1351-5832-4806-8f0e-661f4ac30d31.png)
 
 You can **[buy some wipes here][6]** to bring with you **or** wash always your hands back at home.
 
-You can **[buy some wipes here][6]** to bring with you **or** wash always your hands back at home.
-
 ## \#6\. [Shoes & slippers][7]
-
-## \#6\. [Shoes & slippers][7]
-
-You think its only your bottom shoes? REMEMBER rule at the point \#3 :
 
 You think its only your bottom shoes? REMEMBER rule at the point \#3 :
 
 > ...pushing the flush toilet handle can send particles splashing and floating as far as 6 feet away.
-
-So please specially for the man, if you can **SIT** on the bowl when you go to toilet. Imagine the 6 feet splash every time you pee it can goes on the top of your shoes. You don't wash your shoes or slippers every week...watch out. Kelly Reynolds, Ph.D., a microbiologist says: 'We walk through things like bird droppings, dog waste and germs on public **restroom floors**, all of which are sources for E coli,'. Researchers discovered that the transfer of bacteria from shoes to home floors ranged from 90% to 99%. Tip: keep your shoes out of the house or in a **[shoes rack][8]**[.][8] You can buy a quick **[shoe cleaner here][9]**.
-
-So please specially for the man, if you can **SIT** on the bowl when you go to toilet. Imagine the 6 feet splash every time you pee it can goes on the top of your shoes. You don't wash your shoes or slippers every week...watch out. Kelly Reynolds, Ph.D., a microbiologist says: 'We walk through things like bird droppings, dog waste and germs on public **restroom floors**, all of which are sources for E coli,'. Researchers discovered that the transfer of bacteria from shoes to home floors ranged from 90% to 99%. Tip: keep your shoes out of the house or in a **[shoes rack][8]**[.][8] You can buy a quick **[shoe cleaner here][9]**.
-
-So please specially for the man, if you can **SIT** on the bowl when you go to toilet. Imagine the 6 feet splash every time you pee it can goes on the top of your shoes. You don't wash your shoes or slippers every week...watch out. Kelly Reynolds, Ph.D., a microbiologist says: 'We walk through things like bird droppings, dog waste and germs on public **restroom floors**, all of which are sources for E coli,'. Researchers discovered that the transfer of bacteria from shoes to home floors ranged from 90% to 99%. Tip: keep your shoes out of the house or in a **[shoes rack][8]**[.][8] You can buy a quick **[shoe cleaner here][9]**.
 
 So please specially for the man, if you can **SIT** on the bowl when you go to toilet. Imagine the 6 feet splash every time you pee it can goes on the top of your shoes. You don't wash your shoes or slippers every week...watch out. Kelly Reynolds, Ph.D., a microbiologist says: 'We walk through things like bird droppings, dog waste and germs on public **restroom floors**, all of which are sources for E coli,'. Researchers discovered that the transfer of bacteria from shoes to home floors ranged from 90% to 99%. Tip: keep your shoes out of the house or in a **[shoes rack][8]**[.][8] You can buy a quick **[shoe cleaner here][9]**.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/545e446f-3d54-4cc9-bf32-e46737b942fe.png)
