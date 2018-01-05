@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-05T16:25:01.158Z'
-datePublished: '2018-01-05T16:25:02.210Z'
+dateModified: '2018-01-05T16:25:05.806Z'
+datePublished: '2018-01-05T16:25:06.666Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -71,10 +71,6 @@ So please specially for the man, if you can **SIT** on the bowl when you go to t
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/545e446f-3d54-4cc9-bf32-e46737b942fe.png)
 
 ## \#7 [Your tongue][10]
-
-## \#7 [Your tongue][10]
-
-I'm sorry for the picture but if you need to clean your tongue do it every-time as you brush your teeth. The microbes living on the tongue have been referred to as "bad breath factories." A recent study published by the American Dental Association confirmed people whose tongues contain large colonies of anaerobic bacteria more often have stronger smelling breath than those whose tongues are clean. You can find **[tongue scraper cleaner here.][10]**
 
 I'm sorry for the picture but if you need to clean your tongue do it every-time as you brush your teeth. The microbes living on the tongue have been referred to as "bad breath factories." A recent study published by the American Dental Association confirmed people whose tongues contain large colonies of anaerobic bacteria more often have stronger smelling breath than those whose tongues are clean. You can find **[tongue scraper cleaner here.][10]**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f5d1ca9-fc00-41ed-8fe2-1e335733d37c.png)
