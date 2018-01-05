@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-05T16:25:14.912Z'
-datePublished: '2018-01-05T16:25:16.250Z'
+dateModified: '2018-01-05T16:25:19.259Z'
+datePublished: '2018-01-05T16:25:20.340Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -79,8 +79,6 @@ I'm sorry for the picture but if you need to clean your tongue do it every-time 
 
 [Keys][11] are mostly the thing that will be never washed.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5bfb472-f6d6-494b-b45b-ed97481a656b.png)
-
-\#9 ...
 
 \#9 ...
 
