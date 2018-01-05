@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-05T16:21:31.525Z'
-datePublished: '2018-01-05T16:21:32.563Z'
+dateModified: '2018-01-05T16:24:29.621Z'
+datePublished: '2018-01-05T16:24:32.513Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -24,28 +24,16 @@ _type: Article
 ---
 # _**15 things you must clean but almost never do.**_
 
-# _**15 things you must clean but almost never do.**_
-
 ## \#1\.[Phones and tablets][0]
-
-## \#1\.[Phones and tablets][0]
-
-In a 2013 study, researchers swabbed 30 tablets, 30 phones and an office toilet seat. The tablets had up to 600 units per swab of staphylococcus, and the phones had up to 140 units. The toilet seat (you think its the niche of bacteria) had less than 20 units. Another uncomfortable detail: In a 2011 survey, 75 percent of Americans said they use their smartphones while on the toilet. What you gonna do when you will buy and received your next **[used smartphone][0]**?
 
 In a 2013 study, researchers swabbed 30 tablets, 30 phones and an office toilet seat. The tablets had up to 600 units per swab of staphylococcus, and the phones had up to 140 units. The toilet seat (you think its the niche of bacteria) had less than 20 units. Another uncomfortable detail: In a 2011 survey, 75 percent of Americans said they use their smartphones while on the toilet. What you gonna do when you will buy and received your next **[used smartphone][0]**?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9acde44c-e611-4f64-a7e7-028c0e14d9e7.png)
-
-**If you are lazy to clean your screen phone get the anti-fingerprint frosted tempered glass:**
 
 **If you are lazy to clean your screen phone get the anti-fingerprint frosted tempered glass:**
 [Buy it on eBay][1]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/73f9dbaa-53fa-44a4-8fd3-ccce3dd99ce6.png)
 
 ## \#2\. [The belt][2]
-
-## \#2\. [The belt][2]
-
-Hey! what the first thing you touch after the pee and poo? Always _**BEFORE**_ washing your hands. Think, when did you clean your belt?
 
 Hey! what the first thing you touch after the pee and poo? Always _**BEFORE**_ washing your hands. Think, when did you clean your belt?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5e85967-64a1-412c-bb82-d60855af5d4b.png)
@@ -54,14 +42,8 @@ Hey! what the first thing you touch after the pee and poo? Always _**BEFORE**_ w
 
 ## \#3\. [Rack & magazines][3] (in toilet and waiting room)
 
-## \#3\. [Rack & magazines][3] (in toilet and waiting room)
-
-That's disgusting... Please check the _**DATE **_of the **magazines** in the rack on the side of your toilet bowl or on the table at your dentist waiting room.
-
 That's disgusting... Please check the _**DATE **_of the **magazines** in the rack on the side of your toilet bowl or on the table at your dentist waiting room.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7237aac-c6ff-4a78-8e02-fe5995643e0a.png)
-
-Did you know? Your toilet has a splash zone, and anything in the radius will probably get contaminated with pee/poo matter. In fact, flushing the toilet can send particles splashing and floating **as far as 6 feet away**, according to the Harvard School of Public Health. Tip: Limit the risk by closing the cover before flushing. A study in the UK found that there were 12 times more germs around toilets bowl then on the seat. Why? Mostly because everybody clean the seat more often then all stuff around.
 
 Did you know? Your toilet has a splash zone, and anything in the radius will probably get contaminated with pee/poo matter. In fact, flushing the toilet can send particles splashing and floating **as far as 6 feet away**, according to the Harvard School of Public Health. Tip: Limit the risk by closing the cover before flushing. A study in the UK found that there were 12 times more germs around toilets bowl then on the seat. Why? Mostly because everybody clean the seat more often then all stuff around.
 [Best match on eBay][3]
