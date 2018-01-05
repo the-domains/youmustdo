@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-05T21:35:02.976Z'
-datePublished: '2018-01-05T21:35:04.620Z'
+dateModified: '2018-01-05T21:39:11.646Z'
+datePublished: '2018-01-05T21:39:13.202Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -84,12 +84,12 @@ I'm sorry for the picture but if you need to clean your tongue do it every-time 
 
 A small new study from England reveals that as many as **[1 in 10 bank cards][12]** have fecal bacteria on them. And one in seven bills 14% are contaminated with the bacteria.
 
-"People may tell us they wash their hands but the research shows us different, and highlights just how easily transferable these pathogens are surviving on our money and cards," study researcher Dr. Ron Cutler, of Queen Mary, University of London, said in a statement. 
+"People may tell us they wash their hands but the research shows us different, and highlights just how easily transferable these pathogens are surviving on our money and cards," study researcher Dr. Ron Cutler, of Queen Mary, University of London, said in a statement.
 
 GET PAID BY MARKETPLACES & DIRECT CLIENTS WORLDWIDE
 
 Quick, low-cost and secure solutions to pay and get paid globally: **[Payoneer][12]**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/856eec4d-59d8-449c-999e-9b2a0e2033d8.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fff165b-7c90-419a-9c9a-97386569c385.png)
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1kc1OwzAQhO99isUIbklaUCV-knDiDSquaJtsYoMTV95NQ3h6HBrSClXcuPgwOx7NfpsiaE9VprTIjh-SRHojQj4uXJOwRk9PYfzKvsikD-_V-lmqXkFhkTlTkzv6dkbbTsS1CkoUjNh8UqYs-pomRehDMrXRpq0ZBtdB07FA6SD8gwaHLUFLe_JBiuHFsJHRdX15e_9oLYQpa1e8U3kx5XXenvTWVHtTxmiS8GlMLt3k2xvM1CyuJlUja8GaT0bTxGJbZ4rmRbTro8J1bShfoWVS-aYnkjTBPOXCm50A8tAWMFKaC-0sSuV8E58S7U1Zk3D8xgFhYMYUQjupojuVp8khLF8sUvwNWExD1rR0vmKIFZ2p1c1y-bMdmVqH7PWsBEDNeJBRV38c_Qjq7OUPuzNsBzg6RxTwLyy-AOam7XQ" height="700" style=""></iframe>
 
