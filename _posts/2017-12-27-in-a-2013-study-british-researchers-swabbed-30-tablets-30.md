@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-05T21:22:20.311Z'
-datePublished: '2018-01-05T21:22:33.795Z'
+dateModified: '2018-01-05T21:22:50.716Z'
+datePublished: '2018-01-05T21:22:51.747Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -80,7 +80,7 @@ I'm sorry for the picture but if you need to clean your tongue do it every-time 
 [Keys][11] are mostly the thing that will be never washed.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5bfb472-f6d6-494b-b45b-ed97481a656b.png)
 
-## \#9 **[Bank cards][12]**
+## \#9 **[Bank cards & money][12]**
 
 A small new study from England reveals that as many as **[1 in 10 bank cards][12]** have fecal bacteria on them. And one in seven bills 14% are contaminated with the bacteria.
 
