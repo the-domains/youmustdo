@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-05T14:30:12.494Z'
-datePublished: '2018-01-05T14:30:14.112Z'
+dateModified: '2018-01-05T14:30:23.888Z'
+datePublished: '2018-01-05T14:30:25.223Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -30,16 +30,10 @@ In a 2013 study, researchers swabbed 30 tablets, 30 phones and an office toilet 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9acde44c-e611-4f64-a7e7-028c0e14d9e7.png)
 
 **If you are lazy to clean your screen phone get the anti-fingerprint frosted tempered glass:**
-
-**If you are lazy to clean your screen phone get the anti-fingerprint frosted tempered glass:**
 [Buy it on eBay][1]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/73f9dbaa-53fa-44a4-8fd3-ccce3dd99ce6.png)
 
 ## \#2\. [The belt][2]
-
-## \#2\. [The belt][2]
-
-Hey! what the first thing you touch after the pee and poo? Always _**BEFORE**_ washing your hands. Think, when did you clean your belt?
 
 Hey! what the first thing you touch after the pee and poo? Always _**BEFORE**_ washing your hands. Think, when did you clean your belt?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5e85967-64a1-412c-bb82-d60855af5d4b.png)
