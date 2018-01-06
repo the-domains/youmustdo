@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-06T21:27:39.456Z'
-datePublished: '2018-01-06T21:27:40.800Z'
+dateModified: '2018-01-06T21:31:01.933Z'
+datePublished: '2018-01-06T21:31:02.977Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -33,7 +33,7 @@ In a 2013 study, researchers swabbed 30 tablets, 30 phones and an office toilet 
 [Buy it on eBay][1]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/73f9dbaa-53fa-44a4-8fd3-ccce3dd99ce6.png)
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtkd1OwkAQhe95iqb3pVhQJFKMD2BCJF43091pWdifZmdQ4endbdVY9HbOd07OzKxJeNVxwucOy5Txg_MDvMEwTTcTMBdbAZETVadBoEHLSZmkIE9W8Sx9-E0Qghf7qgYfkQY04RhgD-KobFspGQlFBAcgZ7PiKglkZZzECA2hf-RYuJcNeB6rYXJE7uv2VQ1cnB0jHlvlbFRfd1cVFevettu7LnlBDYwy2XonT4JpzEps4KT5e-9u74F6L6Pp0AdfqwP5v0mE4Nb5c-SftB5DWtnjcKMbgFosi_p-eQuLGa7mzaqQYl7fFfNGLBoIvnU-vGszWX99k7wo0zy_ZBamw_oZSDpT6DUVzuTvSrbIlDuLB3p87u-1jfcqwzk2P3mfsqG-gw" height="400" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtkc1OwzAQhO99iij3NGmaVq1oingAJCTE2VrZG9dpbEfeLZA8PflBiBSuO5_Hs7MnksG0HHHXYhkzfnJawzvM0_i8Ats7AUReirYBiRYdR2UUg7o5w1n88JvgAPJqnBZGjYwhghrIuyS_A0EJ6xWOECEEefkjj3km2ULgpTpMrshTmimJhd67JRJQG-9G9e11qSis4NawmL8V7SUATTaMtsWAKtLNQP7_SAKj9qEb-aemWUKNcdd5b7U7HIt9lhXH3WafVYfdoSry7THf4n67wRzvzcnoKatxQnrHQ8MDcUrnG5xXp-8TUZBlnKZ94mA9L52Aoo6G5GvpbfphlEam1Dus6fF5aullbKkcSjj_-H0BpR6t3A" height="400" style=""></iframe>
 
 ## \#2\. [The belt][2]
 
