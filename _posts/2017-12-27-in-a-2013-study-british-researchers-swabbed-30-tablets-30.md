@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-06T22:51:34.963Z'
-datePublished: '2018-01-06T22:51:36.805Z'
+dateModified: '2018-01-06T23:10:11.693Z'
+datePublished: '2018-01-06T23:10:14.039Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -105,6 +105,8 @@ Quick, low-cost and secure solutions to pay and get paid globally: **[Payoneer][
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ef683d5-f6f9-45f6-9b2e-ae8684fa9308.jpg)
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVUMtOwzAQ_JXIB9_aOJFVEugWIZWWhziAkOCGtrbjmsZrZBuh8PUYygG0t3nsjGbphojeVCkqYHUdlZ8RztHjZ6AZ6jSlbPxcBV-bWvnzAA1_A9nxEd5jwxVmY0OcIIcpIWlbXiW-QyITQVw0m-bpYbO-ub17vr_aPl5uWz5ACeSjo8P1GhaiFVJKoeTQDz1K1IiLTpi-lbpcxzO4lPAVUynTCp4jqoMj--L0P4JVH07nPbCTtmPV3ji7z8D6gicVw1jSLDAKrNqFqEszVhiP0Tr69X0r8zQaYEfFKQUyZ6z62eaPabWsj3utvgBHNWbA" height="150" style=""></iframe>
+
+\#15 soon...
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1kc1OwzAQhO99isUIbklaUCV-knDiDSquaJtsYoMTV95NQ3h6HBrSClXcuPgwOx7NfpsiaE9VprTIjh-SRHojQj4uXJOwRk9PYfzKvsikD-_V-lmqXkFhkTlTkzv6dkbbTsS1CkoUjNh8UqYs-pomRehDMrXRpq0ZBtdB07FA6SD8gwaHLUFLe_JBiuHFsJHRdX15e_9oLYQpa1e8U3kx5XXenvTWVHtTxmiS8GlMLt3k2xvM1CyuJlUja8GaT0bTxGJbZ4rmRbTro8J1bShfoWVS-aYnkjTBPOXCm50A8tAWMFKaC-0sSuV8E58S7U1Zk3D8xgFhYMYUQjupojuVp8khLF8sUvwNWExD1rR0vmKIFZ2p1c1y-bMdmVqH7PWsBEDNeJBRV38c_Qjq7OUPuzNsBzg6RxTwLyy-AOam7XQ" height="700" style=""></iframe>
 
