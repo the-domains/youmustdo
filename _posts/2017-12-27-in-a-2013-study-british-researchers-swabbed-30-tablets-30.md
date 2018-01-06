@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-06T22:22:12.266Z'
-datePublished: '2018-01-06T22:22:13.601Z'
+dateModified: '2018-01-06T22:27:10.658Z'
+datePublished: '2018-01-06T22:27:12.579Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -100,7 +100,7 @@ Quick, low-cost and secure solutions to pay and get paid globally: **[Payoneer][
 80% of cuddly **[toys][13]** harbour harmful bacteria - while one in four are contaminated with feces. 80% of cuddly toys found to harbour potentially dangerous bacteria. Tests showed 1 in 4 are contaminated with feces. A fifth have never been washed and 75% aren't washed after a child is ill!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ef683d5-f6f9-45f6-9b2e-ae8684fa9308.jpg)
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVUE1LAzEQ_StLDrm1m11C3dVORaitH3hQBL3JNMmmsZuJJBFZf73RCiJzex_zHm_phojeVCkqYHUdlZ8RztHjZ6AZ6jSlbPxcBV-bWvnzAA1_A9nxEd5jwxVmY0OcIIcpIWlbXiW-QyITQVw0m-bpYbO-ub17vr_aPl5uWz5ACeSjo8P1GhaiFVJKoeTQDz1K1IiLTpi-lbpcxzO4lPAVUynTCp4jqoMj--L0P4JVH07nPbCTtmPV3ji7z8D6gicVw1jSLDAKrNqFqEszVhiP0Tr69X0r8zQaYEfFKQUyZ6z62ebPtFrWx7lWX-KBZqA" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVUMtOwzAQ_JXIB9_aPGSVBLpFSKXlIQ4gJLhFW9tJTeN1ZbuKwtdjKAfQ3uaxM5ql6TxanQUvgeW5l3ZGOEeLn45mqMIUorZz6Wyuc2mvHZT8CKLmA5x8ySVG3Ts_QXRTQFJ9ehX4Dom0h-Km3JRvL5v1w-PT-_Pd9vV2W_EOUiAfDB3u17AoqkIIUUjRNV2DAhXioi50UwmVruYRTAj4gSGVqQoePcqDob416h_BstGouAd2UdUs22vT7yOwJuFBejektB4YOZbtnFepGUuMRd8b-vV9K-M0aGBnxSU50lcs-9nmj-m7d-uOmkJrqCU9tqMh5UaI_qTZapmf11x9ASfscuc" height="244" style=""></iframe>
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1kc1OwzAQhO99isUIbklaUCV-knDiDSquaJtsYoMTV95NQ3h6HBrSClXcuPgwOx7NfpsiaE9VprTIjh-SRHojQj4uXJOwRk9PYfzKvsikD-_V-lmqXkFhkTlTkzv6dkbbTsS1CkoUjNh8UqYs-pomRehDMrXRpq0ZBtdB07FA6SD8gwaHLUFLe_JBiuHFsJHRdX15e_9oLYQpa1e8U3kx5XXenvTWVHtTxmiS8GlMLt3k2xvM1CyuJlUja8GaT0bTxGJbZ4rmRbTro8J1bShfoWVS-aYnkjTBPOXCm50A8tAWMFKaC-0sSuV8E58S7U1Zk3D8xgFhYMYUQjupojuVp8khLF8sUvwNWExD1rR0vmKIFZ2p1c1y-bMdmVqH7PWsBEDNeJBRV38c_Qjq7OUPuzNsBzg6RxTwLyy-AOam7XQ" height="700" style=""></iframe>
 
