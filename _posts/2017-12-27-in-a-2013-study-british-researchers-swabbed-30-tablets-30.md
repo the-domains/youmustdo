@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-06T21:20:19.989Z'
-datePublished: '2018-01-06T21:20:20.981Z'
+dateModified: '2018-01-06T21:24:11.715Z'
+datePublished: '2018-01-06T21:24:13.069Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -32,6 +32,8 @@ In a 2013 study, researchers swabbed 30 tablets, 30 phones and an office toilet 
 **If you are lazy to clean your screen phone get the anti-fingerprint frosted tempered glass:**
 [Buy it on eBay][1]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/73f9dbaa-53fa-44a4-8fd3-ccce3dd99ce6.png)
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1kd1OwkAQhe95iqb3UFEsaaQYH8CESLxuxt2xLOxfdqYqPL3bLTEW5XbOdyZnzqxIBOU546PHOmf84mIPHzBM8_UEzMk2QORE4zUINGg5q7McZGcV3-QPvwkOIA7Kto2SPaOIYA_k7PT2AgTZGCexhwghiN0fuc-TZAOBx2qcHJBTmpTEwMnZMRKwVc726uv2IqJinWzbnfPZC2pglNkmONkJpjEr8R06zc0QsfG7AJS8jMZjiL5WR_J_k4iLWxeOPf-k9RjSyh6GjpZYYgnlHKr7qrqrxLJciGoJC8RSzkEuxr5zkjcIKUbo8JreeEeKzyWw85FbFcNX15PV-ekURJ0XxWlqYTbUOAVJR4r3zYQzxaeSLTIVzuKeHp9T75u-9zrWuv7Z9w2lUMyP" height="244" style=""></iframe>
 
 ## \#2\. [The belt][2]
 
