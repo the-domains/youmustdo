@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-06T21:46:16.350Z'
-datePublished: '2018-01-06T21:46:17.479Z'
+dateModified: '2018-01-06T21:48:03.757Z'
+datePublished: '2018-01-06T21:48:04.843Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -33,7 +33,7 @@ In a 2013 study, researchers swabbed 30 tablets, 30 phones and an office toilet 
 [Buy it on eBay][1]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/73f9dbaa-53fa-44a4-8fd3-ccce3dd99ce6.png)
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1U8Fu2zAMvfcrPB10a20rceykUYJ2wLZ2GLqh264GIzG2FlvyJKVu9vWTnQRIB-wmPkrkI9_TUm0ttBg5f2iQk15JXy9SlnSvtzWqqvYLNh0CErVgK6XHC5wk5_h4aQScsKZplK440YZEY92NsRLtMW0FJ3Hcu2sNN9DCH6OvQbqD89jeCNPGoXSF3sW_189oX5TAn2idMpqzJMmTgjH6pPHxmaf0qUMLfkh9RH8nP_m2oV_A7tB_bUAg__FMndnbcHKOWtxycKVzZaNKrxoKsvSHDnlnjdwLH2C9o96C2AXupZJcOQe_wAV-LKHtWLcb6x5Zh4rV0Dt0GeEWtef3Sfr5_tvsYXJHwSntLoGhwYPkWQY55vNUCpln00lasO1UTuUM8zxhImPU1aYvTxvzdo_jw9J0qF2pdKmxL3ulpenHLFkt46N4q6urJUQ-6IFBiXLTgN6RqB4GJ7X3nVuEtff9aenjrqsudghW1GsV1vX9Q0E9VG8HH5q_NxL53rLzCHIiZtsZpsDSidhglrNiWsyyokhZVmTzKRXQdjzNizkVFoNEL8jnE5bRQBtfeWs2qkG6w0MfpnQ8KB-URBlVDThHVm_jZQyrpWqrs3OU_Z9zMOTW_h_6I2_DUxKdPBtOZ7eG44UzoQkQOX-BY2KhjcbonWo7Yz1of3vy-yJ8hkuYRPHqLzwCHmM" height="400" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVkV9v0zAUxd_3KapI-G1L4iZNWuZNGxIwEBqowGt0a98kpo4dfF2y8ulx0yLBm-8fn3P8861uPQy4oHA0KJJJq9Bvcp6NL6971F0fNrw4FcliAN9pOy-IJPtbn5fmBknvjNG2E4l1yWLW3Tmv0J_HXookTSe6tnADA_x29hoUHSngcCPdkEbpDgOlP--36H9pid_Rk3ZW8Cyrsppz9mzxw1bk7HlED-E0eofhQb0Pg2GfwO8xfDYgUXzbMnIHH09EzGMrgBqixugmaMNANeE4ohi9UwcZYtvuWfAg9zF7o5XQRPADKObjGRtm3XHWPaeOit3JO7rM7QFtEI9Z_vHxy-pp-cCAtKV_GyeDJyXKEiqs1rmSqiqLZV7ztlCFWmFVZVyWnFHvpuZCLPgDzhcbN6KlRtvG4tRM2io3zdPk7jY9f97d1VUfwkibSHeaLmxnpN2YEoKXfXqhEBFEEMHc60jp69uaRT18EYPbaYNsj8cp2pOIXxIRo3rFs85AhHhK8sYpFMZwFqD7n9HlgSuVV9BK2K0LWaxrrPMlVzu5ajFry7qs_wBgI9hV" height="400" style=""></iframe>
 
 ## \#2\. [The belt][2]
 
