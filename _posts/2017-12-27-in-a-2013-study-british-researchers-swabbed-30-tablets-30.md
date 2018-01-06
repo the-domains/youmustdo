@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-06T22:43:09.671Z'
-datePublished: '2018-01-06T22:43:10.681Z'
+dateModified: '2018-01-06T22:48:04.826Z'
+datePublished: '2018-01-06T22:48:06.422Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -66,6 +66,8 @@ Placing children in grocery carts has been implicated recently as a source of in
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/389f1351-5832-4806-8f0e-661f4ac30d31.png)
 
 You can **[buy some wipes here][6]** to bring with you **or** wash always your hands back at home.
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtkk1PwkAQhs_yK5oeuEG3hdASKUbUEE0Mh0aIXpphO20X2m3dXVH49XZbiLpxj_M-73zszCxhB4sWIGVoQ8EyXmCq7HnP0m8mqWC1stSxxtBW-KWcHRygi14gy7qC8sTjJkVFY0hiTVuhZW-BcxT2de-3XoLYo6oLoC0DJZwqbjACM1ZxLb9EhtQaS-SqNbehrsyPEieYwkehDCeFsoZmPqmdOUKhcoM4J7q0T0FhVomj2YHWxoERZVKgrCsu2aE1p1BI_D8_SzTgLsjmYb15e108LxeT0ej2LvAM_pMlKtes75nlcmRZ3v7BlBiSEkD3jGfnOkxK2IGs-MAzyYLxfQfRiTuhU0DiU9fb-qMRISlJUgQMqE_H2tjdg9Ot3jgPKWhoO85pwGHYLXQAiTxKheWQVqXTDJKhks77TYTiwCiuUchmw6FHiE8Cz-uvahSgdGiJKmqz9h_vwxXHp6i_iULXnv-tPXOau51_Awh75uE" height="244" style=""></iframe>
 
 ## \#6\. [Shoes & slippers][7]
 
