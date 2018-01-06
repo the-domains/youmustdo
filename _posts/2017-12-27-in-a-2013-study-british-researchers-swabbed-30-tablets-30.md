@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-06T21:59:40.752Z'
-datePublished: '2018-01-06T21:59:41.906Z'
+dateModified: '2018-01-06T22:05:14.859Z'
+datePublished: '2018-01-06T22:05:16.051Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -33,7 +33,7 @@ In a 2013 study, researchers swabbed 30 tablets, 30 phones and an office toilet 
 [Buy it on eBay][1]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/73f9dbaa-53fa-44a4-8fd3-ccce3dd99ce6.png)
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJztk8Fy0zAQhu99iowPvrWRZEtyS1SmmaHQpjSFTGHg4pGtdSJqS0ZSMOHpcZw0cGY49JDRRfvv6t8dfbMTXTnZwMiHTQ0i6rQKqwtMUPvz1Qr0chUuSLoNolEj3VKboUBE6DneFQ2CL52ta22WIjI2Gg2-hXUK3C7tShGNx50_NfJMNvKXNadS-Y0P0JyVthn31ksIfvz99QLcD13CJ3BeWyMIQhxlhMRzA7cLgeN5C06GbeothCv1LjR1_F66JwgPtSxBPC5ib9euv3kfO6iE9Ln3ea3zoOtYqjxsWhCts2pdhl42T3FwsnzqZ8-1Etp7-U36fj6C4mbwbQff3dS943Lbu-8yyA2YIKYIz6Yf2E1yFUuvjf9b2Da4UYJSyYGfY1UqTtMEZ6RKVaoYcI5ISUnsV7bL9z8W3BqGh7ltwfhcm9xAl3faKNsN2ehyMt7Buzw5mRwx_ieMnN_ez-4ePh8wHoQ9Rs5lAUlaIAz9SbEsFcMVpzRDlFDGjhhfAkZ0j748zt7MDxgPwh5jJSUBljCFkWKEQlIgRXBCWIYZJao6YnwJGHlynV1Pv378s43Pwh5jwrNMUZ4kvOD8POvh8VTSLMv6XSwYgX_H-Bs5aHof" height="300" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJztlMFy2jAQhu95CsYH3xIk2bJMitMJM02TkIakTNpJL561tQYVW6aSKKVPX2EI6bnTQw6MLtp_pX939I12qCoDDfas29SYBWsl3fycMrL89W6OajZ35yzeBkGvATNTujuQBeQl3h3qBFuatq6VnmWBboNe51u0RqLZpU2ZBf3-2p5qOIMGfrf6FKTdWIfNWdk2fW89Q2f7P95P0fxUJX5BY1WrM0aIIClj4UTj7TSj4WSJBtw29RHdpbx2TR1-ArNA91BDidnTNLTtyvidtaHBKgObW5vXKneqDkHmbrPEbGlauSqdl_UidAbKhe89VzJT1sJ3sL4_RsKm8112vruuveNsW9tX6eQGtctGhI5Hj8lNdBmCVdr-LWwL3MiMcxAoBlSWUvA4oimrYhnLBIUgrOQstPN2ne9fzJkVdhfzdona5krnGtf5WmnZrrtscDHs7-BdnJwMjxj_E0Yhbu_Hdw9fDxgPwh6jEFBgFBeEol8xhVImtBKcp4QzniRHjG8BI7knz0_jD5MDxoOwx1gBMEyiRFIiE8YxKohkNGJJShPOZHXE-BYwiugqvRp9-_z6G1-EPcZIpKnkIopEIcQg9fBEDDxNU_8Xi4ThEeNbwOjHJH-8fn4dqgdhj9FjQxZxBoSDpyk4lYWMgUJcDmKs4N8x_gHtvxkI" height="250" style=""></iframe>
 
 ## \#2\. [The belt][2]
 
@@ -101,10 +101,6 @@ Quick, low-cost and secure solutions to pay and get paid globally: **[Payoneer][
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1kc1OwzAQhO99isUIbklaUCV-knDiDSquaJtsYoMTV95NQ3h6HBrSClXcuPgwOx7NfpsiaE9VprTIjh-SRHojQj4uXJOwRk9PYfzKvsikD-_V-lmqXkFhkTlTkzv6dkbbTsS1CkoUjNh8UqYs-pomRehDMrXRpq0ZBtdB07FA6SD8gwaHLUFLe_JBiuHFsJHRdX15e_9oLYQpa1e8U3kx5XXenvTWVHtTxmiS8GlMLt3k2xvM1CyuJlUja8GaT0bTxGJbZ4rmRbTro8J1bShfoWVS-aYnkjTBPOXCm50A8tAWMFKaC-0sSuV8E58S7U1Zk3D8xgFhYMYUQjupojuVp8khLF8sUvwNWExD1rR0vmKIFZ2p1c1y-bMdmVqH7PWsBEDNeJBRV38c_Qjq7OUPuzNsBzg6RxTwLyy-AOam7XQ" height="700" style=""></iframe>
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJztUk2P0zAQvfdXWEa7TaTGaRfBgcZFVALEZS9wQ6vKsSeN28SO7ElLQfx3pmm6H0cO3JAiJTPzMjPvvSmMPTBrJK_KLHiPfFXklFpNiqiD7XCVVL3TaL1LzIzFGWFT9mvC2EEFtqO42kUmmRFbwI8NtOAwrk_f1PZetZDE9Pv8YUloW7HkOWZ9-mISapWyANgHd8aMjXQAhTDiqMOSCsIaqllzgYkYNIXTGrGL7_Jce-dAo6iUhtL7vXCAObjN53UezV7s4qsfVdk2cnF7gBCJijzcicVieu5G64tOBRp17w0I6yIEXEPlAyQjvXQ5-Z0Yr_vzQjM2vQgzpa_rwGwXadA0TZdFPso2mRRnZXWjYhzEjTVNycoe0TvOjEKV1QEqya8ssIZtsEYom5983_YRjR-BjaIMSn75e6N973AsRfsTJI-tapox0_rSNpDZKpADkmPogUxVz1YZ1MiIdSTY1hFVzlAFckfyTdkot-fs5W7H4_FJXe3bfGATxpfo6u59LwfwzesPN3ef6HmiQ8EjoVvVdkuyT5JeXYBhB776em5T5Op6exft_l_lv79K8nIQ528v8mgN1pK_nc_HhOvbzkekrm8ezfoDtrJ3ew" height="800" style=""></iframe>
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtkc1OwzAQhO99iij3NGmaVq1oingAJCTE2VrZG9dpbEfeLZA8PflBiBSuO5_Hs7MnksG0HHHXYhkzfnJawzvM0_i8Ats7AUReirYBiRYdR2UUg7o5w1n88JvgAPJqnBZGjYwhghrIuyS_A0EJ6xWOECEEefkjj3km2ULgpTpMrshTmimJhd67JRJQG-9G9e11qSis4NawmL8V7SUATTaMtsWAKtLNQP7_SAKj9qEb-aemWUKNcdd5b7U7HIt9lhXH3WafVYfdoSry7THf4n67wRzvzcnoKatxQnrHQ8MDcUrnG5xXp-8TUZBlnKZ94mA9L52Aoo6G5GvpbfphlEam1Dus6fF5aullbKkcSjj_-H0BpR6t3A" height="244" style=""></iframe>
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyNjkEOgjAQRa9CWLgrTQsaFhTXLExMjAcYZkZTsa1hGg2cXhIv4Obv3nu_I_8uPLkSwhoViCRUQArb0ZoD7tVoaqOahkmBbc02tuabBcPtWPad3ui-E5z9KxcgS8RCZnSl1quKUEGANW1WkkUyhwpT0B9Pd86iU-SHHE8wT5zPT0B218sOaIiSISIP5P798Mv3X9RXQTY" height="244" style=""></iframe>
 
 
 
