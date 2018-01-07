@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-07T14:11:26.080Z'
-datePublished: '2018-01-07T14:11:27.143Z'
+dateModified: '2018-01-07T14:12:10.791Z'
+datePublished: '2018-01-07T14:12:12.548Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -116,7 +116,7 @@ But you know the worst part if you use old cotton mop? Each time you twist the d
 
 ## \#12 **[Handbag & purse][15]**
 
-Specially woman you know exactly what's going on in your bags...Extensive tests carried out by Initial Washroom Hygiene in 2013 found that the dirtiest item in the average handbag was bottles of old hand cream. These alone carried more bacteria than most toilet seats. 10,000 different bacteria present in just a few square centimetres of most handbags, which makes them dirtier than the average toilet seat.
+Specially woman you know exactly what's going on in your bags...Extensive tests carried out by Initial Washroom Hygiene in 2013 found that the dirtiest item in the average handbag was bottles of old hand cream. These alone carried more bacteria than most toilet seats. 10,000 different bacteria present in just a few square centimetres of most **[handbags][15]**, which makes them dirtier than the average toilet seat.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d9592ff-004d-4fb9-a2c2-1c73e2a52624.png)
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1kc1OwzAQhO99isUIbklaUCV-knDiDSquaJtsYoMTV95NQ3h6HBrSClXcuPgwOx7NfpsiaE9VprTIjh-SRHojQj4uXJOwRk9PYfzKvsikD-_V-lmqXkFhkTlTkzv6dkbbTsS1CkoUjNh8UqYs-pomRehDMrXRpq0ZBtdB07FA6SD8gwaHLUFLe_JBiuHFsJHRdX15e_9oLYQpa1e8U3kx5XXenvTWVHtTxmiS8GlMLt3k2xvM1CyuJlUja8GaT0bTxGJbZ4rmRbTro8J1bShfoWVS-aYnkjTBPOXCm50A8tAWMFKaC-0sSuV8E58S7U1Zk3D8xgFhYMYUQjupojuVp8khLF8sUvwNWExD1rR0vmKIFZ2p1c1y-bMdmVqH7PWsBEDNeJBRV38c_Qjq7OUPuzNsBzg6RxTwLyy-AOam7XQ" height="700" style=""></iframe>
