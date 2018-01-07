@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-07T17:26:13.231Z'
-datePublished: '2018-01-07T17:26:19.179Z'
+dateModified: '2018-01-07T19:15:41.479Z'
+datePublished: '2018-01-07T19:15:44.097Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -128,6 +128,11 @@ Anything you hang on yourself should be cleaned and disinfected about once a wee
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJztlMty2yAUhvd-Co8W2iUGhIRITTpJJpPLjCdJ3UvSjQZxsWkk5AKO6j59ZfmS7tuFF95x_nP4z4FvYGy047Ua-rCqFItaI8P8DCKw-PVhrsxsHs4QXgfRsOZuZmxfwCKwizdFveCFa6rK2BmLbBMNe9-ycVK5TdoJFo1GrT-x_JTX_HdjT7j0Kx9UfSqaetRZz1Two58fp8q9GaG-KudNYxkCgIAcofjBqvspg_HDQjke1qkbFS7kbaireMLdqwqPFReKfZnGvlm6buV97JRm3BfeF5UpgqliLouwWii2cI1citDJ9jUOjovXbvbCSGa85z-47-ZDIK5730Xvu5m6c5yte3dderlWNrBLAK7h9fMTuIq5N9b_Lawb3ElGiM6hzKimQtBUplomXJQYQlzmnFMa-3nTFtsbC26p-o1Fs1DWF8YWVrVFa6xs2j4bnY9HG3jng8H4iPF_YQQ3F9-mt5N3jDthizFTCAuJMgp1mgiE8rzMSIYkTlOOiQJHjIeAkRD6Qj9_etlj3AtbjGWJEKZYZCnKUggIIoiCBOWIJCkAWh8xHgJGOHm6-55f4T3GvbDF2B0Da6wwB93vKpM0wwkEeQYyjSnQmB8xHgJGkl3i5Pnx_v017oQtxrzE3WPMkYZQEJoiLNO8TFIJIM2l4uRfMA7-ANA-GGc" height="275" style=""></iframe>
 
+## \#14 **[Pillow][18]**
+
+There can be up to 10 million dust mites in one bed alone -- and their faeces and body parts can cause hay fever, eczema and asthma, while the bacteria in our beds can cause colds, allergic, flu and diarrhea. Tip: To check whether you should throw away your **[pillow][18]** is to fold it in half and see if it springs back into shape. If it doesn't, it is time for a change.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ae338d9-2ad0-4634-b0ac-e4f15deaf7ab.png)
+
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1kc1OwzAQhO99isUIbklaUCV-knDiDSquaJtsYoMTV95NQ3h6HBrSClXcuPgwOx7NfpsiaE9VprTIjh-SRHojQj4uXJOwRk9PYfzKvsikD-_V-lmqXkFhkTlTkzv6dkbbTsS1CkoUjNh8UqYs-pomRehDMrXRpq0ZBtdB07FA6SD8gwaHLUFLe_JBiuHFsJHRdX15e_9oLYQpa1e8U3kx5XXenvTWVHtTxmiS8GlMLt3k2xvM1CyuJlUja8GaT0bTxGJbZ4rmRbTro8J1bShfoWVS-aYnkjTBPOXCm50A8tAWMFKaC-0sSuV8E58S7U1Zk3D8xgFhYMYUQjupojuVp8khLF8sUvwNWExD1rR0vmKIFZ2p1c1y-bMdmVqH7PWsBEDNeJBRV38c_Qjq7OUPuzNsBzg6RxTwLyy-AOam7XQ" height="700" style=""></iframe>
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJztUk2P0zAQvfdXWEa7TaTGaRfBgcZFVALEZS9wQ6vKsSeN28SO7ElLQfx3pmm6H0cO3JAiJTPzMjPvvSmMPTBrJK_KLHiPfFXklFpNiqiD7XCVVL3TaL1LzIzFGWFT9mvC2EEFtqO42kUmmRFbwI8NtOAwrk_f1PZetZDE9Pv8YUloW7HkOWZ9-mISapWyANgHd8aMjXQAhTDiqMOSCsIaqllzgYkYNIXTGrGL7_Jce-dAo6iUhtL7vXCAObjN53UezV7s4qsfVdk2cnF7gBCJijzcicVieu5G64tOBRp17w0I6yIEXEPlAyQjvXQ5-Z0Yr_vzQjM2vQgzpa_rwGwXadA0TZdFPso2mRRnZXWjYhzEjTVNycoe0TvOjEKV1QEqya8ssIZtsEYom5983_YRjR-BjaIMSn75e6N973AsRfsTJI-tapox0_rSNpDZKpADkmPogUxVz1YZ1MiIdSTY1hFVzlAFckfyTdkot-fs5W7H4_FJXe3bfGATxpfo6u59LwfwzesPN3ef6HmiQ8EjoVvVdkuyT5JeXYBhB776em5T5Op6exft_l_lv79K8nIQ528v8mgN1pK_nc_HhOvbzkekrm8ezfoDtrJ3ew" height="800" style=""></iframe>
@@ -152,3 +157,4 @@ Anything you hang on yourself should be cleaned and disinfected about once a wee
 [15]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_odkw%3Dmop%26_sop%3D12%26_osacat%3D0%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR12.TRC2.A0.H0.Xhandbag.TRS0%26_nkw%3Dhandbag%26_sacat%3D0
 [16]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_odkw%3Dhandbag%26_sop%3D12%26_osacat%3D0%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR11.TRC2.A0.H0.TRS1%26_nkw%3DWatch%2B%2526%2Bjewelry%26_sacat%3D0
 [17]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_odkw%3DWatch%2B%2526%2Bjewelry%26_sop%3D12%26_osacat%3D281%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR12.TRC2.A0.H0.XWatch%2Bcleaner.TRS0%26_nkw%3DWatch%2Bcleaner%26_sacat%3D281
+[18]: https://www.amazon.com/s/ref=as_li_ss_tl?url=search-alias=aps&field-keywords=pillow&rh=i:aps,k:pillow&linkCode=ll2&tag=issajason-20&linkId=3d46001027609465ed089e020f3b876a
