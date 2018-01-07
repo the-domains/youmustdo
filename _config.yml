@@ -34,6 +34,9 @@ navigation:
   - name: About us
     id: cb56b9dd-a8c2-421d-ae1e-cb9376e4ab5b
     type: content
+  - name: Advertising
+    id: c2a9963d-9c30-4fa9-86f8-71a78b095490
+    type: content
 title: You must do
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
