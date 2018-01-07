@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-07T11:03:08.374Z'
-datePublished: '2018-01-07T11:03:10.099Z'
+dateModified: '2018-01-07T13:56:16.642Z'
+datePublished: '2018-01-07T13:56:18.413Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -114,6 +114,10 @@ But you know the worst part if you use old cotton mop? Each time you twist the d
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea6c78fa-9731-4bff-b9c9-193204442645.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13ea4260-8d19-48f2-a105-14af36feef69.png)
 
+## \#12 **[Handbag & purse][15]**
+
+Specially woman you know exactly what's going on in your bags...Extensive tests carried out by Initial Washroom Hygiene in 2013 found that the dirtiest item in the average handbag was bottles of old hand cream. These alone carried more bacteria than most toilet seats. 10,000 different bacteria present in just a few square centimetres of most handbags, which makes them dirtier than the average toilet seat.
+
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1kc1OwzAQhO99isUIbklaUCV-knDiDSquaJtsYoMTV95NQ3h6HBrSClXcuPgwOx7NfpsiaE9VprTIjh-SRHojQj4uXJOwRk9PYfzKvsikD-_V-lmqXkFhkTlTkzv6dkbbTsS1CkoUjNh8UqYs-pomRehDMrXRpq0ZBtdB07FA6SD8gwaHLUFLe_JBiuHFsJHRdX15e_9oLYQpa1e8U3kx5XXenvTWVHtTxmiS8GlMLt3k2xvM1CyuJlUja8GaT0bTxGJbZ4rmRbTro8J1bShfoWVS-aYnkjTBPOXCm50A8tAWMFKaC-0sSuV8E58S7U1Zk3D8xgFhYMYUQjupojuVp8khLF8sUvwNWExD1rR0vmKIFZ2p1c1y-bMdmVqH7PWsBEDNeJBRV38c_Qjq7OUPuzNsBzg6RxTwLyy-AOam7XQ" height="700" style=""></iframe>
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJztUk2P0zAQvfdXWEa7TaTGaRfBgcZFVALEZS9wQ6vKsSeN28SO7ElLQfx3pmm6H0cO3JAiJTPzMjPvvSmMPTBrJK_KLHiPfFXklFpNiqiD7XCVVL3TaL1LzIzFGWFT9mvC2EEFtqO42kUmmRFbwI8NtOAwrk_f1PZetZDE9Pv8YUloW7HkOWZ9-mISapWyANgHd8aMjXQAhTDiqMOSCsIaqllzgYkYNIXTGrGL7_Jce-dAo6iUhtL7vXCAObjN53UezV7s4qsfVdk2cnF7gBCJijzcicVieu5G64tOBRp17w0I6yIEXEPlAyQjvXQ5-Z0Yr_vzQjM2vQgzpa_rwGwXadA0TZdFPso2mRRnZXWjYhzEjTVNycoe0TvOjEKV1QEqya8ssIZtsEYom5983_YRjR-BjaIMSn75e6N973AsRfsTJI-tapox0_rSNpDZKpADkmPogUxVz1YZ1MiIdSTY1hFVzlAFckfyTdkot-fs5W7H4_FJXe3bfGATxpfo6u59LwfwzesPN3ef6HmiQ8EjoVvVdkuyT5JeXYBhB776em5T5Op6exft_l_lv79K8nIQ528v8mgN1pK_nc_HhOvbzkekrm8ezfoDtrJ3ew" height="800" style=""></iframe>
@@ -135,3 +139,4 @@ But you know the worst part if you use old cotton mop? Each time you twist the d
 [12]: https://share.payoneer.com/nav/4nPlwp9j0q_4LJV5mnv2WLIUCcVg-NW_VzXnPgd5X-28ej-4dp7HYlj3UvHjJ5jYpEYe_kPuUewrC25BvjrVNw2
 [13]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FCRYSTAL-CLEAR-LED-Light-Tri-Spinner-Fidget-EDC-Hand-Spin-Autism-ADHD-Gyroscope%2F132351351784%3Fhash%3Ditem1ed0c15be8%3Ag%3ADqgAAOSwxmJZ1OdY
 [14]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_from%3DR40%26_sacat%3D0%26_nkw%3Dmop%26_sop%3D12
+[15]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_odkw%3Dmop%26_sop%3D12%26_osacat%3D0%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR12.TRC2.A0.H0.Xhandbag.TRS0%26_nkw%3Dhandbag%26_sacat%3D0
