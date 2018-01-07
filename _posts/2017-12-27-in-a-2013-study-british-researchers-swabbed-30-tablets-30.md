@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-06T23:10:21.063Z'
-datePublished: '2018-01-06T23:10:22.217Z'
+dateModified: '2018-01-07T10:44:43.859Z'
+datePublished: '2018-01-07T10:44:45.686Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -106,7 +106,12 @@ Quick, low-cost and secure solutions to pay and get paid globally: **[Payoneer][
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVUMtOwzAQ_JXIB9_aOJFVEugWIZWWhziAkOCGtrbjmsZrZBuh8PUYygG0t3nsjGbphojeVCkqYHUdlZ8RztHjZ6AZ6jSlbPxcBV-bWvnzAA1_A9nxEd5jwxVmY0OcIIcpIWlbXiW-QyITQVw0m-bpYbO-ub17vr_aPl5uWz5ACeSjo8P1GhaiFVJKoeTQDz1K1IiLTpi-lbpcxzO4lPAVUynTCp4jqoMj--L0P4JVH07nPbCTtmPV3ji7z8D6gicVw1jSLDAKrNqFqEszVhiP0Tr69X0r8zQaYEfFKQUyZ6z62eaPabWsj3utvgBHNWbA" height="150" style=""></iframe>
 
-\#11 soon...
+## \#11 **Mops & broom (handle)**
+
+After repeated passes with the mop, the once-clean solution became contaminated with soils, germs and bacteria from the floor. This is problematic because it not only contaminates large swaths of the floor with pathogens that may have only been present in one specific area, but it also leaves a dirty film on the floor. As a result, the old mop-and-bucket method requires repeated passes and numerous rinses to achieve clean floors.
+
+But you know the worst part if you use old cotton mop? Each time you twist the dirty mop with your hand what do you always touch just after? The HANDLE! If you never disinfect handle there's a problem.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea6c78fa-9731-4bff-b9c9-193204442645.png)
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1kc1OwzAQhO99isUIbklaUCV-knDiDSquaJtsYoMTV95NQ3h6HBrSClXcuPgwOx7NfpsiaE9VprTIjh-SRHojQj4uXJOwRk9PYfzKvsikD-_V-lmqXkFhkTlTkzv6dkbbTsS1CkoUjNh8UqYs-pomRehDMrXRpq0ZBtdB07FA6SD8gwaHLUFLe_JBiuHFsJHRdX15e_9oLYQpa1e8U3kx5XXenvTWVHtTxmiS8GlMLt3k2xvM1CyuJlUja8GaT0bTxGJbZ4rmRbTro8J1bShfoWVS-aYnkjTBPOXCm50A8tAWMFKaC-0sSuV8E58S7U1Zk3D8xgFhYMYUQjupojuVp8khLF8sUvwNWExD1rR0vmKIFZ2p1c1y-bMdmVqH7PWsBEDNeJBRV38c_Qjq7OUPuzNsBzg6RxTwLyy-AOam7XQ" height="700" style=""></iframe>
 
