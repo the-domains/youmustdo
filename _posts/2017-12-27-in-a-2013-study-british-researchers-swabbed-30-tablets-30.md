@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-07T10:44:56.189Z'
-datePublished: '2018-01-07T10:44:57.384Z'
+dateModified: '2018-01-07T10:46:34.489Z'
+datePublished: '2018-01-07T10:46:36.050Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -108,7 +108,7 @@ Quick, low-cost and secure solutions to pay and get paid globally: **[Payoneer][
 
 ## \#11 **[Mops & broom (handle)][14]**
 
-After repeated passes with the mop, the once-clean solution became contaminated with soils, germs and bacteria from the floor. This is problematic because it not only contaminates large swaths of the floor with pathogens that may have only been present in one specific area, but it also leaves a dirty film on the floor. As a result, the old mop-and-bucket method requires repeated passes and numerous rinses to achieve clean floors.
+After repeated passes with the **[mop][14]**, the once-clean solution became contaminated with soils, germs and bacteria from the floor. This is problematic because it not only contaminates large swaths of the floor with pathogens that may have only been present in one specific area, but it also leaves a dirty film on the floor. As a result, the old mop-and-bucket method requires repeated passes and numerous rinses to achieve clean floors.
 
 But you know the worst part if you use old cotton mop? Each time you twist the dirty mop with your hand what do you always touch just after? The HANDLE! If you never disinfect handle there's a problem.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea6c78fa-9731-4bff-b9c9-193204442645.png)
