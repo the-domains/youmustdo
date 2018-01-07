@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-07T17:07:17.379Z'
-datePublished: '2018-01-07T17:07:22.985Z'
+dateModified: '2018-01-07T17:23:33.830Z'
+datePublished: '2018-01-07T17:23:35.099Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -123,8 +123,10 @@ Specially woman you know exactly what's going on in your bags...Extensive tests 
 
 ## \#13 **[Watch & jewelry][16]**
 
-Anything you hang on yourself should be cleaned and disinfected about once a week. And washing your hands does not eliminate germs and bacteria from your **[jewelry][16]**. With rings that are complex, with nooks and crannies, it's best to go in with a brush. On top of this, your skin is constantly shedding epithelial cells. They can carry hundreds of thousands of potentially harmful microorganisms.
+Anything you hang on yourself should be cleaned and disinfected about once a week. And washing your hands does not eliminate germs and bacteria from your **[jewelry][16]**. With rings that are complex, with nooks and crannies, it's best to go in with a brush. On top of this, your skin is constantly shedding epithelial cells. They can carry hundreds of thousands of potentially harmful microorganisms. Need a **[watch cleaner here][17]**.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ab03cb7-f303-41ee-978d-160f13eda2c8.png)
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJztlE1z2yAQhu_-FR4ddEsMCAmRmnSSTCYfM54kdT-SXjQIkE0tIRVwVffXV5Y_0ntzyEE39t3l3YVnZqe6sLxSY-c3pWJBq6VfnkEEmt8flkovlv4M4W0QjCtuF9r0BSwAh3hX1AtO2LostVmwwNTBuPfNayuV3aWtYMFk0roTw095xf_U5oRLt3FeVaeiriad9UJ5N_n5ca7sLy3UV2Wdrg1DABCQIhQ-GHU_ZzB8aJTlfpu6Uf5C3vqqDGfcrpR_LLlQ7Ms8dPXadifnQqsKxl3mXFbqzOsy5DLzm0axxtZyLXwnm1XoLRerbvZMS6ad4z-46-ZDIKx636b33U3dOS62vbsuvVwp49klANfw-vkJXIXcaeP-FbYN7iQjpEihTGhBhaCxjAsZcZFjCHGeck5p6JZ1m-1_zNu16i9mdaOMy7TJjGqzVhtZt302OJ9OdvDOR6PpgPGtMIKbi2_z29krxoOwx5gohIVECYVFHAmE0jRPSIIkjmOOiQIDxveAkRD6Qj9_ejliPAp7jHmOEKZYJDFKYggIIoiCCKWIRDEARTFgfA8Y4ezp7nt6hY8Yj8IeY_cMXGCFOei2q4ziBEcQpAlICkxBgfmAccA4YHyrpZpc4uj58f51qR6EPcY0x91OTVEBoSA0RljGaR7FEkCaSsXJ_2Ac_QUv67aj" height="275" style=""></iframe>
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1kc1OwzAQhO99isUIbklaUCV-knDiDSquaJtsYoMTV95NQ3h6HBrSClXcuPgwOx7NfpsiaE9VprTIjh-SRHojQj4uXJOwRk9PYfzKvsikD-_V-lmqXkFhkTlTkzv6dkbbTsS1CkoUjNh8UqYs-pomRehDMrXRpq0ZBtdB07FA6SD8gwaHLUFLe_JBiuHFsJHRdX15e_9oLYQpa1e8U3kx5XXenvTWVHtTxmiS8GlMLt3k2xvM1CyuJlUja8GaT0bTxGJbZ4rmRbTro8J1bShfoWVS-aYnkjTBPOXCm50A8tAWMFKaC-0sSuV8E58S7U1Zk3D8xgFhYMYUQjupojuVp8khLF8sUvwNWExD1rR0vmKIFZ2p1c1y-bMdmVqH7PWsBEDNeJBRV38c_Qjq7OUPuzNsBzg6RxTwLyy-AOam7XQ" height="700" style=""></iframe>
 
@@ -149,3 +151,4 @@ Anything you hang on yourself should be cleaned and disinfected about once a wee
 [14]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_from%3DR40%26_sacat%3D0%26_nkw%3Dmop%26_sop%3D12
 [15]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_odkw%3Dmop%26_sop%3D12%26_osacat%3D0%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR12.TRC2.A0.H0.Xhandbag.TRS0%26_nkw%3Dhandbag%26_sacat%3D0
 [16]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_odkw%3Dhandbag%26_sop%3D12%26_osacat%3D0%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR11.TRC2.A0.H0.TRS1%26_nkw%3DWatch%2B%2526%2Bjewelry%26_sacat%3D0
+[17]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_odkw%3DWatch%2B%2526%2Bjewelry%26_sop%3D12%26_osacat%3D281%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR12.TRC2.A0.H0.XWatch%2Bcleaner.TRS0%26_nkw%3DWatch%2Bcleaner%26_sacat%3D281
