@@ -6,10 +6,10 @@ description: >-
   the phones had up to 140 units. The toilet seat (you think its the niche of
   bacteria) had less than 20 units. Another uncomfortable detail: In a 2011
   survey, 75 percent of Americans said they use their smartphones while on the
-  toilet. What you gonna do when you will buy and received your next used
-  smartphone?
-dateModified: '2018-01-07T20:40:54.032Z'
-datePublished: '2018-01-07T20:40:55.974Z'
+  toilet. What’s the first thing you gonna do when you will buy and received
+  your next used smartphone?
+dateModified: '2018-01-07T20:46:19.094Z'
+datePublished: '2018-01-07T20:46:21.139Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -26,7 +26,7 @@ _type: Article
 
 ## \#1\.[Phones and tablets][0]
 
-In a 2013 study, researchers swabbed 30 tablets, 30 phones and an office toilet seat. The tablets had up to 600 units per swab of staphylococcus, and the phones had up to 140 units. The toilet seat (you think its the niche of bacteria) had less than 20 units. Another uncomfortable detail: In a 2011 survey, 75 percent of Americans said they use their smartphones while on the toilet. What you gonna do when you will buy and received your next **[used smartphone][0]**?
+In a 2013 study, researchers swabbed 30 tablets, 30 phones and an office toilet seat. The tablets had up to 600 units per swab of staphylococcus, and the phones had up to 140 units. The toilet seat (you think its the niche of bacteria) had less than 20 units. Another uncomfortable detail: In a 2011 survey, 75 percent of Americans said they use their smartphones while on the toilet. What's the first thing you gonna do when you will buy and received your next **[used smartphone][0]**?
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVUMtOwzAQ_JXIB9_aJCZP6JZLEVCJGwJxQht7k5jGNrKNqvL1GIqEOM5LM5qNHj0ayoKXwPLcS7OyuEaDn86uUIVTiGTW0pmccmmuHZT8HaqOL_DhSy4x0uT8CY7a00Ih8AGtJQ_F4_6lre6qp5v-uXrY3Tb7TvARUhlftD3c70CVdV20pWw7KRTV7SgaFIOSF01BfdUVPIIOAd8wpCEiQY_yoO30qtU_gWVHreIMrBUdy2bS0xyB9YkP0rsltU3ArGPZ4LxKy1hSDPpJ29_ctzOeFgJ2dlxaZ-mKZT-__IW2m_x81fYLx7xktw" height="155" style=""></iframe>
 
@@ -36,7 +36,7 @@ In a 2013 study, researchers swabbed 30 tablets, 30 phones and an office toilet 
 [Buy it on eBay][1]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/73f9dbaa-53fa-44a4-8fd3-ccce3dd99ce6.png)
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJztlMFy2jAQhu95CsYH3xIk2bJMitMJM02TkIakTNpJL561tQYVW6aSKKVPX2EI6bnTQw6MLtp_pX939I12qCoDDfas29SYBWsl3fycMrL89W6OajZ35yzeBkGvATNTujuQBeQl3h3qBFuatq6VnmWBboNe51u0RqLZpU2ZBf3-2p5qOIMGfrf6FKTdWIfNWdk2fW89Q2f7P95P0fxUJX5BY1WrM0aIIClj4UTj7TSj4WSJBtw29RHdpbx2TR1-ArNA91BDidnTNLTtyvidtaHBKgObW5vXKneqDkHmbrPEbGlauSqdl_UidAbKhe89VzJT1sJ3sL4_RsKm8112vruuveNsW9tX6eQGtctGhI5Hj8lNdBmCVdr-LWwL3MiMcxAoBlSWUvA4oimrYhnLBIUgrOQstPN2ne9fzJkVdhfzdona5krnGtf5WmnZrrtscDHs7-BdnJwMjxj_E0Yhbu_Hdw9fDxgPwh6jEFBgFBeEol8xhVImtBKcp4QzniRHjG8BI7knz0_jD5MDxoOwx1gBMEyiRFIiE8YxKohkNGJJShPOZHXE-BYwiugqvRp9-_z6G1-EPcZIpKnkIopEIcQg9fBEDDxNU_8Xi4ThEeNbwOjHJH-8fn4dqgdhj9FjQxZxBoSDpyk4lYWMgUJcDmKs4N8x_gHtvxkI" height="275" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzt1U1v2yAYB_B7P0Xlg29tABvjdHWnVlrX97Sruqm7WI_hccJq4wxos-7TjzhvO0875BD5Yv7gB8RP4GNdW2hx3_n3BotoppWfHFFGpr8-TFCPJ_6IpfNGtN-CHWvTDygismovBvWBk7ZrGm3GRWS6aL-vW3VWoV10W1lEg8HMHRg4hBZ-d-YAlHt3HttD2bWDUHqM3g1-fnxE-6YlfkXrdGcKRoggOWPxyODVY0Hj0RQt-HnXZ_Sn6sK3TXwL9gX9fQMSi6fH2HWvNrw5F1usC3Clc2WjS6-bGFTp36dYTG2nXqUPsXmJvQX5EtZealVo5-AHuLA-RuK2rzvt6y5WHSqO53OHWfq4ReOLM0Kvzx6yy-Q0BqeN-zuYT3CpCs5BoBhSJZXgaUJzVqcqVRkKQZjkLHaTblYud8zbV-w_LLspGldqUxqclTNtVDfre6OT48EC72Rv73jH-J8Yhbi6u765_7ZmXAdLRiGgwiStCMXwpBSkymgtOM8JZzzLdozbwEjuyPPT9afRmnEdLBlrAIZZkilKVMY4JhVRjCYsy2nGmap3jNvAKJLz_Pzs-5fNaVwFS8ZE5LniIklEJcQwD3giBZ7neTiLVcZwx7gNjOGa5A8Xz5tLdR0sGQMbsoQzIByCpuBUVSoFCqkcpljDjnErGG9JenM7ZBvGVbC6VBnUTNQUFEuIFHQoIfweiUCZDbFm6b8z_gEmtLhL" height="275" style=""></iframe>
 
 ## \#2\. [The belt][2]
 
