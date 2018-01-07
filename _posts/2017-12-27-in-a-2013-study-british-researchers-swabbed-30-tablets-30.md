@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-07T14:20:10.895Z'
-datePublished: '2018-01-07T14:20:12.225Z'
+dateModified: '2018-01-07T17:07:09.316Z'
+datePublished: '2018-01-07T17:07:11.270Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -121,6 +121,11 @@ Specially woman you know exactly what's going on in your bags...Extensive tests 
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJztk01z0zAQhu_9FRkffGujD8uyS10GmIFAYAqkEODiWUvrRMSWU0khlF-P46Qfdzj0kINmtO-u3t3RM3thagctjny4bbCItkaH5TllZP372RLNYhnOWbILolELbmHsUFBE5C7eFw2CV65rGmMXRWS7aDT4Vp3T6PZpp4poPN76Uwtn0MKfzp6C9rc-YHumunbcWy8w-PHN8xm6X0bhV3TedLZghEiSMRZfWXw3K2h8tUYHYZd6g-GFnoS2iT-AW2H42IDC4sss9t3G9TfvY4d1Ab70vmxMGUwTgy7D7RqLtev0RoVetqs4OFCrfvbS6MJ4Dz_B9_MxEreD73rw3U_dOy52vfsug9yiDcVLIhM2eTX_zmLwxvrHwq7BW12kUtFK5EiRCcWQMFULgoJixkBIDrFfdtvy8GPBbXB4WHZrtL40trS4LbfG6m47ZKPLi_Ee3uXJycUR4__CKFM5nb7_9oDxTjhgZEhFf1ASSFiVIScZAaw4UsZrBukR45PAmMiZmEj6aBsPwgFjwmtVq6qiTGR5jolEmqQ8S7RmMhfquI1PAiNNpp_nWTq_x3gvHDBKyOpcoADBlWCZTjlKxbSWmOqKVvyI8SlglOLTa_bj-vphG--EA0aVIwChAMBTmvCKiDrhPOE6zygInf0Dxr_xoBrG" height="275" style=""></iframe>
 
+## \#13 **[Watch & jewelry][16]**
+
+Anything you hang on yourself should be cleaned and disinfected about once a week. And washing your hands does not eliminate germs and bacteria from your **[jewelry][16]**. With rings that are complex, with nooks and crannies, it's best to go in with a brush. On top of this, your skin is constantly shedding epithelial cells. They can carry hundreds of thousands of potentially harmful microorganisms.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ab03cb7-f303-41ee-978d-160f13eda2c8.png)
+
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1kc1OwzAQhO99isUIbklaUCV-knDiDSquaJtsYoMTV95NQ3h6HBrSClXcuPgwOx7NfpsiaE9VprTIjh-SRHojQj4uXJOwRk9PYfzKvsikD-_V-lmqXkFhkTlTkzv6dkbbTsS1CkoUjNh8UqYs-pomRehDMrXRpq0ZBtdB07FA6SD8gwaHLUFLe_JBiuHFsJHRdX15e_9oLYQpa1e8U3kx5XXenvTWVHtTxmiS8GlMLt3k2xvM1CyuJlUja8GaT0bTxGJbZ4rmRbTro8J1bShfoWVS-aYnkjTBPOXCm50A8tAWMFKaC-0sSuV8E58S7U1Zk3D8xgFhYMYUQjupojuVp8khLF8sUvwNWExD1rR0vmKIFZ2p1c1y-bMdmVqH7PWsBEDNeJBRV38c_Qjq7OUPuzNsBzg6RxTwLyy-AOam7XQ" height="700" style=""></iframe>
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJztUk2P0zAQvfdXWEa7TaTGaRfBgcZFVALEZS9wQ6vKsSeN28SO7ElLQfx3pmm6H0cO3JAiJTPzMjPvvSmMPTBrJK_KLHiPfFXklFpNiqiD7XCVVL3TaL1LzIzFGWFT9mvC2EEFtqO42kUmmRFbwI8NtOAwrk_f1PZetZDE9Pv8YUloW7HkOWZ9-mISapWyANgHd8aMjXQAhTDiqMOSCsIaqllzgYkYNIXTGrGL7_Jce-dAo6iUhtL7vXCAObjN53UezV7s4qsfVdk2cnF7gBCJijzcicVieu5G64tOBRp17w0I6yIEXEPlAyQjvXQ5-Z0Yr_vzQjM2vQgzpa_rwGwXadA0TZdFPso2mRRnZXWjYhzEjTVNycoe0TvOjEKV1QEqya8ssIZtsEYom5983_YRjR-BjaIMSn75e6N973AsRfsTJI-tapox0_rSNpDZKpADkmPogUxVz1YZ1MiIdSTY1hFVzlAFckfyTdkot-fs5W7H4_FJXe3bfGATxpfo6u59LwfwzesPN3ef6HmiQ8EjoVvVdkuyT5JeXYBhB776em5T5Op6exft_l_lv79K8nIQ528v8mgN1pK_nc_HhOvbzkekrm8ezfoDtrJ3ew" height="800" style=""></iframe>
@@ -143,3 +148,4 @@ Specially woman you know exactly what's going on in your bags...Extensive tests 
 [13]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FCRYSTAL-CLEAR-LED-Light-Tri-Spinner-Fidget-EDC-Hand-Spin-Autism-ADHD-Gyroscope%2F132351351784%3Fhash%3Ditem1ed0c15be8%3Ag%3ADqgAAOSwxmJZ1OdY
 [14]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_from%3DR40%26_sacat%3D0%26_nkw%3Dmop%26_sop%3D12
 [15]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_odkw%3Dmop%26_sop%3D12%26_osacat%3D0%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR12.TRC2.A0.H0.Xhandbag.TRS0%26_nkw%3Dhandbag%26_sacat%3D0
+[16]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_odkw%3Dhandbag%26_sop%3D12%26_osacat%3D0%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR11.TRC2.A0.H0.TRS1%26_nkw%3DWatch%2B%2526%2Bjewelry%26_sacat%3D0
