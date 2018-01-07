@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-07T20:33:22.302Z'
-datePublished: '2018-01-07T20:33:24.284Z'
+dateModified: '2018-01-07T20:40:49.397Z'
+datePublished: '2018-01-07T20:40:51.227Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -27,6 +27,9 @@ _type: Article
 ## \#1\.[Phones and tablets][0]
 
 In a 2013 study, researchers swabbed 30 tablets, 30 phones and an office toilet seat. The tablets had up to 600 units per swab of staphylococcus, and the phones had up to 140 units. The toilet seat (you think its the niche of bacteria) had less than 20 units. Another uncomfortable detail: In a 2011 survey, 75 percent of Americans said they use their smartphones while on the toilet. What you gonna do when you will buy and received your next **[used smartphone][0]**?
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVUMtOwzAQ_JXIB9_aJCZP6JZLEVCJGwJxQht7k5jGNrKNqvL1GIqEOM5LM5qNHj0ayoKXwPLcS7OyuEaDn86uUIVTiGTW0pmccmmuHZT8HaqOL_DhSy4x0uT8CY7a00Ih8AGtJQ_F4_6lre6qp5v-uXrY3Tb7TvARUhlftD3c70CVdV20pWw7KRTV7SgaFIOSF01BfdUVPIIOAd8wpCEiQY_yoO30qtU_gWVHreIMrBUdy2bS0xyB9YkP0rsltU3ArGPZ4LxKy1hSDPpJ29_ctzOeFgJ2dlxaZ-mKZT-__IW2m_x81fYLx7xktw" height="155" style=""></iframe>
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9acde44c-e611-4f64-a7e7-028c0e14d9e7.png)
 
 **If you are lazy to clean your screen phone get the anti-fingerprint frosted tempered glass:**
