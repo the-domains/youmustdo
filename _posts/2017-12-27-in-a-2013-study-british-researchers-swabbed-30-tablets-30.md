@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-07T17:23:33.830Z'
-datePublished: '2018-01-07T17:23:35.099Z'
+dateModified: '2018-01-07T17:26:13.231Z'
+datePublished: '2018-01-07T17:26:19.179Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -126,7 +126,7 @@ Specially woman you know exactly what's going on in your bags...Extensive tests 
 Anything you hang on yourself should be cleaned and disinfected about once a week. And washing your hands does not eliminate germs and bacteria from your **[jewelry][16]**. With rings that are complex, with nooks and crannies, it's best to go in with a brush. On top of this, your skin is constantly shedding epithelial cells. They can carry hundreds of thousands of potentially harmful microorganisms. Need a **[watch cleaner here][17]**.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ab03cb7-f303-41ee-978d-160f13eda2c8.png)
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJztlE1z2yAQhu_-FR4ddEsMCAmRmnSSTCYfM54kdT-SXjQIkE0tIRVwVffXV5Y_0ntzyEE39t3l3YVnZqe6sLxSY-c3pWJBq6VfnkEEmt8flkovlv4M4W0QjCtuF9r0BSwAh3hX1AtO2LostVmwwNTBuPfNayuV3aWtYMFk0roTw095xf_U5oRLt3FeVaeiriad9UJ5N_n5ca7sLy3UV2Wdrg1DABCQIhQ-GHU_ZzB8aJTlfpu6Uf5C3vqqDGfcrpR_LLlQ7Ms8dPXadifnQqsKxl3mXFbqzOsy5DLzm0axxtZyLXwnm1XoLRerbvZMS6ad4z-46-ZDIKx636b33U3dOS62vbsuvVwp49klANfw-vkJXIXcaeP-FbYN7iQjpEihTGhBhaCxjAsZcZFjCHGeck5p6JZ1m-1_zNu16i9mdaOMy7TJjGqzVhtZt302OJ9OdvDOR6PpgPGtMIKbi2_z29krxoOwx5gohIVECYVFHAmE0jRPSIIkjmOOiQIDxveAkRD6Qj9_ejliPAp7jHmOEKZYJDFKYggIIoiCCKWIRDEARTFgfA8Y4ezp7nt6hY8Yj8IeY_cMXGCFOei2q4ziBEcQpAlICkxBgfmAccA4YHyrpZpc4uj58f51qR6EPcY0x91OTVEBoSA0RljGaR7FEkCaSsXJ_2Ac_QUv67aj" height="275" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJztlMty2yAUhvd-Co8W2iUGhIRITTpJJpPLjCdJ3UvSjQZxsWkk5AKO6j59ZfmS7tuFF95x_nP4z4FvYGy047Ua-rCqFItaI8P8DCKw-PVhrsxsHs4QXgfRsOZuZmxfwCKwizdFveCFa6rK2BmLbBMNe9-ycVK5TdoJFo1GrT-x_JTX_HdjT7j0Kx9UfSqaetRZz1Two58fp8q9GaG-KudNYxkCgIAcofjBqvspg_HDQjke1qkbFS7kbaireMLdqwqPFReKfZnGvlm6buV97JRm3BfeF5UpgqliLouwWii2cI1citDJ9jUOjovXbvbCSGa85z-47-ZDIK5730Xvu5m6c5yte3dderlWNrBLAK7h9fMTuIq5N9b_Lawb3ElGiM6hzKimQtBUplomXJQYQlzmnFMa-3nTFtsbC26p-o1Fs1DWF8YWVrVFa6xs2j4bnY9HG3jng8H4iPF_YQQ3F9-mt5N3jDthizFTCAuJMgp1mgiE8rzMSIYkTlOOiQJHjIeAkRD6Qj9_etlj3AtbjGWJEKZYZCnKUggIIoiCBOWIJCkAWh8xHgJGOHm6-55f4T3GvbDF2B0Da6wwB93vKpM0wwkEeQYyjSnQmB8xHgJGkl3i5Pnx_v017oQtxrzE3WPMkYZQEJoiLNO8TFIJIM2l4uRfMA7-ANA-GGc" height="275" style=""></iframe>
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1kc1OwzAQhO99isUIbklaUCV-knDiDSquaJtsYoMTV95NQ3h6HBrSClXcuPgwOx7NfpsiaE9VprTIjh-SRHojQj4uXJOwRk9PYfzKvsikD-_V-lmqXkFhkTlTkzv6dkbbTsS1CkoUjNh8UqYs-pomRehDMrXRpq0ZBtdB07FA6SD8gwaHLUFLe_JBiuHFsJHRdX15e_9oLYQpa1e8U3kx5XXenvTWVHtTxmiS8GlMLt3k2xvM1CyuJlUja8GaT0bTxGJbZ4rmRbTro8J1bShfoWVS-aYnkjTBPOXCm50A8tAWMFKaC-0sSuV8E58S7U1Zk3D8xgFhYMYUQjupojuVp8khLF8sUvwNWExD1rR0vmKIFZ2p1c1y-bMdmVqH7PWsBEDNeJBRV38c_Qjq7OUPuzNsBzg6RxTwLyy-AOam7XQ" height="700" style=""></iframe>
 
