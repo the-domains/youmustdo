@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What’s the first thing you gonna do when you will buy and received
   your next used smartphone?
-dateModified: '2018-01-07T21:43:07.387Z'
-datePublished: '2018-01-07T21:43:09.585Z'
+dateModified: '2018-01-07T21:47:19.909Z'
+datePublished: '2018-01-07T21:47:21.919Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -151,11 +151,10 @@ Researchers looked to see whether or not certain **[handle][19]** types were mor
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJztUk2P0zAQvfdXWEa7TaTGaRfBgcZFVALEZS9wQ6vKsSeN28SO7ElLQfx3pmm6H0cO3JAiJTPzMjPvvSmMPTBrJK_KLHiPfFXklFpNiqiD7XCVVL3TaL1LzIzFGWFT9mvC2EEFtqO42kUmmRFbwI8NtOAwrk_f1PZetZDE9Pv8YUloW7HkOWZ9-mISapWyANgHd8aMjXQAhTDiqMOSCsIaqllzgYkYNIXTGrGL7_Jce-dAo6iUhtL7vXCAObjN53UezV7s4qsfVdk2cnF7gBCJijzcicVieu5G64tOBRp17w0I6yIEXEPlAyQjvXQ5-Z0Yr_vzQjM2vQgzpa_rwGwXadA0TZdFPso2mRRnZXWjYhzEjTVNycoe0TvOjEKV1QEqya8ssIZtsEYom5983_YRjR-BjaIMSn75e6N973AsRfsTJI-tapox0_rSNpDZKpADkmPogUxVz1YZ1MiIdSTY1hFVzlAFckfyTdkot-fs5W7H4_FJXe3bfGATxpfo6u59LwfwzesPN3ef6HmiQ8EjoVvVdkuyT5JeXYBhB776em5T5Op6exft_l_lv79K8nIQ528v8mgN1pK_nc_HhOvbzkekrm8ezfoDtrJ3ew" height="800" style=""></iframe>
 
----
+> It's not finish stay in touch for next related articles at You Must Do!
+> We don't want to harass you with emails newsletters. Just follow us on Twitter to get the news.
 
-# It's not finish stay in touch for next related articles at You Must Do! 
 
-We don't want to harass you with emails newsletters. Just follow us on Twitter to get the news.
 
 [0]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_odkw%3Dapple%2Bearphone%26LH_PrefLoc%3D1%26_ftrt%3D901%26_sop%3D12%26_dmd%3D1%26_osacat%3D0%26_ipg%3D100%26_ftrv%3D1%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR12.TRC2.A0.H0.TRS0%26_nkw%3Dused%2Bsmartphone%26_sacat%3D0
 [1]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FNO-Fingerprint-2-5D-9H-Tempered-Glass-Screen-Protector-iphone-frosted-clear-BLUE%2F131902933686%3Fhash%3Ditem1eb6070ab6%3Am%3AmtQNIjAx9gyDdONL33uyyjw
