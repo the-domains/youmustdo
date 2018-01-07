@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-07T19:22:46.089Z'
-datePublished: '2018-01-07T19:23:02.802Z'
+dateModified: '2018-01-07T20:33:17.233Z'
+datePublished: '2018-01-07T20:33:20.882Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -135,6 +135,11 @@ There can be up to 10 million dust mites in one bed alone -- and their faeces an
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVkM1OwzAQhF8l8sG3Nj8lTQLdcgCEQOIUJMoJbeyNYxrbyDZC4ekxFAlxnZlPM5qdHj0ayoIXwPLcC7OyuEaDn86uUIYlRDJr4UxOuTCXDkr-Bmctn-Hdl1xgJOX8ApMzpNBLsnxAa8lD8fx0eDx0fX9Vb-9vuuahv634CKmOz9oe766hJkFjPXZtjVVVyw0WNEjCBstC4Gbb8gg6BHzFkKZUBY8exVFb9aLlP4NlH1rGCVhTtSybSKspAuuSHoR3c2pTwKxj2eDSQA8sOQa90vaX-07GZSZgp8S5dZYuWPbzzB-03-Wns_Zfgzdmpw" height="175" style=""></iframe>
 
+## \#15 **[Door handle][19]**
+
+Researchers looked to see whether or not certain **[handle][19]** types were more likely to accumulate bacteria. They found that lever handles sported the highest ratio of bacteria contaminants per use (6.38), followed by pull handles (2.24), then push plates (1.2). They theorize that this difference may be because pull handles and levers require more hand contact to open the doors, leading to a greater concentration of bacteria on the handle.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/41696222-b6da-4641-8571-f2058ef15d6e.png)
+
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1kc1OwzAQhO99isUIbklaUCV-knDiDSquaJtsYoMTV95NQ3h6HBrSClXcuPgwOx7NfpsiaE9VprTIjh-SRHojQj4uXJOwRk9PYfzKvsikD-_V-lmqXkFhkTlTkzv6dkbbTsS1CkoUjNh8UqYs-pomRehDMrXRpq0ZBtdB07FA6SD8gwaHLUFLe_JBiuHFsJHRdX15e_9oLYQpa1e8U3kx5XXenvTWVHtTxmiS8GlMLt3k2xvM1CyuJlUja8GaT0bTxGJbZ4rmRbTro8J1bShfoWVS-aYnkjTBPOXCm50A8tAWMFKaC-0sSuV8E58S7U1Zk3D8xgFhYMYUQjupojuVp8khLF8sUvwNWExD1rR0vmKIFZ2p1c1y-bMdmVqH7PWsBEDNeJBRV38c_Qjq7OUPuzNsBzg6RxTwLyy-AOam7XQ" height="700" style=""></iframe>
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJztUk2P0zAQvfdXWEa7TaTGaRfBgcZFVALEZS9wQ6vKsSeN28SO7ElLQfx3pmm6H0cO3JAiJTPzMjPvvSmMPTBrJK_KLHiPfFXklFpNiqiD7XCVVL3TaL1LzIzFGWFT9mvC2EEFtqO42kUmmRFbwI8NtOAwrk_f1PZetZDE9Pv8YUloW7HkOWZ9-mISapWyANgHd8aMjXQAhTDiqMOSCsIaqllzgYkYNIXTGrGL7_Jce-dAo6iUhtL7vXCAObjN53UezV7s4qsfVdk2cnF7gBCJijzcicVieu5G64tOBRp17w0I6yIEXEPlAyQjvXQ5-Z0Yr_vzQjM2vQgzpa_rwGwXadA0TZdFPso2mRRnZXWjYhzEjTVNycoe0TvOjEKV1QEqya8ssIZtsEYom5983_YRjR-BjaIMSn75e6N973AsRfsTJI-tapox0_rSNpDZKpADkmPogUxVz1YZ1MiIdSTY1hFVzlAFckfyTdkot-fs5W7H4_FJXe3bfGATxpfo6u59LwfwzesPN3ef6HmiQ8EjoVvVdkuyT5JeXYBhB776em5T5Op6exft_l_lv79K8nIQ528v8mgN1pK_nc_HhOvbzkekrm8ezfoDtrJ3ew" height="800" style=""></iframe>
@@ -160,3 +165,4 @@ There can be up to 10 million dust mites in one bed alone -- and their faeces an
 [16]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_odkw%3Dhandbag%26_sop%3D12%26_osacat%3D0%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR11.TRC2.A0.H0.TRS1%26_nkw%3DWatch%2B%2526%2Bjewelry%26_sacat%3D0
 [17]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_odkw%3DWatch%2B%2526%2Bjewelry%26_sop%3D12%26_osacat%3D281%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR12.TRC2.A0.H0.XWatch%2Bcleaner.TRS0%26_nkw%3DWatch%2Bcleaner%26_sacat%3D281
 [18]: https://www.amazon.com/s/ref=as_li_ss_tl?url=search-alias=aps&field-keywords=pillow&rh=i:aps,k:pillow&linkCode=ll2&tag=issajason-20&linkId=3d46001027609465ed089e020f3b876a
+[19]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_odkw%3Ddoor%2Bhandle%26_sop%3D12%26_osacat%3D0%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR0.TRC0.H0.Xhandle.TRS0%26_nkw%3Dhandle%26_sacat%3D0
