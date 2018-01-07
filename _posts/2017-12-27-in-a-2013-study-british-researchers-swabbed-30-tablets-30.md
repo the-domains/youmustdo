@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What you gonna do when you will buy and received your next used
   smartphone?
-dateModified: '2018-01-07T10:57:01.074Z'
-datePublished: '2018-01-07T10:57:02.432Z'
+dateModified: '2018-01-07T11:02:02.275Z'
+datePublished: '2018-01-07T11:02:03.424Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -112,8 +112,7 @@ After repeated passes with the **[mop][14]**, the once-clean solution became con
 
 But you know the worst part if you use old cotton mop? Each time you twist the dirty mop with your hand what do you always touch just after? The HANDLE! If you never disinfect handle there's a problem.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea6c78fa-9731-4bff-b9c9-193204442645.png)
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw1jslqwzAYhN_GN8VarNgqiJKlCSGXENzE6UX81pKotWVjGQx9-qbFPc58M8M8xrGPL2k6TdMCWvjuwkJ3bVqng3USomq8ilGNzauyQXfGh7t8L3dFEjpjJSGMsZxyTEjSOzUY1cpVeTltj4djhbdv59mNsrWDfkAwPlqDooWnQtlMB0lOH9dbda7Yfr25rS7rXbnnMxwlwf_jvRSECJrrAjFqKOLEZagQ2CAnlqwWjEMNMIe95M8mXiaND1-b37dNQ5MR7tLHCJ8Qu4Ao_qMHI7U2BedMCy5ywxjPC-LAAraZzoV1-Aei116t" height="175" style=""></iframe>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13ea4260-8d19-48f2-a105-14af36feef69.png)
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1kc1OwzAQhO99isUIbklaUCV-knDiDSquaJtsYoMTV95NQ3h6HBrSClXcuPgwOx7NfpsiaE9VprTIjh-SRHojQj4uXJOwRk9PYfzKvsikD-_V-lmqXkFhkTlTkzv6dkbbTsS1CkoUjNh8UqYs-pomRehDMrXRpq0ZBtdB07FA6SD8gwaHLUFLe_JBiuHFsJHRdX15e_9oLYQpa1e8U3kx5XXenvTWVHtTxmiS8GlMLt3k2xvM1CyuJlUja8GaT0bTxGJbZ4rmRbTro8J1bShfoWVS-aYnkjTBPOXCm50A8tAWMFKaC-0sSuV8E58S7U1Zk3D8xgFhYMYUQjupojuVp8khLF8sUvwNWExD1rR0vmKIFZ2p1c1y-bMdmVqH7PWsBEDNeJBRV38c_Qjq7OUPuzNsBzg6RxTwLyy-AOam7XQ" height="700" style=""></iframe>
 
