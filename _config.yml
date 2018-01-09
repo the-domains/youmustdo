@@ -71,3 +71,7 @@ purpose:
   - type: external
     url: 'https://twitter.com/youmustdo1'
     label: Follow us on Twitter
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6c32e92-d734-4378-acc4-d517a8ceefef.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/65880a7b-750d-4a48-af2c-425840050bdc.png
