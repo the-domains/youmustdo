@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What’s the first thing you gonna do when you will buy and received
   your next used smartphone?
-dateModified: '2018-01-07T21:47:19.909Z'
-datePublished: '2018-01-07T21:47:21.919Z'
+dateModified: '2018-01-10T09:46:24.662Z'
+datePublished: '2018-01-10T09:46:26.008Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -146,6 +146,10 @@ Researchers looked to see whether or not certain **[handle][19]** types were mor
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVUMtuwyAQ_BXEgVtiSJAdt9nk0ku_osKwxjQGqoWqcr--tKlU9Tg7L82ew0wmIitkgXcd2bhLZm-i-cxpZ1zZSsW4tzl22Nl4zaDEG-iTWOGdlLCmos-0Aa5oK-UUbBEztEyxhnR7fgIpp95JK3uchqNyetAo1ah7qdWMo5aiQijFvJrS-g4NkrG3kPxLcP8Izj6Cqwvw4XDibMHglwp8bPdiKa-tzQNPmbMpk0MC3phoyIf06_tW1m1F4HfFQ8oJHzn7mf9nupy7-0cuX_JpXWw" height="150" style=""></iframe>
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwljksOgjAUAK_SvL0tHwNRKTsTV16hecADqqUlbZXI6UXZzWpmKmSjp17CGON8FsLNZDm1i-546yYx3taxBBbRDxQlqMagfQIL8WNIgntFoy2drbN0aZzvyO8MdaWngQXf7uKwmXFqMATsnD_grHnIOU64OotL-Kd6bSiI4pSru3urrFBZkuYqSVVSqvTIH_MADM02cf3dAdt7EhJgoq4E1l8REEPj" height="150" style=""></iframe>
+
+Try this app for your twitter. Manage filter is excellent: 
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzSVTIKEpNs1XKKCkpKLbS108sKNDLTcxLTE9Ny8ksKUkt0kvOz9UvKarUz3M1Cy0MtEhUsnMqzcxJUajMLy1SCCkHK1JITE7OL80rUQByMxR8wfrdIPpt9BPtAE-0JKo" height="244" style=""></iframe>
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1kc1OwzAQhO99isUIbklaUCV-knDiDSquaJtsYoMTV95NQ3h6HBrSClXcuPgwOx7NfpsiaE9VprTIjh-SRHojQj4uXJOwRk9PYfzKvsikD-_V-lmqXkFhkTlTkzv6dkbbTsS1CkoUjNh8UqYs-pomRehDMrXRpq0ZBtdB07FA6SD8gwaHLUFLe_JBiuHFsJHRdX15e_9oLYQpa1e8U3kx5XXenvTWVHtTxmiS8GlMLt3k2xvM1CyuJlUja8GaT0bTxGJbZ4rmRbTro8J1bShfoWVS-aYnkjTBPOXCm50A8tAWMFKaC-0sSuV8E58S7U1Zk3D8xgFhYMYUQjupojuVp8khLF8sUvwNWExD1rR0vmKIFZ2p1c1y-bMdmVqH7PWsBEDNeJBRV38c_Qjq7OUPuzNsBzg6RxTwLyy-AOam7XQ" height="700" style=""></iframe>
 
