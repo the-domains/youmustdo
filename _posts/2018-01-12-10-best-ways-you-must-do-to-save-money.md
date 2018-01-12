@@ -4,15 +4,15 @@ description: >-
   Why do you need a car if you can walk or ride a bicycle. If you really need a
   car why you buy a big pick-up instead of small economic car. Cars are painful
   waste of money.
-dateModified: '2018-01-12T23:06:32.125Z'
-datePublished: '2018-01-12T23:20:27.111Z'
+dateModified: '2018-01-12T23:24:04.320Z'
+datePublished: '2018-01-12T23:24:05.688Z'
 title: 10 Best ways you must do to save money
 author: []
 publisher: {}
 via: {}
 hasPage: true
 starred: false
-datePublishedOriginal: '2018-01-12T23:20:27.111Z'
+datePublishedOriginal: '2018-01-12T23:23:57.883Z'
 sourcePath: _posts/2018-01-12-10-best-ways-you-must-do-to-save-money.md
 url: 10-best-ways-you-must-do-to-save-money/index.html
 _type: MediaObject
@@ -50,7 +50,7 @@ Get rid of your credit card now. If you don't have the money don't buy. But if y
 
 ## 3\. Stop smoking & all bad habit like alcohol drugs
 
-Stopping smoking can save you a lot $$$ each month. Also its good for your health. Same thing for alcohol and drugs. Putting money into a product or action that does not produce any financial, or otherwise, beneficial results. There is no return on your investment. A pack of cigarettes range anywhere from 5$ to 12$ per pack. If you smoke approximately 1 pack of cigarettes per day, you can potentially save over 2200$ per year! (Its more then the price of my car i used 2 years in point 1 hehe)
+Stopping smoking can save you a lot $$$ each month. Also its good for your health. Same thing for alcohol and drugs. Putting money into a product or action that does not produce any financial, or otherwise, beneficial results. There is no return on your investment. A pack of cigarettes range anywhere from 5$ to 12$ per pack. If you smoke approximately 1 pack of cigarettes per day, you can potentially save over 2200$ per year! (Its more then the price of my car i used 2 years in point 1 hehe) You can **[buy some patches][4]** to help quit.
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyNkFtLAzEQhd_9FSGwfdtuLo1b26bSVovPXp5USjab7YZuLmSja8Efb6zFN0EYhnPmDHzDLLTZgz4eO8VhVB8xr5V0QUTt7Mw6q-aVC7UKMzT3oq613SdlRNhrO0MQ9EFyWLwUwb2rMFaVOI6lMz9WG1_gosQ4Z5QglOMrwliOCnzdNJRPRtG5Ttcc4ylCI-Mjf96sNne366eHx1e4vFgIEBNHRQ53VSfsAYI2qOZP3P9Z_q3ijJWMlKRkdCSF8SljlE7RhCD8fUxQvI3R9xldZWSbahiGX16yvWxT1-M2mi6j210T0pje3E9QRi53vZAiJnsy9jAk2Rt3SM_LyNqLKFvVn_acTxEmcHmOwTkEn0CtxXFRiOUX7g-BiA" height="244" style=""></iframe>
 
@@ -60,3 +60,4 @@ Stopping smoking can save you a lot $$$ each month. Also its good for your healt
 [1]: https://www.amazon.com/gp/goldbox/ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=jasiss-20&linkId=029d88538e9d8e2329346dc5fd7d6d2c
 [2]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2F132384615490
 [3]: https://share.payoneer.com/nav/isI1sI-VDZgy1ZnZuvk9nhS_obDzq2Twoz76apWTQcZpV-CW3QME9To1_TJIobuAYJMNnKgSkmmGHEcSFr4OsQ2
+[4]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_from%3DR40%26_sacat%3D0%26_nkw%3Dsmoking%2Bpatches%26_sop%3D12
