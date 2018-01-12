@@ -4,8 +4,8 @@ description: >-
   Why do you need a car if you can walk or ride a bicycle. If you really need a
   car why you buy a big pick-up instead of small economic car. Cars are painful
   waste of money.
-dateModified: '2018-01-12T23:28:14.357Z'
-datePublished: '2018-01-12T23:28:15.321Z'
+dateModified: '2018-01-12T23:34:22.342Z'
+datePublished: '2018-01-12T23:34:23.788Z'
 title: 10 Best ways you must do to save money
 author: []
 publisher: {}
@@ -52,6 +52,10 @@ Get rid of your credit card now. If you don't have the money don't buy. But if y
 
 Stopping smoking can save you a lot $$$ each month. Also its good for your health. Same thing for alcohol and drugs. Putting money into a product or action that does not produce any financial, or otherwise, beneficial results. There is no return on your investment. A pack of cigarettes range anywhere from 5$ to 12$ per pack. If you smoke approximately 1 pack of cigarettes per day, you can potentially save over 2200$ per year! (Its more then the price of my car i used 2 years in point 1 hehe). You can **[buy some patches][4]** to help quit.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65afd5d9-feec-400a-abde-0528ab7aa1cd.png)
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJztk8Fy0zAQhu99iowPvqWRZMmWSl0GmA6hJSRQypSTR5bWiagtB0nBlKfHcZK2d5jpJTftv7v_7uibPTeVkw2MfHioIY86o8PqDBO0_v1qBWa5CmeEboNo1Ei3NHYoyCN0iHdFg-CVa-va2GUe2TYaDb5l6zS4XdqpPJpMOj-28lQ28k9rx1L7Bx-gOVVtM-mtlxD85OfrG3C_jIJv4LxpbU4QyhAnJJ5buLrJcTxfg5Nhm3oP4Y2ehqaOZ9LdQ1jUUkF-exP7duP6l_exgyqXvvC-qE0RTB1LXYSHNeRr1-qNCr1s7-PgpLrvdy-Mzn9Ib7wfExQ3g-l6MN2t3Nstt4P7EYPcgA35W4Su52Imppdx32r9c2Hr_kHnJeGQYSYYljRNhMSYcihlxjGtuBZJ7FdtV-y_K7gNDI1FuwbrC2MLC13RGavbbshGF-eTHbmLk5PzI8P_whBnXxfi8vqJ4UHYMxRCcZSwpFRcA6qwlgkVCRdclpmmJT0yfHmGt7Pp_Cp998TwIOwZYoy5yHClaaqBJVRyqWgpFWI0Y5SSI8OXZ4jZlzu0-P7sDvfC4Q6TjAuNiKKZTlOeUFJpjCRmmmkl0_LI8MUZpnefP04_icUjw0dhzzClKcrSEstKA2UkYYITxjSpeFLKlIl_YPgX_KkTdQ" height="175" style=""></iframe>
+
+4...
 
 [0]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fdeals
 [1]: https://www.amazon.com/gp/goldbox/ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=jasiss-20&linkId=029d88538e9d8e2329346dc5fd7d6d2c
