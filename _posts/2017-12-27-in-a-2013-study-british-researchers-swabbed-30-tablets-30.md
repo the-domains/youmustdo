@@ -8,18 +8,19 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What’s the first thing you gonna do when you will buy and received
   your next used smartphone?
-dateModified: '2018-01-13T17:33:40.918Z'
-datePublished: '2018-01-13T17:33:42.306Z'
+dateModified: '2018-01-13T17:36:56.430Z'
+datePublished: '2018-01-13T17:36:57.796Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-12-27-in-a-2013-study-british-researchers-swabbed-30-tablets-30.md
-hasPage: true
+hasPage: false
+isBasedOnUrl: >-
+  https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_odkw%3Dmagazine%2Brack%2Btoilet%2Bholder%26_sop%3D12%26LH_BIN%3D1%26_osacat%3D0%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR12.TRC2.A0.H0.Xused%2Biphone.TRS0%26_nkw%3Dused%2Biphone%26_sacat%3D0
 starred: false
 datePublishedOriginal: '2017-12-27T15:14:59.873Z'
-url: 15-things-you-must-clean-but-almost-never-do/index.html
-_type: Article
+_type: MediaObject
 
 ---
 # _**15 things you must clean but almost never do.**_
