@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What’s the first thing you gonna do when you will buy and received
   your next used smartphone?
-dateModified: '2018-01-13T17:36:56.430Z'
-datePublished: '2018-01-13T17:36:57.796Z'
+dateModified: '2018-01-13T17:47:57.306Z'
+datePublished: '2018-01-13T17:48:00.074Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -159,9 +159,7 @@ Try this app for your twitter. Manage filter is excellent:
 > It's not finish stay in touch for next related articles at You Must Do!
 > We don't want to harass you with emails newsletters. Just follow us on Twitter to get the news.
 
-Next article:
-
-https://thegrid.ai/youmustdo/10-best-ways-you-must-do-to-save-money
+Copyright (c) 2018 -[https://thegrid.ai/youmustdo][20]- All rights reserved.
 
 [0]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_odkw%3Dapple%2Bearphone%26LH_PrefLoc%3D1%26_ftrt%3D901%26_sop%3D12%26_dmd%3D1%26_osacat%3D0%26_ipg%3D100%26_ftrv%3D1%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR12.TRC2.A0.H0.TRS0%26_nkw%3Dused%2Bsmartphone%26_sacat%3D0
 [1]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FNO-Fingerprint-2-5D-9H-Tempered-Glass-Screen-Protector-iphone-frosted-clear-BLUE%2F131902933686%3Fhash%3Ditem1eb6070ab6%3Am%3AmtQNIjAx9gyDdONL33uyyjw
@@ -183,3 +181,4 @@ https://thegrid.ai/youmustdo/10-best-ways-you-must-do-to-save-money
 [17]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_odkw%3DWatch%2B%2526%2Bjewelry%26_sop%3D12%26_osacat%3D281%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR12.TRC2.A0.H0.XWatch%2Bcleaner.TRS0%26_nkw%3DWatch%2Bcleaner%26_sacat%3D281
 [18]: https://www.amazon.com/s/ref=as_li_ss_tl?url=search-alias=aps&field-keywords=pillow&rh=i:aps,k:pillow&linkCode=ll2&tag=issajason-20&linkId=3d46001027609465ed089e020f3b876a
 [19]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_odkw%3Ddoor%2Bhandle%26_sop%3D12%26_osacat%3D0%26_from%3DR40%26_trksid%3Dp2045573.m570.l1313.TR0.TRC0.H0.Xhandle.TRS0%26_nkw%3Dhandle%26_sacat%3D0
+[20]: https://thegrid.ai/youmustdo
