@@ -19,6 +19,8 @@ author:
   email: youmustdo1@gmail.com
   name: youmustdo
   url: 'https://thegrid.ai/youmustdo'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/65880a7b-750d-4a48-af2c-425840050bdc.png
 name: youmustdo
 colors:
   brandColors:
@@ -37,6 +39,11 @@ navigation:
   - name: Advertising
     id: c2a9963d-9c30-4fa9-86f8-71a78b095490
     type: content
+  - name: 'Copyright © 2018 -https://thegrid.ai/youmustdo- All rights reserved.'
+    id: 7ac473a8-06dc-4b42-8b85-a87b6982ffd8
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6c32e92-d734-4378-acc4-d517a8ceefef.png
 title: You must do
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -71,7 +78,3 @@ purpose:
   - type: external
     url: 'https://twitter.com/youmustdo1'
     label: Follow us on Twitter
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6c32e92-d734-4378-acc4-d517a8ceefef.png
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/65880a7b-750d-4a48-af2c-425840050bdc.png
