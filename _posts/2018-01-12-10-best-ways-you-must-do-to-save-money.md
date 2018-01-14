@@ -4,8 +4,8 @@ description: >-
   Why do you need a car if you can walk or ride a bicycle. If you really need a
   car why you buy a big pick-up instead of small economic car. Cars are painful
   waste of money.
-dateModified: '2018-01-14T14:10:06.605Z'
-datePublished: '2018-01-14T14:10:07.797Z'
+dateModified: '2018-01-14T14:18:58.007Z'
+datePublished: '2018-01-14T14:18:59.187Z'
 title: 10 Best ways you must do to save money
 author: []
 publisher: {}
@@ -66,6 +66,8 @@ Coffee there, chips there or soft drink there... Bad habit can lead you to spend
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a3a5f75-c9eb-4002-8551-de915e48cab8.png)
 
 ## 6\. Do FREE sports & activities 
+
+I'm sure you know somebody that have a fitness club membership plan or a machine workout at home. Most of the time the machine finish in the wardrobe with dust on it. 
 
 [0]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fdeals
 [1]: https://www.amazon.com/gp/goldbox/ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=jasiss-20&linkId=029d88538e9d8e2329346dc5fd7d6d2c
