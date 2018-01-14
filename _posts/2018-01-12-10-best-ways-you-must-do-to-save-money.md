@@ -4,8 +4,8 @@ description: >-
   Why do you need a car if you can walk or ride a bicycle. If you really need a
   car why you buy a big pick-up instead of small economic car. Cars are painful
   waste of money.
-dateModified: '2018-01-14T11:09:50.665Z'
-datePublished: '2018-01-14T11:09:51.561Z'
+dateModified: '2018-01-14T11:10:00.858Z'
+datePublished: '2018-01-14T11:10:01.732Z'
 title: 10 Best ways you must do to save money
 author: []
 publisher: {}
@@ -60,7 +60,7 @@ Stopping smoking can save you a lot $$$ each month. Also its good for your healt
 At approximate **$4 **for **[lunch][6]**, that's a 60% savings over eating out. If you save **$6 **a day X 5 days a week = $30 a week, **$120 **a month, and almost **$1,500 **a year.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/214ac062-88c1-4479-bf5f-680628290949.png)
 
-## 5\. **[Stop buying in vending machine][7]**
+## 5\. [Stop buying in ][7]**[vending machine][7]**
 
 [0]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fdeals
 [1]: https://www.amazon.com/gp/goldbox/ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=jasiss-20&linkId=029d88538e9d8e2329346dc5fd7d6d2c
