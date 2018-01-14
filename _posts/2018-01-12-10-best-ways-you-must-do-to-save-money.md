@@ -4,8 +4,8 @@ description: >-
   Why do you need a car if you can walk or ride a bicycle. If you really need a
   car why you buy a big pick-up instead of small economic car. Cars are painful
   waste of money.
-dateModified: '2018-01-14T11:49:45.733Z'
-datePublished: '2018-01-14T11:49:46.458Z'
+dateModified: '2018-01-14T14:04:13.731Z'
+datePublished: '2018-01-14T14:04:15.125Z'
 title: 10 Best ways you must do to save money
 author: []
 publisher: {}
@@ -62,7 +62,7 @@ At approximate **$4 **for **[lunch][6]**, that's a 60% savings over eating out. 
 
 ## 5\. [Stop buying in ][7]**[vending machine][7]**
 
-Coffee there, chips there or soft drink there... Bad habit can lead you to spend. If you don't do step \#4 it can grow fast. If you spend 5$ per week in machines its 20$ per month.
+Coffee there, chips there or soft drink there... Bad habit can lead you to spend. If you don't do step \#4 it can grow fast. If you spend 5$ per week in machines its around 25$ per month.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a3a5f75-c9eb-4002-8551-de915e48cab8.png)
 
 [0]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fdeals
