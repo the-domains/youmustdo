@@ -4,8 +4,8 @@ description: >-
   Why do you need a car if you can walk or ride a bicycle. If you really need a
   car why you buy a big pick-up instead of small economic car. Cars are painful
   waste of money.
-dateModified: '2018-01-15T20:36:20.411Z'
-datePublished: '2018-01-15T20:36:21.377Z'
+dateModified: '2018-01-15T20:36:38.707Z'
+datePublished: '2018-01-15T20:36:40.848Z'
 title: 10 Best ways you must do to save money
 author: []
 publisher: {}
@@ -73,7 +73,7 @@ I'm sure you know somebody that have a fitness club membership or a machine work
 
 Normally an all included trip cost around 2000$ to 10 000$ for 2-3 weeks. You can check there:
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtzDEOgjAUANDdU3z_DoVUCBrKCdwcHE1pP22lUCw1xNvLauL2ptdKsJEGgTal5cLYtm35U4dXUJ9chYkp79SYNRWvecWzsuS8qc8lQpLRUBL46L2cR-wOrZsMrFH9TF6_bYpLPlNibpKG_kyb08kKPNUNgiVn7L7WBYL0O25EkCzBPUSvYQgRrrSuR4Q-RE1RYIGsa5nsvq09PX4" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtzDEOgjAUANDdU3z_DoVUCBrKCdwcHE1pP22lUCw1xNvLauL2ptdKsJEGgTal5cLYtm35U4dXUJ9chYkp79SYNRWvecWzsuS8qc8lQpLRUBL46L2cR-wOrZsMrFH9TF6_bYpLPlNibpKG_kyb08kKPNUNgiVn7L7WBYL0O25EkCzBPUSvYQgRrrSuR4Q-RE1RYIGsa5nsvq09PX4" height="100" style=""></iframe>
 
 I'm sure you didn't visit all what's around you in your own city or country! There's some tip for travelling:
 
