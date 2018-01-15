@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What’s the first thing you gonna do when you will buy and received
   your next used smartphone?
-dateModified: '2018-01-13T17:53:31.534Z'
-datePublished: '2018-01-13T17:53:34.086Z'
+dateModified: '2018-01-15T18:06:43.999Z'
+datePublished: '2018-01-15T18:06:45.403Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -135,6 +135,8 @@ Anything you hang on yourself should be cleaned and disinfected about once a wee
 
 There can be up to 10 million dust mites in one bed alone -- and their faeces and body parts can cause hay fever, eczema and asthma, while the bacteria in our beds can cause colds, allergic, flu and diarrhea. Tip: To check whether you should throw away your **[pillow][18]** is to fold it in half and see if it springs back into shape. If it doesn't, it is time for a change.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ae338d9-2ad0-4634-b0ac-e4f15deaf7ab.png)
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxlzDEOgjAUANDdU3z_LoVUCBqKF3BzcDSl_dBKoaRt6PV1NW5vep0EE2gUaFLarozlnAu9Dd7tuVgpMeWsmk9tzRte81NVcd42l-oWrRY2viVCkmGiJPA1OLnO2B86u0wQg_opZXbJ70YVyi_MLnKivxMhW52MwHPTIhiyk_m2TYkg3RcPIkiG4OmD0zD6AHeK8Ygw-KApCCyR9R2T_QeUgUFL" height="175" style=""></iframe>
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVkM1OwzAQhF8l8sG3Nj8lTQLdcgCEQOIUJMoJbeyNYxrbyDZC4ekxFAlxnZlPM5qdHj0ayoIXwPLcC7OyuEaDn86uUIYlRDJr4UxOuTCXDkr-Bmctn-Hdl1xgJOX8ApMzpNBLsnxAa8lD8fx0eDx0fX9Vb-9vuuahv634CKmOz9oe766hJkFjPXZtjVVVyw0WNEjCBstC4Gbb8gg6BHzFkKZUBY8exVFb9aLlP4NlH1rGCVhTtSybSKspAuuSHoR3c2pTwKxj2eDSQA8sOQa90vaX-07GZSZgp8S5dZYuWPbzzB-03-Wns_Zfgzdmpw" height="175" style=""></iframe>
 
