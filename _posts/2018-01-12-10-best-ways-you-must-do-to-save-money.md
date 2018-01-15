@@ -4,8 +4,8 @@ description: >-
   Why do you need a car if you can walk or ride a bicycle. If you really need a
   car why you buy a big pick-up instead of small economic car. Cars are painful
   waste of money.
-dateModified: '2018-01-15T22:28:00.800Z'
-datePublished: '2018-01-15T22:28:01.828Z'
+dateModified: '2018-01-15T22:34:42.200Z'
+datePublished: '2018-01-15T22:34:45.869Z'
 title: 10 Best ways you must do to save money
 author: []
 publisher: {}
@@ -88,14 +88,14 @@ Everyone has a skill that they can earn extra money. If you do 1 side job, even 
 
 * taking a part-time seasonal job
 * cutting grass or doing yard work
-* cleaning homes 
+* cleaning homes
 * babysitting, animal-sitting
 * running errands for people in your community
 * driving with a service like Uber
 * offering consulting services
 * selling on **[eBay][9]** or **[amazon][10]**
 * do garages sells
-* do some surveys 
+* do some surveys
 
 ## 9\. Live in your parents home
 
@@ -111,7 +111,7 @@ ENERGY STAR certified bulbs:
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/618e2f36fc040f4cbd50fc439c43cfea31dd6de1.png" /><h1>energy star bulb | eBay</h1><p>Find great deals on eBay for energy star bulb. Shop with confidence.</p></article>
 
-
+Try to not use dryer, hang your cloth outside for fresh air drying old style. Eat more cold meal instead using your oven each time.
 
 [0]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fdeals
 [1]: https://www.amazon.com/gp/goldbox/ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=jasiss-20&linkId=029d88538e9d8e2329346dc5fd7d6d2c
