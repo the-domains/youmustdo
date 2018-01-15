@@ -4,8 +4,8 @@ description: >-
   Why do you need a car if you can walk or ride a bicycle. If you really need a
   car why you buy a big pick-up instead of small economic car. Cars are painful
   waste of money.
-dateModified: '2018-01-15T17:57:30.023Z'
-datePublished: '2018-01-15T17:57:30.818Z'
+dateModified: '2018-01-15T19:05:09.693Z'
+datePublished: '2018-01-15T19:05:11.775Z'
 title: 10 Best ways you must do to save money
 author: []
 publisher: {}
@@ -71,11 +71,25 @@ I'm sure you know somebody that have a fitness club membership or a machine work
 
 ## 7\. Vacation & travelling tricks
 
-Normally an all included trip cost around 2000$ to 10 000$ for 2-3 weeks. 
+Normally an all included trip cost around 2000$ to 10 000$ for 2-3 weeks. You can check there:
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtzDEOgjAUANDdU3z_DoVUCBrKCdwcHE1pP22lUCw1xNvLauL2ptdKsJEGgTal5cLYtm35U4dXUJ9chYkp79SYNRWvecWzsuS8qc8lQpLRUBL46L2cR-wOrZsMrFH9TF6_bYpLPlNibpKG_kyb08kKPNUNgiVn7L7WBYL0O25EkCzBPUSvYQgRrrSuR4Q-RE1RYIGsa5nsvq09PX4" height="244" style=""></iframe>
 
+There's a common tip for travelling 
 
+## 8\. SIDE JOBS
+
+Everyone has a skill that they can make extra money on. If you do one extra side job, even one time a week you'll see a quick increase in your savings. Some ideas include;
+
+* taking a part-time seasonal job
+* cutting grass or doing yard work
+* cleaning homes of friends, family or neighbors
+* babysitting or animal-sitting
+* running errands for people in your community
+* driving with a service like Uber or Lyft
+* offering consulting services
+* sell your stuff on eBay or amazon
+* make garages sells 
 
 [0]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fdeals
 [1]: https://www.amazon.com/gp/goldbox/ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=jasiss-20&linkId=029d88538e9d8e2329346dc5fd7d6d2c
