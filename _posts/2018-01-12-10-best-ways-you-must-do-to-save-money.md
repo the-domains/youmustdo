@@ -4,8 +4,8 @@ description: >-
   Why do you need a car if you can walk or ride a bicycle. If you really need a
   car why you buy a big pick-up instead of small economic car. Cars are painful
   waste of money.
-dateModified: '2018-01-15T21:08:43.779Z'
-datePublished: '2018-01-15T21:08:45.059Z'
+dateModified: '2018-01-15T21:15:39.141Z'
+datePublished: '2018-01-15T21:15:40.541Z'
 title: 10 Best ways you must do to save money
 author: []
 publisher: {}
@@ -97,6 +97,8 @@ Everyone has a skill that they can make extra money on. If you do one extra side
 * make garages sells
 
 ## 9\. Live in your parents home
+
+If you can why you want to go an a rent? Instead you can rest in your parents home? Or if you can't try to share a rent apartment with friend. 
 
 [0]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fdeals
 [1]: https://www.amazon.com/gp/goldbox/ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=jasiss-20&linkId=029d88538e9d8e2329346dc5fd7d6d2c
