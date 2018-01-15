@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: 'Good! if you are here contact us for ads plan at: youmustdo1@gmail.com'
-dateModified: '2018-01-15T17:58:55.946Z'
-datePublished: '2018-01-15T17:58:57.629Z'
+dateModified: '2018-01-15T18:01:53.257Z'
+datePublished: '2018-01-15T18:01:53.497Z'
 title: Advertising
 author: []
 publisher: {}
@@ -23,4 +23,4 @@ Thanks
 
 Best regards
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtzDEOgjAUANDdU3z_DoVUCBrKCdwcHE1pP22lUCw1xNvLauL2ptdKsJEGgTal5cLYtm35U4dXUJ9chYkp79SYNRWvecWzsuS8qc8lQpLRUBL46L2cR-wOrZsMrFH9TF6_bYpLPlNibpKG_kyb08kKPNUNgiVn7L7WBYL0O25EkCzBPUSvYQgRrrSuR4Q-RE1RYIGsa5nsvq09PX4" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxlzDEOwiAUANDdU3z_3tIGS6op9QJuDo6G0m_BUlEgcn0bN-P2ptcpMIFuEk1KzwNjOecyzS9nNJXaL0w7q-eibbjgDS_qmvNW7OtjtKO08a4QkgoTJYnXwanHjP2ms8sEMeifUmWX_Nvo72kXNdHfiZDtmIzEnWgRDNnJrK2oEJRbcSaCZAguPrgRbj7AiWLcIgw-jBQkVsj6jqn-A4JEQTE" height="200" style=""></iframe>
