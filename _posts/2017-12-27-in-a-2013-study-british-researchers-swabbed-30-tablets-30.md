@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What’s the first thing you gonna do when you will buy and received
   your next used smartphone?
-dateModified: '2018-01-15T20:37:37.592Z'
-datePublished: '2018-01-15T20:37:39.277Z'
+dateModified: '2018-01-15T22:37:32.535Z'
+datePublished: '2018-01-15T22:37:34.069Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -159,6 +159,8 @@ Try this app for your twitter. Manage filter is excellent:
 
 > It's not finish stay in touch for next related articles at You Must Do!
 > We don't want to harass you with emails newsletters. Just follow us on Twitter to get the news.
+
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65880a7b-750d-4a48-af2c-425840050bdc.png" /><h1>Next article: 10 Best ways you must do to save money</h1><p>I can tell you some years ago during my college time i bought a 10 years old used car 2000$ cash ...</p></article>
 
 
 
