@@ -4,8 +4,8 @@ description: >-
   Why do you need a car if you can walk or ride a bicycle. If you really need a
   car why you buy a big pick-up instead of small economic car. Cars are painful
   waste of money.
-dateModified: '2018-01-15T22:17:08.015Z'
-datePublished: '2018-01-15T22:17:09.230Z'
+dateModified: '2018-01-15T22:17:29.579Z'
+datePublished: '2018-01-15T22:17:32.175Z'
 title: 10 Best ways you must do to save money
 author: []
 publisher: {}
