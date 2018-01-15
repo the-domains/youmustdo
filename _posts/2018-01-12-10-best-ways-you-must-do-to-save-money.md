@@ -4,8 +4,8 @@ description: >-
   Why do you need a car if you can walk or ride a bicycle. If you really need a
   car why you buy a big pick-up instead of small economic car. Cars are painful
   waste of money.
-dateModified: '2018-01-15T20:36:45.182Z'
-datePublished: '2018-01-15T20:36:46.444Z'
+dateModified: '2018-01-15T21:03:26.120Z'
+datePublished: '2018-01-15T21:03:30.383Z'
 title: 10 Best ways you must do to save money
 author: []
 publisher: {}
@@ -77,7 +77,7 @@ Normally an all included trip cost around 2000$ to 10 000$ for 2-3 weeks. You ca
 
 I'm sure you didn't visit all what's around you in your own city or country! There's some tip for travelling:
 
-* closer you go from home, less you spend 
+* closer you go from home, less you spend
 * you can **[camp ][8]**instead of stay in an hotel room
 * rent / exchange your apartment / house during your trip
 * travel with family or friends to share fees
@@ -93,8 +93,8 @@ Everyone has a skill that they can make extra money on. If you do one extra side
 * running errands for people in your community
 * driving with a service like Uber or Lyft
 * offering consulting services
-* sell your stuff on eBay or amazon
-* make garages sells 
+* sell your stuff on **[eBay][9]** or **[amazon][10]**
+* make garages sells
 
 [0]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fdeals
 [1]: https://www.amazon.com/gp/goldbox/ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=jasiss-20&linkId=029d88538e9d8e2329346dc5fd7d6d2c
@@ -105,3 +105,5 @@ Everyone has a skill that they can make extra money on. If you do one extra side
 [6]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_from%3DR40%26_sacat%3D0%26_nkw%3Dlunch%26_sop%3D12
 [7]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_from%3DR40%26_sacat%3D0%26_nkw%3Dvending%2Bmachine%26_sop%3D12
 [8]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_from%3DR40%26_sacat%3D0%26_nkw%3Dtent%26_sop%3D12
+[9]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2F
+[10]: https://www.amazon.com//ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=jasiss-20&linkId=e27f3336b46244803d38682c9582cb85
