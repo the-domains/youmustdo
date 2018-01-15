@@ -4,8 +4,8 @@ description: >-
   Why do you need a car if you can walk or ride a bicycle. If you really need a
   car why you buy a big pick-up instead of small economic car. Cars are painful
   waste of money.
-dateModified: '2018-01-15T22:17:29.579Z'
-datePublished: '2018-01-15T22:17:32.175Z'
+dateModified: '2018-01-15T22:19:45.061Z'
+datePublished: '2018-01-15T22:19:46.551Z'
 title: 10 Best ways you must do to save money
 author: []
 publisher: {}
@@ -108,7 +108,7 @@ ENERGY STAR certified bulbs:
 * Save $30-80 per bulb
 * Last about 10 to 25 times longer
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/618e2f36fc040f4cbd50fc439c43cfea31dd6de1.png" /><h1>energy star bulb | eBay</h1><p>Find great deals on eBay for energy star bulb and energy bulb. Shop with confidence.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/618e2f36fc040f4cbd50fc439c43cfea31dd6de1.png" /><h1>energy star bulb | eBay</h1><p>Find great deals on eBay for energy star bulb. Shop with confidence.</p></article>
 
 
 
