@@ -4,8 +4,8 @@ description: >-
   Why do you need a car if you can walk or ride a bicycle. If you really need a
   car why you buy a big pick-up instead of small economic car. Cars are painful
   waste of money.
-dateModified: '2018-01-15T19:20:12.890Z'
-datePublished: '2018-01-15T19:20:14.684Z'
+dateModified: '2018-01-15T20:35:48.559Z'
+datePublished: '2018-01-15T20:35:50.165Z'
 title: 10 Best ways you must do to save money
 author: []
 publisher: {}
@@ -78,10 +78,13 @@ Normally an all included trip cost around 2000$ to 10 000$ for 2-3 weeks. You ca
 I'm sure you didn't visit all what's around you in your own city or country! There's some tip for travelling:
 
 * closer you go from home, less you spend 
-* if you can camp instead of stay in an hotel room
-* rent or exchange your apartment / house during your trip
+* you can **[camp ][8]**instead of stay in an hotel room
+* rent / exchange your apartment / house during your trip
 * travel with family or friends to share fees
-* ## 8\. SIDE JOBS
+
+But the best thing is stay at home and just go out each morning come back at night. 
+
+## 8\. SIDE JOBS
 
 Everyone has a skill that they can make extra money on. If you do one extra side job, even one time a week you'll see a quick increase in your savings. Some ideas include;
 
@@ -103,3 +106,4 @@ Everyone has a skill that they can make extra money on. If you do one extra side
 [5]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_from%3DR40%26_sacat%3D0%26_nkw%3Dsmoking%2Bpatches%26_sop%3D12
 [6]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_from%3DR40%26_sacat%3D0%26_nkw%3Dlunch%26_sop%3D12
 [7]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_from%3DR40%26_sacat%3D0%26_nkw%3Dvending%2Bmachine%26_sop%3D12
+[8]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_from%3DR40%26_sacat%3D0%26_nkw%3Dtent%26_sop%3D12
