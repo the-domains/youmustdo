@@ -4,8 +4,8 @@ description: >-
   Why do you need a car if you can walk or ride a bicycle. If you really need a
   car why you buy a big pick-up instead of small economic car. Cars are painful
   waste of money.
-dateModified: '2018-01-15T20:35:48.559Z'
-datePublished: '2018-01-15T20:35:50.165Z'
+dateModified: '2018-01-15T20:36:20.411Z'
+datePublished: '2018-01-15T20:36:21.377Z'
 title: 10 Best ways you must do to save money
 author: []
 publisher: {}
@@ -81,8 +81,6 @@ I'm sure you didn't visit all what's around you in your own city or country! The
 * you can **[camp ][8]**instead of stay in an hotel room
 * rent / exchange your apartment / house during your trip
 * travel with family or friends to share fees
-
-But the best thing is stay at home and just go out each morning come back at night. 
 
 ## 8\. SIDE JOBS
 
