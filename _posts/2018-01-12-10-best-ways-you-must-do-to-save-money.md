@@ -4,8 +4,8 @@ description: >-
   Why do you need a car if you can walk or ride a bicycle. If you really need a
   car why you buy a big pick-up instead of small economic car. Cars are painful
   waste of money.
-dateModified: '2018-01-15T19:05:09.693Z'
-datePublished: '2018-01-15T19:05:11.775Z'
+dateModified: '2018-01-15T19:20:12.890Z'
+datePublished: '2018-01-15T19:20:14.684Z'
 title: 10 Best ways you must do to save money
 author: []
 publisher: {}
@@ -75,9 +75,13 @@ Normally an all included trip cost around 2000$ to 10 000$ for 2-3 weeks. You ca
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtzDEOgjAUANDdU3z_DoVUCBrKCdwcHE1pP22lUCw1xNvLauL2ptdKsJEGgTal5cLYtm35U4dXUJ9chYkp79SYNRWvecWzsuS8qc8lQpLRUBL46L2cR-wOrZsMrFH9TF6_bYpLPlNibpKG_kyb08kKPNUNgiVn7L7WBYL0O25EkCzBPUSvYQgRrrSuR4Q-RE1RYIGsa5nsvq09PX4" height="244" style=""></iframe>
 
-There's a common tip for travelling 
+I'm sure you didn't visit all what's around you in your own city or country! There's some tip for travelling:
 
-## 8\. SIDE JOBS
+* closer you go from home, less you spend 
+* if you can camp instead of stay in an hotel room
+* rent or exchange your apartment / house during your trip
+* travel with family or friends to share fees
+* ## 8\. SIDE JOBS
 
 Everyone has a skill that they can make extra money on. If you do one extra side job, even one time a week you'll see a quick increase in your savings. Some ideas include;
 
