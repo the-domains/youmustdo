@@ -4,8 +4,8 @@ description: >-
   Why do you need a car if you can walk or ride a bicycle. If you really need a
   car why you buy a big pick-up instead of small economic car. Cars are painful
   waste of money.
-dateModified: '2018-01-15T22:19:45.061Z'
-datePublished: '2018-01-15T22:19:46.551Z'
+dateModified: '2018-01-15T22:23:08.165Z'
+datePublished: '2018-01-15T22:23:17.080Z'
 title: 10 Best ways you must do to save money
 author: []
 publisher: {}
@@ -84,16 +84,16 @@ I'm sure you didn't visit all what's around you in your own city or country! The
 
 ## 8\. SIDE JOBS
 
-Everyone has a skill that they can make extra money on. If you do one extra side job, even one time a week you'll see a quick increase in your savings. Some ideas include;
+Everyone has a skill that they can earn extra money. If you do 1 side job, even 1 time a week you'll see a quick increase in your savings. Some ideas:
 
 * taking a part-time seasonal job
 * cutting grass or doing yard work
-* cleaning homes of friends, family or neighbors
-* babysitting or animal-sitting
+* cleaning homes 
+* babysitting, animal-sitting
 * running errands for people in your community
-* driving with a service like Uber or Lyft
+* driving with a service like Uber
 * offering consulting services
-* sell your stuff on **[eBay][9]** or **[amazon][10]**
+* selling on **[eBay][9]** or **[amazon][10]**
 * make garages sells
 
 ## 9\. Live in your parents home
