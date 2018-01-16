@@ -4,8 +4,8 @@ description: >-
   Why do you need a car if you can walk or ride a bicycle. If you really need a
   car why you buy a big pick-up instead of small economic car. Cars are painful
   waste of money.
-dateModified: '2018-01-15T22:34:42.200Z'
-datePublished: '2018-01-15T22:34:45.869Z'
+dateModified: '2018-01-16T10:15:34.924Z'
+datePublished: '2018-01-16T10:15:36.243Z'
 title: 10 Best ways you must do to save money
 author: []
 publisher: {}
@@ -111,7 +111,7 @@ ENERGY STAR certified bulbs:
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/618e2f36fc040f4cbd50fc439c43cfea31dd6de1.png" /><h1>energy star bulb | eBay</h1><p>Find great deals on eBay for energy star bulb. Shop with confidence.</p></article>
 
-Try to not use dryer, hang your cloth outside for fresh air drying old style. Eat more cold meal instead using your oven each time.
+Also to save on energy try to not use dryer, hang your cloth outside for fresh air drying old style. Eat more cold meal instead using your oven each time.
 
 [0]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fdeals
 [1]: https://www.amazon.com/gp/goldbox/ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=jasiss-20&linkId=029d88538e9d8e2329346dc5fd7d6d2c
