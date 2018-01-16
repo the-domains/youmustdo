@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What’s the first thing you gonna do when you will buy and received
   your next used smartphone?
-dateModified: '2018-01-16T13:46:25.238Z'
-datePublished: '2018-01-16T13:46:27.309Z'
+dateModified: '2018-01-16T13:47:30.812Z'
+datePublished: '2018-01-16T13:47:32.935Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -25,7 +25,7 @@ _type: MediaObject
 ---
 # _**15 things you must clean but almost never do.**_
 
-## \#1.Phones and tablets
+## \#1\. Phones and tablets
 
 In a 2013 study, researchers swabbed 30 tablets, 30 phones and an office toilet seat. The tablets had up to 600 units per swab of staphylococcus, and the phones had up to 140 units. The toilet seat (you think its the niche of bacteria) had less than 20 units. Another uncomfortable detail: In a 2011 survey, 75 percent of Americans said they use their smartphones while on the toilet. What's the first thing you gonna do when you will buy and received your next **[used smartphone][0]**?
 
@@ -82,17 +82,17 @@ You think its only your bottom shoes? REMEMBER rule at the point \#3 :
 So please specially for the man, if you can **SIT** on the bowl when you go to toilet. Imagine the 6 feet splash every time you pee it can goes on the top of your shoes. You don't wash your shoes or slippers every week...watch out. Kelly Reynolds, Ph.D., a microbiologist says: 'We walk through things like bird droppings, dog waste and germs on public **restroom floors**, all of which are sources for E coli,'. Researchers discovered that the transfer of bacteria from shoes to home floors ranged from 90% to 99%. Tip: keep your shoes out of the house or in a **[shoes rack][8]**[.][8] You can buy a quick **[shoe cleaner here][9]**.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/545e446f-3d54-4cc9-bf32-e46737b942fe.png)
 
-## \#7 [Your tongue][10]
+## \#7\. [Your tongue][10]
 
 I'm sorry for the picture but if you need to clean your tongue do it every-time as you brush your teeth. The microbes living on the tongue have been referred to as "bad breath factories." A recent study published by the American Dental Association confirmed people whose tongues contain large colonies of anaerobic bacteria more often have stronger smelling breath than those whose tongues are clean. You can find **[tongue scraper cleaner here.][10]**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f5d1ca9-fc00-41ed-8fe2-1e335733d37c.png)
 
-## \#8 **[Key-chains][11]**
+## \#8\. **[Key-chains][11]**
 
 [Keys][11] are mostly the thing that will be never washed.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5bfb472-f6d6-494b-b45b-ed97481a656b.png)
 
-## \#9 **[Bank cards & money][12]**
+## \#9\. **[Bank cards & money][12]**
 
 A small new study from England reveals that as many as **[1 in 10 bank cards][12]** have fecal bacteria on them. And one in seven bills 14% are contaminated with the bacteria.
 
@@ -103,14 +103,14 @@ GET PAID BY MARKETPLACES & DIRECT CLIENTS WORLDWIDE
 Quick, low-cost and secure solutions to pay and get paid globally: **[Payoneer][12]**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fff165b-7c90-419a-9c9a-97386569c385.png)
 
-## \#10 **[Toys][13]**
+## \#10\. **[Toys][13]**
 
 80% of cuddly **[toys][13]** harbour harmful bacteria - while one in four are contaminated with feces. 80% of cuddly toys found to harbour potentially dangerous bacteria. Tests showed 1 in 4 are contaminated with feces. A fifth have never been washed and 75% aren't washed after a child is ill!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ef683d5-f6f9-45f6-9b2e-ae8684fa9308.jpg)
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVUMtOwzAQ_JXIB9_aOJFVEugWIZWWhziAkOCGtrbjmsZrZBuh8PUYygG0t3nsjGbphojeVCkqYHUdlZ8RztHjZ6AZ6jSlbPxcBV-bWvnzAA1_A9nxEd5jwxVmY0OcIIcpIWlbXiW-QyITQVw0m-bpYbO-ub17vr_aPl5uWz5ACeSjo8P1GhaiFVJKoeTQDz1K1IiLTpi-lbpcxzO4lPAVUynTCp4jqoMj--L0P4JVH07nPbCTtmPV3ji7z8D6gicVw1jSLDAKrNqFqEszVhiP0Tr69X0r8zQaYEfFKQUyZ6z62eaPabWsj3utvgBHNWbA" height="150" style=""></iframe>
 
-## \#11 **[Mops & broom (handle)][14]**
+## \#11\. **[Mops & broom (handle)][14]**
 
 After repeated passes with the **[mop][14]**, the once-clean solution became contaminated with soils, germs and bacteria from the floor. This is problematic because it not only contaminates large swaths of the floor with pathogens that may have only been present in one specific area, but it also leaves a dirty film on the floor. As a result, the old mop-and-bucket method requires repeated passes and numerous rinses to achieve clean floors.
 
@@ -118,21 +118,21 @@ But you know the worst part if you use old cotton mop? Each time you twist the d
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea6c78fa-9731-4bff-b9c9-193204442645.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13ea4260-8d19-48f2-a105-14af36feef69.png)
 
-## \#12 **[Handbag & purse][15]**
+## \#12\. **[Handbag & purse][15]**
 
 Specially woman you know exactly what's going on in your bags...Extensive tests carried out by Initial Washroom Hygiene in 2013 found that the dirtiest item in the average handbag was bottles of old hand cream. These alone carried more bacteria than most toilet seats. 10,000 different bacteria present in just a few square centimetres of most **[handbags][15]**, which makes them dirtier than the average toilet seat.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d9592ff-004d-4fb9-a2c2-1c73e2a52624.png)
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJztk01z0zAQhu_9FRkffGujD8uyS10GmIFAYAqkEODiWUvrRMSWU0khlF-P46Qfdzj0kINmtO-u3t3RM3thagctjny4bbCItkaH5TllZP372RLNYhnOWbILolELbmHsUFBE5C7eFw2CV65rGmMXRWS7aDT4Vp3T6PZpp4poPN76Uwtn0MKfzp6C9rc-YHumunbcWy8w-PHN8xm6X0bhV3TedLZghEiSMRZfWXw3K2h8tUYHYZd6g-GFnoS2iT-AW2H42IDC4sss9t3G9TfvY4d1Ab70vmxMGUwTgy7D7RqLtev0RoVetqs4OFCrfvbS6MJ4Dz_B9_MxEreD73rw3U_dOy52vfsug9yiDcVLIhM2eTX_zmLwxvrHwq7BW12kUtFK5EiRCcWQMFULgoJixkBIDrFfdtvy8GPBbXB4WHZrtL40trS4LbfG6m47ZKPLi_Ee3uXJycUR4__CKFM5nb7_9oDxTjhgZEhFf1ASSFiVIScZAaw4UsZrBukR45PAmMiZmEj6aBsPwgFjwmtVq6qiTGR5jolEmqQ8S7RmMhfquI1PAiNNpp_nWTq_x3gvHDBKyOpcoADBlWCZTjlKxbSWmOqKVvyI8SlglOLTa_bj-vphG--EA0aVIwChAMBTmvCKiDrhPOE6zygInf0Dxr_xoBrG" height="275" style=""></iframe>
 
-## \#13 **[Watch & jewelry][16]**
+## \#13\. **[Watch & jewelry][16]**
 
 Anything you hang on yourself should be cleaned and disinfected about once a week. And washing your hands does not eliminate germs and bacteria from your **[jewelry][16]**. With rings that are complex, with nooks and crannies, it's best to go in with a brush. On top of this, your skin is constantly shedding epithelial cells. They can carry hundreds of thousands of potentially harmful microorganisms. Need a **[watch cleaner here][17]**.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ab03cb7-f303-41ee-978d-160f13eda2c8.png)
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJztlMty2yAUhvd-Co8W2iUGhIRITTpJJpPLjCdJ3UvSjQZxsWkk5AKO6j59ZfmS7tuFF95x_nP4z4FvYGy047Ua-rCqFItaI8P8DCKw-PVhrsxsHs4QXgfRsOZuZmxfwCKwizdFveCFa6rK2BmLbBMNe9-ycVK5TdoJFo1GrT-x_JTX_HdjT7j0Kx9UfSqaetRZz1Two58fp8q9GaG-KudNYxkCgIAcofjBqvspg_HDQjke1qkbFS7kbaireMLdqwqPFReKfZnGvlm6buV97JRm3BfeF5UpgqliLouwWii2cI1citDJ9jUOjovXbvbCSGa85z-47-ZDIK5730Xvu5m6c5yte3dderlWNrBLAK7h9fMTuIq5N9b_Lawb3ElGiM6hzKimQtBUplomXJQYQlzmnFMa-3nTFtsbC26p-o1Fs1DWF8YWVrVFa6xs2j4bnY9HG3jng8H4iPF_YQQ3F9-mt5N3jDthizFTCAuJMgp1mgiE8rzMSIYkTlOOiQJHjIeAkRD6Qj9_etlj3AtbjGWJEKZYZCnKUggIIoiCBOWIJCkAWh8xHgJGOHm6-55f4T3GvbDF2B0Da6wwB93vKpM0wwkEeQYyjSnQmB8xHgJGkl3i5Pnx_v017oQtxrzE3WPMkYZQEJoiLNO8TFIJIM2l4uRfMA7-ANA-GGc" height="275" style=""></iframe>
 
-## \#14 **[Pillow][18]**
+## \#14\. **[Pillow][18]**
 
 There can be up to 10 million dust mites in one bed alone -- and their faeces and body parts can cause hay fever, eczema and asthma, while the bacteria in our beds can cause colds, allergic, flu and diarrhea. Tip: To check whether you should throw away your **[pillow][18]** is to fold it in half and see if it springs back into shape. If it doesn't, it is time for a change.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ae338d9-2ad0-4634-b0ac-e4f15deaf7ab.png)
@@ -141,7 +141,7 @@ There can be up to 10 million dust mites in one bed alone -- and their faeces an
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVkM1OwzAQhF8l8sG3Nj8lTQLdcgCEQOIUJMoJbeyNYxrbyDZC4ekxFAlxnZlPM5qdHj0ayoIXwPLcC7OyuEaDn86uUIYlRDJr4UxOuTCXDkr-Bmctn-Hdl1xgJOX8ApMzpNBLsnxAa8lD8fx0eDx0fX9Vb-9vuuahv634CKmOz9oe766hJkFjPXZtjVVVyw0WNEjCBstC4Gbb8gg6BHzFkKZUBY8exVFb9aLlP4NlH1rGCVhTtSybSKspAuuSHoR3c2pTwKxj2eDSQA8sOQa90vaX-07GZSZgp8S5dZYuWPbzzB-03-Wns_Zfgzdmpw" height="150" style=""></iframe>
 
-## \#15 **[Door handle][19]**
+## \#15\. **[Door handle][19]**
 
 Researchers looked to see whether or not certain **[handle][19]** types were more likely to accumulate bacteria. They found that lever handles sported the highest ratio of bacteria contaminants per use (6.38), followed by pull handles (2.24), then push plates (1.2). They theorize that this difference may be because pull handles and levers require more hand contact to open the doors, leading to a greater concentration of bacteria on the handle.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/41696222-b6da-4641-8571-f2058ef15d6e.png)
