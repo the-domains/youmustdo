@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What’s the first thing you gonna do when you will buy and received
   your next used smartphone?
-dateModified: '2018-01-16T10:36:22.363Z'
-datePublished: '2018-01-16T10:36:25.235Z'
+dateModified: '2018-01-16T10:37:02.835Z'
+datePublished: '2018-01-16T10:37:03.940Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -157,7 +157,7 @@ Try this app for your twitter. Manage filter is excellent:
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJztUk2P0zAQvfdXWEa7TaTGaRfBgcZFVALEZS9wQ6vKsSeN28SO7ElLQfx3pmm6H0cO3JAiJTPzMjPvvSmMPTBrJK_KLHiPfFXklFpNiqiD7XCVVL3TaL1LzIzFGWFT9mvC2EEFtqO42kUmmRFbwI8NtOAwrk_f1PZetZDE9Pv8YUloW7HkOWZ9-mISapWyANgHd8aMjXQAhTDiqMOSCsIaqllzgYkYNIXTGrGL7_Jce-dAo6iUhtL7vXCAObjN53UezV7s4qsfVdk2cnF7gBCJijzcicVieu5G64tOBRp17w0I6yIEXEPlAyQjvXQ5-Z0Yr_vzQjM2vQgzpa_rwGwXadA0TZdFPso2mRRnZXWjYhzEjTVNycoe0TvOjEKV1QEqya8ssIZtsEYom5983_YRjR-BjaIMSn75e6N973AsRfsTJI-tapox0_rSNpDZKpADkmPogUxVz1YZ1MiIdSTY1hFVzlAFckfyTdkot-fs5W7H4_FJXe3bfGATxpfo6u59LwfwzesPN3ef6HmiQ8EjoVvVdkuyT5JeXYBhB776em5T5Op6exft_l_lv79K8nIQ528v8mgN1pK_nc_HhOvbzkekrm8ezfoDtrJ3ew" height="250" style=""></iframe>
 
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65880a7b-750d-4a48-af2c-425840050bdc.png" /><h1>10 Best ways you must do to save money</h1></article>
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65880a7b-750d-4a48-af2c-425840050bdc.png" /><h1>10 Best ways you must do to save money</h1><p>If you want to get a car or an house quick, follow these simple steps...</p></article>
 
 > It's not finish stay in touch for next related articles at You Must Do!
 > We don't want to harass you with emails newsletters. Just follow us on Twitter to get the news.
