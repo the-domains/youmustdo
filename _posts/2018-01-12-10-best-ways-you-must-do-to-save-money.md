@@ -4,8 +4,8 @@ description: >-
   Why do you need a car if you can walk or ride a bicycle. If you really need a
   car why you buy a big pick-up instead of small economic car. Cars are painful
   waste of money.
-dateModified: '2018-01-16T10:58:02.511Z'
-datePublished: '2018-01-16T10:58:03.404Z'
+dateModified: '2018-01-16T11:10:56.713Z'
+datePublished: '2018-01-16T11:10:57.604Z'
 title: 10 Best ways you must do to save money
 author: []
 publisher: {}
@@ -115,7 +115,7 @@ Also to save on energy try to not use dryer, hang your cloth outside for fresh a
 
 ## Did you like? Please share
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNUMtOhTAQ_ZWxRndAjDHxQXHlH9y4NXPLQKulJZ3hIn69RQlhM4vzyplTI9hEnVZWZOTnqpLZiVAqTRwqtpjoNdMfnIyWOd-bhzfpZgXGI7NWm7r4UxbnSSQGBS0KFux-SCuPqacNEfoWrU7WhZ5hiRMMEwu0EbIPBlzOBIEulDJUwrtjJ6vq9vr-6cV7yCzbaL6ovdrypuQPvS31ybUluiqb1uQ2brqLQ6128G5DLbIV7PlAbYzH0GtF-yM2zoWJU8jlO_RMqjnNRFJX2NRskhsFkJdgYF1pLzR6lC6moTwuOru2J-Hyk_OEeTOmHDpJVzyqpq7-w5pfBxKP7A" height="144" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxN0MFqhDAQBuBXCZH2Nmb3UCjFWCj0DXpfZnU0KZpIZqy1T99Y7bKXhPwwH5O_QuUSdVY7kYlfjJHFi1AqmzgaH4SC5IhIXq-zSAwXh-wEe7s_H_PshVNjZcnnw9O7dItWzYDMVh8UHCOwj2jVoiCw_yGrB0w9HYnQt1h9Pqk3YlELrqyKNc7jzNJGJVEVjF-kijEGWo8rJz70BzCn4e4fjvrk2xK9uSHmfIJrxmHDIcew5dBGkAgbDn-oObxEAwq1Vt-A8__yLi7QxDnkhTscmHT9sZWkiv2PlcG64ib5SRTyGhq1dXTbbcpuF9NY3pe9-LYn4fKTc4EOE1PGZ-ngWdeV2bH6F32Gm-o" height="144" style=""></iframe>
 
 
 
