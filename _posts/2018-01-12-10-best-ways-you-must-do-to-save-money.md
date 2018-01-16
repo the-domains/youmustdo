@@ -4,8 +4,8 @@ description: >-
   Why do you need a car if you can walk or ride a bicycle. If you really need a
   car why you buy a big pick-up instead of small economic car. Cars are painful
   waste of money.
-dateModified: '2018-01-16T10:48:06.865Z'
-datePublished: '2018-01-16T10:48:07.844Z'
+dateModified: '2018-01-16T10:57:59.589Z'
+datePublished: '2018-01-16T10:58:02.302Z'
 title: 10 Best ways you must do to save money
 author: []
 publisher: {}
@@ -112,6 +112,12 @@ ENERGY STAR certified bulbs:
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/618e2f36fc040f4cbd50fc439c43cfea31dd6de1.png" /><h1>energy star bulb | eBay</h1><p>Find great deals on eBay for energy star bulb. Shop with confidence.</p></article>
 
 Also to save on energy try to not use dryer, hang your cloth outside for fresh air drying old style. Eat more cold meal instead using your oven each time.
+
+## Did you like? Please share
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNUMtOhTAQ_ZWxRndAjDHxQXHlH9y4NXPLQKulJZ3hIn69RQlhM4vzyplTI9hEnVZWZOTnqpLZiVAqTRwqtpjoNdMfnIyWOd-bhzfpZgXGI7NWm7r4UxbnSSQGBS0KFux-SCuPqacNEfoWrU7WhZ5hiRMMEwu0EbIPBlzOBIEulDJUwrtjJ6vq9vr-6cV7yCzbaL6ovdrypuQPvS31ybUluiqb1uQ2brqLQ6128G5DLbIV7PlAbYzH0GtF-yM2zoWJU8jlO_RMqjnNRFJX2NRskhsFkJdgYF1pLzR6lC6moTwuOru2J-Hyk_OEeTOmHDpJVzyqpq7-w5pfBxKP7A" height="144" style=""></iframe>
+
+
 
 [0]: https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=https%3A%2F%2Fwww.ebay.com%2Fdeals
 [1]: https://www.amazon.com/gp/goldbox/ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=jasiss-20&linkId=029d88538e9d8e2329346dc5fd7d6d2c
