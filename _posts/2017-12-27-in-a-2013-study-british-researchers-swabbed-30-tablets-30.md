@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What’s the first thing you gonna do when you will buy and received
   your next used smartphone?
-dateModified: '2018-01-30T14:28:37.386Z'
-datePublished: '2018-01-30T14:28:39.036Z'
+dateModified: '2018-01-30T14:28:41.561Z'
+datePublished: '2018-01-30T14:28:43.861Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
