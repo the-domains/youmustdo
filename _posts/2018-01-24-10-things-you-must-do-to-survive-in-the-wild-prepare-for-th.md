@@ -1,10 +1,10 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   Back to the stone age? WW3 just came? EMP or Nuclear bomb just cut all
   electrics! Pack your backpack and do those things you must do.
-dateModified: '2018-01-31T10:57:45.345Z'
-datePublished: '2018-01-31T10:58:24.240Z'
+dateModified: '2018-01-31T11:06:59.015Z'
+datePublished: '2018-01-31T11:07:00.189Z'
 title: '10 things you must do to survive in the wild, prepare for the worst.'
 author: []
 publisher:
@@ -17,9 +17,9 @@ sourcePath: >-
   _posts/2018-01-24-10-things-you-must-do-to-survive-in-the-wild-prepare-for-th.md
 hasPage: true
 starred: false
-datePublishedOriginal: '2018-01-31T10:58:24.240Z'
+datePublishedOriginal: '2018-01-31T11:06:56.012Z'
 url: 10-things-you-must-do-to-survive-in-the-wild-prepare-for-th/index.html
-_type: Article
+_type: MediaObject
 
 ---
 # 10 things you must do to survive in the wild, prepare for the worst.
@@ -107,7 +107,7 @@ Insects can be not only annoying as you are focusing on trying to survive, they 
 
 ## 10\. **[Self-Aid][6]**
 
-If you injure yourself out on your own in a wilderness environment, you will be vulnerable to infection and illness. Learn how to create an all-natural first **[aid kit][6]**. 
+If you injure yourself out on your own in a wilderness environment, you will be vulnerable to infection and illness. Learn how to create an all-natural first **[aid kit][6]**.
 
 The life saving steps are those steps taken to stabilize a victim until medical assistance can be obtained. They include:
 
