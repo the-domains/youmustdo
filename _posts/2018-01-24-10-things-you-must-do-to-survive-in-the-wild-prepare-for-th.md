@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   Back to the stone age? WW3 just came? EMP or Nuclear bomb just cut all
   electrics! Pack your backpack and do those things you must do.
-dateModified: '2018-01-31T11:06:59.015Z'
-datePublished: '2018-01-31T11:07:00.189Z'
+dateModified: '2018-01-31T11:07:12.569Z'
+datePublished: '2018-01-31T11:07:13.604Z'
 title: '10 things you must do to survive in the wild, prepare for the worst.'
 author: []
 publisher:
@@ -120,7 +120,7 @@ The life saving steps are those steps taken to stabilize a victim until medical 
 
 For example burns are very painful and can cause scarring or death. Expose the burned area without pulling clothing over the burn or removing clothing stuck to the burn. Apply a loose, dry sterile dressing over the burn. Do not apply ointment or grease. Do not break blisters. Treat for shock. Prevent infection. Give small amounts of water if not nauseated and no neck or abdominal wound is evident. Give aspirin to relieve the pain. For serious burns, treat for shock and evacuate if possible.
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a8363517ac191f7163283e5e39ce274d/noop.jpg?input=http%3A%2F%2Fi.ebayimg.com%2Fimages%2Fi%2F112633033386-0-1%2Fs-l1000.jpg" /><h1>Waterproof Outdoor First Aid Kit Survival Medical Bag Pouch Treatment Case New </h1><p>Features: [88 First Aid Kits]: Compact, lightweight and portable, comes with various essential basic life-saving items, including bandages, antiseptic alcohol pads, sting relief pads, gauze, CPR Kit and refill essentials [Be Prepared]: This first aid kit will allow you to be ready for unexpected basic daily misshapes and even wilderness</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2831b680046d9f494757c4080f1866de6a5adb5c.jpg" /><h1>Waterproof Outdoor First Aid Kit Survival Medical Bag Pouch Treatment Case New </h1><p>Features: [88 First Aid Kits]: Compact, lightweight and portable, comes with various essential basic life-saving items, including bandages, antiseptic alcohol pads, sting relief pads, gauze, CPR Kit and refill essentials [Be Prepared]: This first aid kit will allow you to be ready for unexpected basic daily misshapes and even wilderness</p></article>
 
 
 
