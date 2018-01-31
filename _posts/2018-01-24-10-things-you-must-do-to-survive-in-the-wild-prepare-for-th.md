@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   Back to the stone age? WW3 just came? EMP or Nuclear bomb just cut all
   electrics! Pack your backpack and do those things you must do.
-dateModified: '2018-01-31T11:19:23.433Z'
-datePublished: '2018-01-31T11:19:24.471Z'
+dateModified: '2018-01-31T11:28:38.411Z'
+datePublished: '2018-01-31T11:28:41.069Z'
 title: '10 things you must do to survive in the wild, prepare for the worst.'
 author: []
 publisher:
@@ -34,7 +34,7 @@ Prevention is the best remedy no? Make a list of your **smallest** and **lightes
 
 ## 2\. You need **TOOLS**
 
-You need light and small tool. Need a pocket knife or multi-tool with you at all times, because you never know when you will need it. I suggest the **best[multi camp survivor tool][1]** you must have:
+You need light and small tool. Need a pocket knife or multi-tool with you at all times, because you never know when you will need it. I suggest the **best [multi camp survivor tool][1]** you must have:
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09b0b1d069128fe4d021fe314f23e5202aeb4e7a.jpg" /><h1>Military Tactical Multi function Shovel Camping Survival Folding Knife Saw Pelle </h1><p>Total Length: approximate 74cm / Length of Handle: 57.5cm / Length of Shovel: 16.5cm / Width of Shovel: 13.0cm. New Style Professional Military Tactical Multi function Shovel Outdoor Camping Survival Folding Spade Tool Equipment. | eBay!</p></article>
 
