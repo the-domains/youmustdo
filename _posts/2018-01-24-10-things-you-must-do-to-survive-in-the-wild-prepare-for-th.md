@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   Back to the stone age? WW3 just came? EMP or Nuclear bomb just cut all
   electrics! Pack your backpack and do those things you must do.
-dateModified: '2018-01-31T11:13:12.358Z'
-datePublished: '2018-01-31T11:13:15.904Z'
+dateModified: '2018-01-31T11:19:23.433Z'
+datePublished: '2018-01-31T11:19:24.471Z'
 title: '10 things you must do to survive in the wild, prepare for the worst.'
 author: []
 publisher:
@@ -123,6 +123,10 @@ For example burns are very painful and can cause scarring or death. Expose the b
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2831b680046d9f494757c4080f1866de6a5adb5c.jpg" /><h1>Waterproof Outdoor First Aid Kit Survival Medical Bag Pouch Treatment Case New </h1><p>Features: [88 First Aid Kits]: Compact, lightweight and portable, comes with various essential basic life-saving items, including bandages, antiseptic alcohol pads, sting relief pads, gauze, CPR Kit and refill essentials [Be Prepared]: This first aid kit will allow you to be ready for unexpected basic daily misshapes and even wilderness</p></article>
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxlzDEOwiAUANDdU3z_3tIGS6op9QJuDo6G0m_BUlEgcn0bN-P2ptcpMIFuEk1KzwNjOecyzS9nNJXaL0w7q-eibbjgDS_qmvNW7OtjtKO08a4QkgoTJYnXwanHjP2ms8sEMeifUmWX_Nvo72kXNdHfiZDtmIzEnWgRDNnJrK2oEJRbcSaCZAguPrgRbj7AiWLcIgw-jBQkVsj6jqn-A4JEQTE" height="150" style=""></iframe>
+
+You liked this please share:
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkMFOxDAMRH_FCoLTtmWFkBBqChf-gPsqJO42qE0q292wfD2utrBcfBjZ8zzTOhgIe2sGkZmfm0ZKFEGqfZ6amASTqIQoL-wJMR2Sm9Ce8zItLCHv7_T4wOStFJ23j2_SFwN-dMzWbF7VpC4xp-pjEcnJQHDiKo7faM3o6IibIvgl1tyU8gA72N-DDDEdGRQGKw1CBsnAC53iCSEmXUAocQw7mAlnRwh9pouaiaXefAlHJxisub79-8OQS-XzkpTbu5HRdO9r2JXzet1uG9e1mj_OAo7PycOa-K-yWe0VPNX_uysxHFG4_mStY3DEqIxF-urJdG1zMet-AJkwiZA" height="244" style=""></iframe>
 
 
 
