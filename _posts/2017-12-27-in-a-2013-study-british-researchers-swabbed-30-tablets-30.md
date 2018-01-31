@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What’s the first thing you gonna do when you will buy and received
   your next used smartphone?
-dateModified: '2018-01-31T11:05:11.469Z'
-datePublished: '2018-01-31T11:05:14.443Z'
+dateModified: '2018-01-31T11:06:01.070Z'
+datePublished: '2018-01-31T11:06:03.058Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -162,7 +162,7 @@ Try this app for your twitter. Manage filter is excellent:
 
 <article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65880a7b-750d-4a48-af2c-425840050bdc.png" /><h1>10 Best ways you must do to save money</h1><p>If you want to get a car or an house quick, follow these simple steps...</p></article>
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72cc89e958bd32e0ef5e51128f96092b51de6a59.jpg" /><h1>10 things you must do to survive in the wild, prepare for the worst.</h1><p>Back to the stone age? WW3 just came? EMP or Nuclear bomb just cut all electrics! Pack your backpack and do those things you must do. Prevention is the best remedy no? Make a list of your smallest and lightest favourite items you can store in a back pack specially made for emergency to be ready to go in less a minute.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72cc89e958bd32e0ef5e51128f96092b51de6a59.jpg" /><h1>10 things you must do to survive in the wild, prepare for the worst.</h1><p>Back to the stone age? WW3 just came? EMP or Nuclear bomb just cut all electrics! Pack your backpack and do those things you must do. Prevention is the best remedy no? Make a list of your smallest and ...</p></article>
 
 ...
 
