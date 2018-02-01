@@ -4,8 +4,8 @@ description: >-
   Why do you need a car if you can walk or ride a bicycle. If you really need a
   car why you buy a big pick-up instead of small economic car. Cars are painful
   waste of money.
-dateModified: '2018-01-16T11:38:31.945Z'
-datePublished: '2018-01-16T11:38:33.382Z'
+dateModified: '2018-02-01T16:51:10.684Z'
+datePublished: '2018-02-01T16:51:12.901Z'
 title: 10 Best ways you must do to save money
 author: []
 publisher: {}
@@ -116,6 +116,10 @@ Also to save on energy try to not use dryer, hang your cloth outside for fresh a
 ## Did you like this article? Please share
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkNFqwzAMRX9FuGxvjtuHwRhJBoP9wd6LaiuxR2IXS1mWff2cNQt9keAiHV3dGsFn6hrlRa78YozMQYRyZdNoQhSKUiQieb1MIimePbIX7JslTePE4tJjWT9zto3MpT48vUs3K7ADMjdqo-ltS98gChwKag4_1KgBc0-bIvQtjTod4Y1YYMaFodyB9RC4BJLgwPhFcBhTpGVrRQmx5w0x5eHuGU99Dq7CYHa_5nTUl4LXK14XWa-6dklL0itd_1HNxss0oJBr1A74d-_TrG2aYnHc4cCk2o81KDjsk7XBtmabw1UAeYkW1px2d9dC7lIeq_vM5-B6Eq4-y0PWY2Yq_Ek6_aza2txg7S88wZ8D" height="144" style=""></iframe>
+
+You also may like:
+
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72cc89e958bd32e0ef5e51128f96092b51de6a59.jpg" /><h1>10 things you must do to survive in the wild, prepare for the worst.</h1><p>Back to the stone age? WW3 just came? EMP or Nuclear bomb just cut all electrics! Pack your backpack and do those things you must do. Prevention is the best remedy no? Make a list of your smallest and lightest favourite items you can store in a back pack specially made for emergency to be ready to go in less a minute.</p></article>
 
 
 
