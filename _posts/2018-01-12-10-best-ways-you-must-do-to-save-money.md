@@ -5,7 +5,7 @@ description: >-
   car why you buy a big pick-up instead of small economic car. Cars are painful
   waste of money.
 dateModified: '2018-02-01T16:55:15.449Z'
-datePublished: '2018-02-01T16:55:18.415Z'
+datePublished: '2018-02-01T16:55:18.461Z'
 title: 10 Best ways you must do to save money
 author: []
 publisher: {}
