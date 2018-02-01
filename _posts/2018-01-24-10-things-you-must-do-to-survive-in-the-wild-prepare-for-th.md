@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   Back to the stone age? WW3 just came? EMP or Nuclear bomb just cut all
   electrics! Pack your backpack and do those things you must do.
-dateModified: '2018-02-01T16:36:31.689Z'
-datePublished: '2018-02-01T16:36:33.593Z'
+dateModified: '2018-02-01T16:49:43.716Z'
+datePublished: '2018-02-01T16:49:45.435Z'
 title: '10 things you must do to survive in the wild, prepare for the worst.'
 author: []
 publisher:
@@ -79,15 +79,15 @@ I recommend to buy this cheap easy to carry lighter flint:
 
 In a survival situation, you have to take advantage of everything available to eat. Most wilderness areas are full of natural food, ranging from plants to insects. The food sources you can exploit are determined by the habitat you are in. Meat and fish are good sources of protein and fat and provide virtually everything a long-term survivor would need. However, at the first stage of a survival situation, plants are the most appropriate diet as plants are easily accessible and contain the necessary carbohydrates. Cooking is a skill of great importance for all wilderness travellers. Cooking not only makes many foods more appetizing to taste, but also ensure that parasites and bacteria are killed. You don't want to get sick from food poisoning. A compact camping stove is very convenient in the wilderness. However, in many situations, a cooking fire is more practical and allows a wider variety of cooking opportunities. As a survival skill, you should also be able to prepare your food without any cooking utensils.
 
-* **Wild edible plants**Depending of the time of the year you will almost always find edible plants, unless you are in the middle of an arid desert. Knowledge of only one or two wild edible plants can be of great help in your search for survival food.
+* **Wild edible plants **Depending of the time of the year you will almost always find edible plants, unless you are in the middle of an arid desert. Knowledge of only one or two wild edible plants can be of great help in your search for survival food.
 
-* **Edible insects**Your most vital nutritional needs in a survival situation are protein and fat. Most insects are rich in both. So close your eyes and eat.
+* **Edible insects **Your most vital nutritional needs in a survival situation are protein and fat. Most insects are rich in both. So close your eyes and eat.
 
 * **Fishing**
 
-* **Trapping**Unless you are an experienced hunter, hunting animals for meat is inadvisable in a survival situation. Hunting is difficult and you will expend a lot of energy to get your food. Instead of hunting consider trapping. Trapping requires less skill and leaves you free to spend time searching for other food sources. The wilderness survivor needs simple traps that are easy to remember and easy to construct.
+* **Trapping **Unless you are an experienced hunter, hunting animals for meat is inadvisable in a survival situation. Hunting is difficult and you will expend a lot of energy to get your food. Instead of hunting consider trapping. Trapping requires less skill and leaves you free to spend time searching for other food sources. The wilderness survivor needs simple traps that are easy to remember and easy to construct.
 
-* **Bird eggs**Eggs offer high nutritional value, are convenient and safe. They can be boiled, baked or fried. The first obvious place to look for them is a bird nest. However, not all birds build a nest, but instead lay their eggs directly on the ground or in a hole.
+* **Bird eggs **Eggs offer high nutritional value, are convenient and safe. They can be boiled, baked or fried. The first obvious place to look for them is a bird nest. However, not all birds build a nest, but instead lay their eggs directly on the ground or in a hole.
 
 ## 7\. NAVIGATION
 
@@ -124,13 +124,13 @@ For example burns are very painful and can cause scarring or death. Expose the b
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxlzDEOwiAUANDdU3z_3tIGS6op9QJuDo6G0m_BUlEgcn0bN-P2ptcpMIFuEk1KzwNjOecyzS9nNJXaL0w7q-eibbjgDS_qmvNW7OtjtKO08a4QkgoTJYnXwanHjP2ms8sEMeifUmWX_Nvo72kXNdHfiZDtmIzEnWgRDNnJrK2oEJRbcSaCZAguPrgRbj7AiWLcIgw-jBQkVsj6jqn-A4JEQTE" height="150" style=""></iframe>
 
-If you liked this, please share: 
+If you liked this, please share:
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkcFOxDAMRH_FCuKGm10hJITacuIPuKPQuE1Q21Sxs2H5elI2rPaSw3g0z560BlyksVNOZOMXrSV7EYrNEBbNzkR6LeMPjkMnubz3T28yZgXDbJg7Vd3458TPJBJWBdaIQfY_1KnZxImqIvQtnbrL-RE0HA8gzq8TwzkkWBIL2AASgFM8-ROBX4uBIPvZPsAWaSsEGEO8qCGyNDU3xflmf0dT9LYxXpfgPdcGfTzgBYZFw11EG1ACVhj6tRgIdxhWFhZWEXWFnLzp1DXxWFVn2ImZ-Gb0f74LGYeQ1nLyaGYm1b9nImm16Vseot8EDJ_XAfZur-tvs5ECXprbf8jeTiTcfHEpvjTNVEKTjPis-lZfwvpfuDekDQ" height="244" style=""></iframe>
 
 You also may like:
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/851b8fd15e770b1/d59f0c88ec22ff4dfbb59120de396184/passthrough.png?input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F214ac062-88c1-4479-bf5f-680628290949.png&amp;width=496" /><h1>10 Best ways you must do to save money</h1><p>Why do you need a car if you can walk or ride a bicycle. If you really need a car why you buy a big pick-up instead of small economic car. Cars are painful waste of money. The price of the car (specially if its new = more taxes) Insurances + licences plates Fuel Repairs &amp; periodic maintenance...</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0293ca1b3e0dd0bc304a89cb254bf1944ba8800.png" /><h1>10 Best ways you must do to save money</h1><p>Why do you need a car if you can walk or ride a bicycle. If you really need a car why you buy a big pick-up instead of small economic car. Cars are painful waste of money. The price of the car (specially if its new = more taxes) Insurances + licences plates Fuel Repairs &amp; periodic maintenance...</p></article>
 
 
 
