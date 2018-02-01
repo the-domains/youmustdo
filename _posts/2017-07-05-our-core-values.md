@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: WELCOME to our site!
-dateModified: '2018-01-15T18:02:15.228Z'
-datePublished: '2018-01-15T18:02:16.598Z'
+dateModified: '2018-02-01T16:52:25.796Z'
+datePublished: '2018-02-01T16:52:26.060Z'
 title: OUR CORE VALUES
 author: []
 publisher: {}
