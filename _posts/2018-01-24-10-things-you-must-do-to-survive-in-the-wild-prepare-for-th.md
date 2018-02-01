@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   Back to the stone age? WW3 just came? EMP or Nuclear bomb just cut all
   electrics! Pack your backpack and do those things you must do.
-dateModified: '2018-01-31T11:28:41.663Z'
-datePublished: '2018-01-31T11:28:44.150Z'
+dateModified: '2018-02-01T16:33:50.243Z'
+datePublished: '2018-02-01T16:33:52.494Z'
 title: '10 things you must do to survive in the wild, prepare for the worst.'
 author: []
 publisher:
@@ -124,9 +124,9 @@ For example burns are very painful and can cause scarring or death. Expose the b
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxlzDEOwiAUANDdU3z_3tIGS6op9QJuDo6G0m_BUlEgcn0bN-P2ptcpMIFuEk1KzwNjOecyzS9nNJXaL0w7q-eibbjgDS_qmvNW7OtjtKO08a4QkgoTJYnXwanHjP2ms8sEMeifUmWX_Nvo72kXNdHfiZDtmIzEnWgRDNnJrK2oEJRbcSaCZAguPrgRbj7AiWLcIgw-jBQkVsj6jqn-A4JEQTE" height="150" style=""></iframe>
 
-You liked this please share:
+If you liked this, please share:
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkMFOxDAMRH_FCoLTtmWFkBBqChf-gPsqJO42qE0q292wfD2utrBcfBjZ8zzTOhgIe2sGkZmfm0ZKFEGqfZ6amASTqIQoL-wJMR2Sm9Ce8zItLCHv7_T4wOStFJ23j2_SFwN-dMzWbF7VpC4xp-pjEcnJQHDiKo7faM3o6IibIvgl1tyU8gA72N-DDDEdGRQGKw1CBsnAC53iCSEmXUAocQw7mAlnRwh9pouaiaXefAlHJxisub79-8OQS-XzkpTbu5HRdO9r2JXzet1uG9e1mj_OAo7PycOa-K-yWe0VPNX_uysxHFG4_mStY3DEqIxF-urJdG1zMet-AJkwiZA" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkcFOxDAMRH_FCuKGm10hJITacuIPuKPQuE1Q21Sxs2H5elI2rPaSw3g0z560BlyksVNOZOMXrSV7EYrNEBbNzkR6LeMPjkMnubz3T28yZgXDbJg7Vd3458TPJBJWBdaIQfY_1KnZxImqIvQtnbrL-RE0HA8gzq8TwzkkWBIL2AASgFM8-ROBX4uBIPvZPsAWaSsEGEO8qCGyNDU3xflmf0dT9LYxXpfgPdcGfTzgBYZFw11EG1ACVhj6tRgIdxhWFhZWEXWFnLzp1DXxWFVn2ImZ-Gb0f74LGYeQ1nLyaGYm1b9nImm16Vseot8EDJ_XAfZur-tvs5ECXprbf8jeTiTcfHEpvjTNVEKTjPis-lZfwvpfuDekDQ" height="244" style=""></iframe>
 
 
 
