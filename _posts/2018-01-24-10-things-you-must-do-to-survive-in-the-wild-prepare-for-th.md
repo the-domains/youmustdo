@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   Back to the stone age? WW3 just came? EMP or Nuclear bomb just cut all
   electrics! Pack your backpack and do those things you must do.
-dateModified: '2018-02-01T16:57:49.970Z'
-datePublished: '2018-02-01T16:57:53.528Z'
+dateModified: '2018-02-01T16:57:53.807Z'
+datePublished: '2018-02-01T16:57:56.761Z'
 title: '10 things you must do to survive in the wild, prepare for the worst.'
 author: []
 publisher:
