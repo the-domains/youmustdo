@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   Back to the stone age? WW3 just came? EMP or Nuclear bomb just cut all
   electrics! Pack your backpack and do those things you must do.
-dateModified: '2018-02-01T16:34:09.634Z'
-datePublished: '2018-02-01T16:34:10.798Z'
+dateModified: '2018-02-01T16:36:31.689Z'
+datePublished: '2018-02-01T16:36:33.593Z'
 title: '10 things you must do to survive in the wild, prepare for the worst.'
 author: []
 publisher:
@@ -124,9 +124,13 @@ For example burns are very painful and can cause scarring or death. Expose the b
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxlzDEOwiAUANDdU3z_3tIGS6op9QJuDo6G0m_BUlEgcn0bN-P2ptcpMIFuEk1KzwNjOecyzS9nNJXaL0w7q-eibbjgDS_qmvNW7OtjtKO08a4QkgoTJYnXwanHjP2ms8sEMeifUmWX_Nvo72kXNdHfiZDtmIzEnWgRDNnJrK2oEJRbcSaCZAguPrgRbj7AiWLcIgw-jBQkVsj6jqn-A4JEQTE" height="150" style=""></iframe>
 
-If you liked this, please share:
+If you liked this, please share: 
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkcFOxDAMRH_FCuKGm10hJITacuIPuKPQuE1Q21Sxs2H5elI2rPaSw3g0z560BlyksVNOZOMXrSV7EYrNEBbNzkR6LeMPjkMnubz3T28yZgXDbJg7Vd3458TPJBJWBdaIQfY_1KnZxImqIvQtnbrL-RE0HA8gzq8TwzkkWBIL2AASgFM8-ROBX4uBIPvZPsAWaSsEGEO8qCGyNDU3xflmf0dT9LYxXpfgPdcGfTzgBYZFw11EG1ACVhj6tRgIdxhWFhZWEXWFnLzp1DXxWFVn2ImZ-Gb0f74LGYeQ1nLyaGYm1b9nImm16Vseot8EDJ_XAfZur-tvs5ECXprbf8jeTiTcfHEpvjTNVEKTjPis-lZfwvpfuDekDQ" height="244" style=""></iframe>
+
+You also may like:
+
+<article style=""><img src="https://imgflo.herokuapp.com/graph/851b8fd15e770b1/d59f0c88ec22ff4dfbb59120de396184/passthrough.png?input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F214ac062-88c1-4479-bf5f-680628290949.png&amp;width=496" /><h1>10 Best ways you must do to save money</h1><p>Why do you need a car if you can walk or ride a bicycle. If you really need a car why you buy a big pick-up instead of small economic car. Cars are painful waste of money. The price of the car (specially if its new = more taxes) Insurances + licences plates Fuel Repairs &amp; periodic maintenance...</p></article>
 
 
 
