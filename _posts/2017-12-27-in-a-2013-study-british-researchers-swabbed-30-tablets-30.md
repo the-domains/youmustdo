@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What’s the first thing you gonna do when you will buy and received
   your next used smartphone?
-dateModified: '2018-02-18T23:11:58.318Z'
-datePublished: '2018-02-18T23:11:59.401Z'
+dateModified: '2018-02-18T23:15:27.044Z'
+datePublished: '2018-02-18T23:15:28.664Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -168,7 +168,7 @@ Try this app for your twitter. Manage filter is excellent:
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f37790bf8716bc38096faed3af6b3246a7ffdf03.png" /><h1>10 best natural places you must visit that will spark your eyes.</h1><p>The immense Grand Canyon, with its layered bands of red rock of geological history. Viewpoints include Mather Point, Yavapai Observation Station and architect Mary Colter's Lookout Studio and her Desert View Watchtower. Lipan Point, with wide views of the canyon and Colorado River, is a popular, especially at sunrise and sunset.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f37790bf8716bc38096faed3af6b3246a7ffdf03.png" /><h1>10 best natural places you must visit that will spark your eyes.</h1><p>From the immense Grand Canyon to the Iceland natural pool you must do those things that will...</p></article>
 
 ...
 
