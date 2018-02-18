@@ -1,10 +1,10 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   The Victoria Falls one of the worlds largest waterfalls. On the Zambezi River
   which is the border of 2 countries Zambia and Zimbabwe.
-dateModified: '2018-02-18T23:02:36.623Z'
-datePublished: '2018-02-18T23:02:39.700Z'
+dateModified: '2018-02-18T23:02:59.513Z'
+datePublished: '2018-02-18T23:03:01.998Z'
 title: 10 best natural places you must visit that will spark your eyes.
 author: []
 publisher: {}
@@ -15,7 +15,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2018-02-18T22:33:32.132Z'
 url: 10-best-natural-places-you-must-visit-that-will-spark-your-e/index.html
-_type: Article
+_type: Blurb
 
 ---
 # 10 best natural places you must visit that will spark your eyes.
