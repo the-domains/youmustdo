@@ -13,7 +13,7 @@ keywords:
   - video phone
   - free
   - upload
-description: SUBSCRIBE
+description: and SUBSCRIBE
 app_links:
   - url: 'vnd.youtube://user/UCffhtIM83N2o0-Rg0O8UgjQ'
     type: ios
@@ -52,9 +52,9 @@ app_links:
     namespace: google
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/channel/UCffhtIM83N2o0-Rg0O8UgjQ?view_as=public'
-title: you mustdo
-datePublished: '2018-05-15T22:31:59.755Z'
-dateModified: '2018-05-15T22:31:57.835Z'
+title: Check youmustdo on YouTube
+datePublished: '2018-05-15T22:34:43.495Z'
+dateModified: '2018-05-15T22:34:42.289Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-05-15-you-mustdo.md
@@ -64,4 +64,4 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-<article style=""><h1>you mustdo</h1><p>SUBSCRIBE</p></article>
+<article style=""><h1>Check youmustdo on YouTube</h1><p>and SUBSCRIBE</p></article>
