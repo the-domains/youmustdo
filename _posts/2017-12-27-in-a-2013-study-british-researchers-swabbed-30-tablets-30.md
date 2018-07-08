@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What’s the first thing you gonna do when you will buy and received
   your next used smartphone?
-dateModified: '2018-07-08T06:46:44.159Z'
-datePublished: '2018-07-08T06:46:45.849Z'
+dateModified: '2018-07-08T06:46:54.548Z'
+datePublished: '2018-07-08T06:46:55.591Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -125,8 +125,6 @@ There can be up to 10 million dust mites in one bed alone -- and their faeces an
 
 Researchers looked to see whether or not certain **[handle][19]** types were more likely to accumulate bacteria. They found that lever handles sported the highest ratio of bacteria contaminants per use (6.38), followed by pull handles (2.24), then push plates (1.2). They theorize that this difference may be because pull handles and levers require more hand contact to open the doors, leading to a greater concentration of bacteria on the handle.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/41696222-b6da-4641-8571-f2058ef15d6e.png)
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVUMtuwyAQ_BXEgVtiSJAdt9nk0ku_osKwxjQGqoWqcr--tKlU9Tg7L82ew0wmIitkgXcd2bhLZm-i-cxpZ1zZSsW4tzl22Nl4zaDEG-iTWOGdlLCmos-0Aa5oK-UUbBEztEyxhnR7fgIpp95JK3uchqNyetAo1ah7qdWMo5aiQijFvJrS-g4NkrG3kPxLcP8Izj6Cqwvw4XDibMHglwp8bPdiKa-tzQNPmbMpk0MC3phoyIf06_tW1m1F4HfFQ8oJHzn7mf9nupy7-0cuX_JpXWw" height="150" style=""></iframe>
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwljksOgjAUAK_SvL0tHwNRKTsTV16hecADqqUlbZXI6UXZzWpmKmSjp17CGON8FsLNZDm1i-546yYx3taxBBbRDxQlqMagfQIL8WNIgntFoy2drbN0aZzvyO8MdaWngQXf7uKwmXFqMATsnD_grHnIOU64OotL-Kd6bSiI4pSru3urrFBZkuYqSVVSqvTIH_MADM02cf3dAdt7EhJgoq4E1l8REEPj" height="150" style=""></iframe>
 
