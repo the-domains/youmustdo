@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   Back to the stone age? WW3 just came? EMP or Nuclear bomb just cut all
   electrics! Pack your backpack and do those things you must do.
-dateModified: '2018-02-01T16:57:53.807Z'
-datePublished: '2018-02-01T16:57:56.761Z'
+dateModified: '2018-07-08T06:58:13.308Z'
+datePublished: '2018-07-08T06:58:15.193Z'
 title: '10 things you must do to survive in the wild, prepare for the worst.'
 author: []
 publisher:
@@ -44,8 +44,6 @@ You need light and small tool. Need a pocket knife or multi-tool with you at all
 
 You must familiarize yourself with how to build a shelter.But first **prepare **yourself now don't wait the last minute. You need to find a site close (but not too close) to water, wood, and other resources. Search the site near you **now,** because if you wait until a calamity like an EMP you will lose time searching your site! There are various types of shelters you can build. Overhead covering for warmth at night and protection from the elements. If you are in rocky, mountainous terrain, look for overhangs. Otherwise, use limbs and leaves or anything that can provide insulation. Pine needles usually blanket the ground in thick batches, excellent for bedding. If you'r not an handily guy, buy an **[emergency tent ][2]**that you can put in your backpack.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dae10bab-dda7-424b-983c-78f21cc9da7d.png)
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJztll1P2zAUhu_5FVUucge1HTtuGGYamyhDIKahsXU3kWMftxn5wjZ07NfPTdOO63USmtSTm5zXznuO7EdHOSmNlTWMnH-uQETLUvvFMSao-_lmAeV84Y8JXSXRqJZ2Xjb9BhGhTb7e1AtO2baqymYuoqaNRr1v0VoNdr1slYjG46U7bOSRrOWvtjmU2j07D_WRautxsJ6Dd-OHt7dgn0oFd2Bd2TaCIMTRhJD4poHLW4Hjmw6s9KulKfh3-sLXVXwt7T34T5VUIL7cxq59tOFNqtiCEQ8md10uXdnkvqxiqXP_3IHobKsflc9D0_ext1Ldh-7zUosfYatzhwTFdW_b9bbrpoPhfFU6FOnlGhovzhCe3lylfDaNV1XcS2Hl_lELabTUBGcFA4M0TjTHXONCY0QKrCCJ3aJd5sOBGVk56L_M2w4al4fOG1jmy7LR7VJ4-whxZ8MZ5aqtWiuSPmJf-mojIZSmCsXFfMhNH9HpwSjEyXh976cHJ3sA_g0AaHJ5_jU9m20B2AoDAASzpJgUhUzD5ReUaTRhJlWqAEIQ43QnAIxBiOE9AK8IAE8_sLvs2_kWgK0wAJBmGTUZ5WEGJOGhmmkNDHOpZEYpRTsDgNAegNcEgFxOP1_Pvv8BYCMMAOBJobjmgClQqXky4dKkKU9MBqTQSbYH4D8HIL2avT-_oC8mwCAMALCUSpAcOFVAFGaZUbTITIKYSahku02Av_8H-A3-q3uH" height="275" style=""></iframe>
 
 ## 4\. You will need **WATER**
 
