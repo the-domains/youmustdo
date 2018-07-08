@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What’s the first thing you gonna do when you will buy and received
   your next used smartphone?
-dateModified: '2018-07-08T06:44:40.714Z'
-datePublished: '2018-07-08T06:44:42.434Z'
+dateModified: '2018-07-08T06:44:55.762Z'
+datePublished: '2018-07-08T06:44:59.070Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -54,8 +54,6 @@ Did you know? Your toilet has a splash zone, and anything in the radius will pro
 
 It's worse if you _**don't **_clean correctly your _**ears**_.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/856a1888-c002-4e6b-96dc-8b832d54af66.png)
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJztlcGO2jAQhu_7FCiH3HaxndhxtnirtlKXUrGLRLvtLTL2BFwSJ7VNKX36hgBi7-2BAzfPP-N_Rv6k8ciUTtYw8GFXgYi2RofVPSao_f1mBWa5Cvck3QfRoJZuaWxfICJ0ig9FveCVa6rK2KWIbBMNet9F4zS4Q9opEQ2HW39r5Z2s5Z_G3krtdz5AfaeaethZLyH44c-3c3C_jIIXcN40VhCEMsQJiZ8tTOYCx88tOBn2qUcI7_Q41FU8lW4NYVZJBeLrPPbNxnUn72MHpZC-8L6oTBFMFUtdhF0LonWN3qjQyXYdByfVupu9MFoY7-UP6bv5CIrr3rftfQ9Td47Lfe-uSy_XYIN4j7Lk--fxZPoxlt5Y_1rYN_ikheIgKc-oKnFZsoRSQghTGnMkc5TLJParZlscXyy4DfQXi6YF6wtjCwvbYmusbrZ9NnoYDQ_wHm5uRleM_wsjw0_j-Xx8xngSjhglpjxNMM0xTVNS5nme0nKRY1QymTGmrxgvAiOnT19Sys4YT8IRI8sIpIlCHGFNGUZ4AWl3kAgooUCyK8aLwJhN2ePL5MMZ40k4YsSMIpQSueBprhKES8Q1SxlPNENJhq4YLwTjePZtxl8t1ZNwxJizpExVt0AXCiiinOOSJjohoDQi5b_8jX8B8gAYPg" height="275" style=""></iframe>
 
 ## \#5\. [Grocery Carts][5]
 
