@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What’s the first thing you gonna do when you will buy and received
   your next used smartphone?
-dateModified: '2018-07-08T06:44:28.045Z'
-datePublished: '2018-07-08T06:44:29.708Z'
+dateModified: '2018-07-08T06:44:40.714Z'
+datePublished: '2018-07-08T06:44:42.434Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -40,8 +40,6 @@ Hey! what the first thing you touch after the pee and poo? Always _**BEFORE**_ w
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5e85967-64a1-412c-bb82-d60855af5d4b.png)
 [Get 1 on eBay][2]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c9c1590-3b3b-4da4-8319-a31488d0a3c8.png)
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJztk01z0zAQhu_9FRkffGsjybZkl7gMyaEtEEInQyknz9paJyK2HCQFE349jvNBzwyHHHKTnpXe3dEzGqnSQI0D67YVpl6rpFveUkbWv94sUS2W7paFu403qMEslO4PpB457veHemAL01SV0ovU04036HPzxkg0-7IpUm84bO21hhuo4Xejr0HarXVY3xRNPeyiF-js8MfbOZqfqsBnNFY1OmWECBIz5s80vp-n1J-t0YDble7RvZMPrq78KZgVus8VFJh-mfu22ZhuZa1vsEzBZtZmlcqcqnyQmduuMV2bRm4K12G98p2BYtXNnimZKmvhO9huPkb8us9d97n7qbvExa5316XHNWqXjgmZTr7Gs0_ffLBK29dg1-BRpgmPgZGYs5BiyZEwWkgiEhokEQsjAr5dNm12eDFnNthfzJo1apspnWlss1Zp2bR91bsbDffy7q6uRheN_0vjZPqUPI4nfzUewUFjEJGwDKKcMQphFAGlNAoJ5ULIKAjz-KLxHDTyFzq5n9KHk8YTOGhEHqLEMGJi9y_Dzh4KJuK8QCICLvKLxnPQSD5MHj4-sVe_8QgOGsu4TEIksswDlgCDhAdICoyAkxI4LS8az0Gj4ONnMXmZnzSewEGj4HEOOeWYJCCTIpZ5RItERjQPMAmk-HeNfwDdNRn-" height="275" style=""></iframe>
 
 ## \#3\. [Rack & magazines][3] (in toilet and waiting room)
 
