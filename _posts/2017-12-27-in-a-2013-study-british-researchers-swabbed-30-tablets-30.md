@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What’s the first thing you gonna do when you will buy and received
   your next used smartphone?
-dateModified: '2018-07-08T06:45:16.191Z'
-datePublished: '2018-07-08T06:45:17.441Z'
+dateModified: '2018-07-08T06:45:55.652Z'
+datePublished: '2018-07-08T06:45:57.843Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -97,15 +97,12 @@ Quick, low-cost and secure solutions to pay and get paid globally: **[Payoneer][
 80% of cuddly **[toys][13]** harbour harmful bacteria - while one in four are contaminated with feces. 80% of cuddly toys found to harbour potentially dangerous bacteria. Tests showed 1 in 4 are contaminated with feces. A fifth have never been washed and 75% aren't washed after a child is ill!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ef683d5-f6f9-45f6-9b2e-ae8684fa9308.jpg)
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVUMtOwzAQ_JXIB9_aOJFVEugWIZWWhziAkOCGtrbjmsZrZBuh8PUYygG0t3nsjGbphojeVCkqYHUdlZ8RztHjZ6AZ6jSlbPxcBV-bWvnzAA1_A9nxEd5jwxVmY0OcIIcpIWlbXiW-QyITQVw0m-bpYbO-ub17vr_aPl5uWz5ACeSjo8P1GhaiFVJKoeTQDz1K1IiLTpi-lbpcxzO4lPAVUynTCp4jqoMj--L0P4JVH07nPbCTtmPV3ji7z8D6gicVw1jSLDAKrNqFqEszVhiP0Tr69X0r8zQaYEfFKQUyZ6z62eaPabWsj3utvgBHNWbA" height="150" style=""></iframe>
-
 ## \#11\. **[Mops & broom (handle)][14]**
 
 After repeated passes with the **[mop][14]**, the once-clean solution became contaminated with soils, germs and bacteria from the floor. This is problematic because it not only contaminates large swaths of the floor with pathogens that may have only been present in one specific area, but it also leaves a dirty film on the floor. As a result, the old mop-and-bucket method requires repeated passes and numerous rinses to achieve clean floors.
 
 But you know the worst part if you use old cotton mop? Each time you twist the dirty mop with your hand what do you always touch just after? The HANDLE! If you never disinfect handle there's a problem.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea6c78fa-9731-4bff-b9c9-193204442645.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13ea4260-8d19-48f2-a105-14af36feef69.png)
 
 ## \#12\. **[Handbag & purse][15]**
 
