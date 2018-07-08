@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What’s the first thing you gonna do when you will buy and received
   your next used smartphone?
-dateModified: '2018-07-08T06:46:02.763Z'
-datePublished: '2018-07-08T06:46:04.396Z'
+dateModified: '2018-07-08T06:46:18.702Z'
+datePublished: '2018-07-08T06:46:19.944Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -109,14 +109,10 @@ But you know the worst part if you use old cotton mop? Each time you twist the d
 Specially woman you know exactly what's going on in your bags...Extensive tests carried out by Initial Washroom Hygiene in 2013 found that the dirtiest item in the average handbag was bottles of old hand cream. These alone carried more bacteria than most toilet seats. 10,000 different bacteria present in just a few square centimetres of most **[handbags][15]**, which makes them dirtier than the average toilet seat.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d9592ff-004d-4fb9-a2c2-1c73e2a52624.png)
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJztk01z0zAQhu_9FRkffGujD8uyS10GmIFAYAqkEODiWUvrRMSWU0khlF-P46Qfdzj0kINmtO-u3t3RM3thagctjny4bbCItkaH5TllZP372RLNYhnOWbILolELbmHsUFBE5C7eFw2CV65rGmMXRWS7aDT4Vp3T6PZpp4poPN76Uwtn0MKfzp6C9rc-YHumunbcWy8w-PHN8xm6X0bhV3TedLZghEiSMRZfWXw3K2h8tUYHYZd6g-GFnoS2iT-AW2H42IDC4sss9t3G9TfvY4d1Ab70vmxMGUwTgy7D7RqLtev0RoVetqs4OFCrfvbS6MJ4Dz_B9_MxEreD73rw3U_dOy52vfsug9yiDcVLIhM2eTX_zmLwxvrHwq7BW12kUtFK5EiRCcWQMFULgoJixkBIDrFfdtvy8GPBbXB4WHZrtL40trS4LbfG6m47ZKPLi_Ee3uXJycUR4__CKFM5nb7_9oDxTjhgZEhFf1ASSFiVIScZAaw4UsZrBukR45PAmMiZmEj6aBsPwgFjwmtVq6qiTGR5jolEmqQ8S7RmMhfquI1PAiNNpp_nWTq_x3gvHDBKyOpcoADBlWCZTjlKxbSWmOqKVvyI8SlglOLTa_bj-vphG--EA0aVIwChAMBTmvCKiDrhPOE6zygInf0Dxr_xoBrG" height="275" style=""></iframe>
-
 ## \#13\. **[Watch & jewelry][16]**
 
 Anything you hang on yourself should be cleaned and disinfected about once a week. And washing your hands does not eliminate germs and bacteria from your **[jewelry][16]**. With rings that are complex, with nooks and crannies, it's best to go in with a brush. On top of this, your skin is constantly shedding epithelial cells. They can carry hundreds of thousands of potentially harmful microorganisms. Need a **[watch cleaner here][17]**.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ab03cb7-f303-41ee-978d-160f13eda2c8.png)
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJztlMty2yAUhvd-Co8W2iUGhIRITTpJJpPLjCdJ3UvSjQZxsWkk5AKO6j59ZfmS7tuFF95x_nP4z4FvYGy047Ua-rCqFItaI8P8DCKw-PVhrsxsHs4QXgfRsOZuZmxfwCKwizdFveCFa6rK2BmLbBMNe9-ycVK5TdoJFo1GrT-x_JTX_HdjT7j0Kx9UfSqaetRZz1Two58fp8q9GaG-KudNYxkCgIAcofjBqvspg_HDQjke1qkbFS7kbaireMLdqwqPFReKfZnGvlm6buV97JRm3BfeF5UpgqliLouwWii2cI1citDJ9jUOjovXbvbCSGa85z-47-ZDIK5730Xvu5m6c5yte3dderlWNrBLAK7h9fMTuIq5N9b_Lawb3ElGiM6hzKimQtBUplomXJQYQlzmnFMa-3nTFtsbC26p-o1Fs1DWF8YWVrVFa6xs2j4bnY9HG3jng8H4iPF_YQQ3F9-mt5N3jDthizFTCAuJMgp1mgiE8rzMSIYkTlOOiQJHjIeAkRD6Qj9_etlj3AtbjGWJEKZYZCnKUggIIoiCBOWIJCkAWh8xHgJGOHm6-55f4T3GvbDF2B0Da6wwB93vKpM0wwkEeQYyjSnQmB8xHgJGkl3i5Pnx_v017oQtxrzE3WPMkYZQEJoiLNO8TFIJIM2l4uRfMA7-ANA-GGc" height="275" style=""></iframe>
 
 ## \#14\. **[Pillow][18]**
 
