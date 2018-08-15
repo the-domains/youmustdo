@@ -8,8 +8,8 @@ description: >-
   survey, 75 percent of Americans said they use their smartphones while on the
   toilet. What’s the first thing you gonna do when you will buy and received
   your next used smartphone?
-dateModified: '2018-07-08T06:46:54.548Z'
-datePublished: '2018-07-08T06:46:55.591Z'
+dateModified: '2018-08-15T17:35:01.364Z'
+datePublished: '2018-08-15T17:35:07.850Z'
 title: 15 things you must clean but almost never do.
 author: []
 publisher: {}
@@ -119,8 +119,6 @@ Anything you hang on yourself should be cleaned and disinfected about once a wee
 There can be up to 10 million dust mites in one bed alone -- and their faeces and body parts can cause hay fever, eczema and asthma, while the bacteria in our beds can cause colds, allergic, flu and diarrhea. Tip: To check whether you should throw away your **[pillow][18]** is to fold it in half and see if it springs back into shape. If it doesn't, it is time for a change.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ae338d9-2ad0-4634-b0ac-e4f15deaf7ab.png)
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxlzDEOgjAUANDdU3z_LoVUCBqKF3BzcDSl_dBKoaRt6PV1NW5vep0EE2gUaFLarozlnAu9Dd7tuVgpMeWsmk9tzRte81NVcd42l-oWrRY2viVCkmGiJPA1OLnO2B86u0wQg_opZXbJ70YVyi_MLnKivxMhW52MwHPTIhiyk_m2TYkg3RcPIkiG4OmD0zD6AHeK8Ygw-KApCCyR9R2T_QeUgUFL" height="150" style=""></iframe>
-
 ## \#15\. **[Door handle][19]**
 
 Researchers looked to see whether or not certain **[handle][19]** types were more likely to accumulate bacteria. They found that lever handles sported the highest ratio of bacteria contaminants per use (6.38), followed by pull handles (2.24), then push plates (1.2). They theorize that this difference may be because pull handles and levers require more hand contact to open the doors, leading to a greater concentration of bacteria on the handle.
@@ -147,6 +145,8 @@ Try this app for your twitter. Manage filter is excellent:
 -----------------------------------------------------------------------------------------------------------------------------------
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f37790bf8716bc38096faed3af6b3246a7ffdf03.png" /><h1>10 best natural places you must visit that will spark your eyes.</h1><p>From the immense Grand Canyon to the Iceland natural pool you must do those things that will...</p></article>
+
+-----------------------------------------------------------------------------------------------------------------------------------
 
 ...
 
